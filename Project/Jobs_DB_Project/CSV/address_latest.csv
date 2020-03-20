@@ -1,0 +1,229 @@
+Building number,Street Name,City Id,State id,Address Id
+395, Chestnut Hill Ave,boston,massachusetts ,adr1
+69, Boston St,boston,massachusetts ,adr2
+n/a,n,boston,massachusetts ,adr3
+50, Forbes Road,boston,massachusetts ,adr4
+85, American Legion Hwy,boston,massachusetts ,adr5
+1, Seaport Lane,boston,massachusetts ,adr6
+200, Stuart St,boston,massachusetts ,adr7
+110, Huntington Ave,boston,massachusetts ,adr8
+100, Boardman St,boston,massachusetts ,adr9
+138,- th Ave,newyorkcity,newyork,adr10
+215, Chrystie St,newyorkcity,newyork,adr11
+570, Tenth Avenue,newyorkcity,newyork,adr12
+93, Bowery,newyorkcity,newyork,adr13
+338, West th Street,newyorkcity,newyork,adr14
+440, West th Street,newyorkcity,newyork,adr15
+215, E th St,newyorkcity,newyork,adr16
+49, West th Street,newyorkcity,newyork,adr17
+2528, Broadway,newyorkcity,newyork,adr18
+11750, Mills Dr,miami,florida,adr19
+4441, Collins Avenue,miami,florida,adr20
+3025, Collins Ave,miami,florida,adr21
+146, Biscayne Blvd,miami,florida,adr22
+131, Fairway Drive,miami,florida,adr23
+5001, NW th St.,miami,florida,adr24
+1601, Collins Ave,miami,florida,adr25
+50, Alhambra Plaza,miami,florida,adr26
+1000, NW Le Jeune Rd.,miami,florida,adr27
+162, E Ohio St,chicago,illinois,adr28
+6624, S Cicero Ave,chicago,illinois,adr29
+521, North Rush Street,chicago,illinois,adr30
+701, North Michigan Avenue,chicago,illinois,adr31
+163, East Walton Place,chicago,illinois,adr32
+17, E Monroe St,chicago,illinois,adr33
+71, E Wacker Dr,chicago,illinois,adr34
+505, N Michigan Ave,chicago,illinois,adr35
+111, W Huron St,chicago,illinois,adr36
+506, S Grand Ave,losangeles,california,adr37
+9876, Wilshire Blvd,losangeles,california,adr38
+6161, W Century Blvd,losangeles,california,adr39
+1020, Fedora Street,losangeles,california,adr40
+5249, W Century Blvd,losangeles,california,adr41
+3515, Wilshire Blvd,losangeles,california,adr42
+899, Francisco Street,losangeles,california,adr43
+888, Casino Dr.,losangeles,california,adr44
+14400, S Western Avenue,losangeles,california,adr45
+2880, Las Vegas Blvd S,lasvegas,nevada,adr46
+3555, Las Vegas Blvd S,lasvegas,nevada,adr47
+5051, Duke Ellington Way,lasvegas,nevada,adr48
+3850, Las Vegas Blvd S,lasvegas,nevada,adr49
+3900, S. Las Vegas Blvd,lasvegas,nevada,adr50
+3000, Paradise Road,lasvegas,nevada,adr51
+5735, Dean Martin Dr,lasvegas,nevada,adr52
+3355, Las Vegas Blvd S,lasvegas,nevada,adr53
+3535, Las Vegas Blvd South,lasvegas,nevada,adr54
+950, New York Ave NW,washingtondc,washington,adr55
+975, th Street SW,washingtondc,washington,adr56
+10, Thomas Circle NW,washingtondc,washington,adr57
+1440, Rhode Island Ave NW,washingtondc,washington,adr58
+1931, th St NW,washingtondc,washington,adr59
+1767, King St,washingtondc,washington,adr60
+2650, Virginia Ave NW,washingtondc,washington,adr61
+1500, New Hampshire Ave Nw,washingtondc,washington,adr62
+1400, Jefferson Davis Highway,washingtondc,washington,adr63
+440, th St,denver,colorado,adr64
+4849, Bannock Street,denver,colorado,adr65
+650, th St.,denver,colorado,adr66
+5940, Tower Rd,denver,colorado,adr67
+5980, Tower Rd,denver,colorado,adr68
+1190, Auraria Pkwy Ste A,denver,colorado,adr69
+1801, Wewatta St,denver,colorado,adr70
+6638, South Nome Street,denver,colorado,adr71
+200, W th Ave,denver,colorado,adr72
+683, Peachtree Street NE,atlanta,georgia,adr73
+267, Marietta Street NW,atlanta,georgia,adr74
+176, Peachtree St NE,atlanta,georgia,adr75
+165, Courtland Street NE,atlanta,georgia,adr76
+3459, Buckhead Loop Ne,atlanta,georgia,adr77
+2857, Paces Ferry Road SE,atlanta,georgia,adr78
+230, Peachtree St NE,atlanta,georgia,adr79
+800, Spring St Nw,atlanta,georgia,adr80
+265, Peachtree Center Ave Ne,atlanta,georgia,adr81
+630, Naamans Road,philadelphia,pennsylvania,adr82
+1, E Penn Sq,philadelphia,pennsylvania,adr83
+201, S. Christopher Columbus Blvd,philadelphia,pennsylvania,adr84
+1201, Market St,philadelphia,pennsylvania,adr85
+1628, Chestnut St,philadelphia,pennsylvania,adr86
+120, S th St,philadelphia,pennsylvania,adr87
+300, Rocky Run Pkwy,philadelphia,pennsylvania,adr88
+1201, Market St,philadelphia,pennsylvania,adr89
+21, N Juniper St,philadelphia,pennsylvania,adr90
+350, Johnnie Dodds Blvd,charleston,southcarolina,adr91
+155, Meeting St,charleston,southcarolina,adr92
+27, George Street,charleston,southcarolina,adr93
+20, Patriots Point Rd,charleston,southcarolina,adr94
+28, Patriots Point Road,charleston,southcarolina,adr95
+181, Church St,charleston,southcarolina,adr96
+250, Johnnie Dodds Blvd,charleston,southcarolina,adr97
+68, Wentworth Street,charleston,southcarolina,adr98
+2450, Prospect Drive,charleston,southcarolina,adr99
+400, Spring St,seattle,washington,adr100
+223, Andover Park E,seattle,washington,adr101
+1400, th Ave,seattle,washington,adr102
+4140, Roosevelt Way Ne,seattle,washington,adr103
+620, Stewart,seattle,washington,adr104
+2200, Fifth Avenue,seattle,washington,adr105
+527, Fairview Ave N,seattle,washington,adr106
+17338, International Blvd,seattle,washington,adr107
+107, Pine St.,seattle,washington,adr108
+1500, Canal St,neworleans,louisiana,adr109
+739, Canal Street,neworleans,louisiana,adr110
+1111, Gravier St,neworleans,louisiana,adr111
+610, Poydras St,neworleans,louisiana,adr112
+509, Decatur St.,neworleans,louisiana,adr113
+301, Camp Street,neworleans,louisiana,adr114
+4200, Old Gentilly Road,neworleans,louisiana,adr115
+12330, I  Service Rd,neworleans,louisiana,adr116
+1001, Toulouse St,neworleans,louisiana,adr117
+400, S th St,stlouis,missouri,adr118
+5915, Wilson Ave,stlouis,missouri,adr119
+823,- Washington Avenue,stlouis,missouri,adr120
+315, Chestnut St,stlouis,missouri,adr121
+999, N. nd St.,stlouis,missouri,adr122
+2, South th Street,stlouis,missouri,adr123
+3400, Rider Trl S,stlouis,missouri,adr124
+100, Carondelet Plaza,stlouis,missouri,adr125
+2211, Market Street,stlouis,missouri,adr126
+2545, W Highway a,sedona,arizona,adr127
+90, Ridge Trail Dr,sedona,arizona,adr128
+50, Willow Way,sedona,arizona,adr129
+4055, Navoti Dr,sedona,arizona,adr130
+400, North State Route A,sedona,arizona,adr131
+556, Hwy ,sedona,arizona,adr132
+1200, W Highway A,sedona,arizona,adr133
+100, Amara Lane,sedona,arizona,adr134
+20, North Hwy. A,sedona,arizona,adr135
+201, Beachwalk Street,honolulu,hawaii,adr136
+2005, Kalia Rd,honolulu,hawaii,adr137
+2424, Kalakaua Ave,honolulu,hawaii,adr138
+2500, Kuhio Ave,honolulu,hawaii,adr139
+2169, Kalia Rd,honolulu,hawaii,adr140
+1696, Ala Moana Blvd,honolulu,hawaii,adr141
+92,- Aliinui Dr.,honolulu,hawaii,adr142
+120, Kaiulani Ave,honolulu,hawaii,adr143
+1830, Ala Moana Blvd,honolulu,hawaii,adr144
+14811, Kruse Oaks Drive,portland,oregeon,adr145
+3828, NE nd Ave,portland,oregeon,adr146
+1021, NE Grand Avenue,portland,oregeon,adr147
+729, SW th Ave,portland,oregeon,adr148
+8225, Ne Wasco St,portland,oregeon,adr149
+6221, NE nd Ave,portland,oregeon,adr150
+7205, NE st Street,portland,oregeon,adr151
+17950, SW Mcewan Ave,portland,oregeon,adr152
+303, S.W. th Ave.,portland,oregeon,adr153
+2435, Atrium Way,nashville,tennessee,adr154
+415, th Avenue South,nashville,tennessee,adr155
+250, th Ave S,nashville,tennessee,adr156
+305, Korean Veterans Blvd,nashville,tennessee,adr157
+211, N st Street,nashville,tennessee,adr158
+1501, Demonbreun St,nashville,tennessee,adr159
+121, th Ave S,nashville,tennessee,adr160
+301, Union Street,nashville,tennessee,adr161
+711, Union Street,nashville,tennessee,adr162
+9121, N Interstate Hwy ,austin,texas,adr163
+101, Red River St,austin,texas,adr164
+700, San Jacinto Blvd,austin,texas,adr165
+111, East Cesar Chavez Street,austin,texas,adr166
+7622, I- North,austin,texas,adr167
+5812, I- North,austin,texas,adr168
+9721, Arboretum Blvd,austin,texas,adr169
+701, Congress Avenue,austin,texas,adr170
+909, E Koenig Ln,austin,texas,adr171
+111, S Broadway Street,natchez,mississippi,adr172
+639, S Canal St,natchez,mississippi,adr173
+84, Homochitto Street,natchez,mississippi,adr174
+645, S Canal Street,natchez,mississippi,adr175
+130, John R Junkin Drive,natchez,mississippi,adr176
+1358, John A. Quitman Blvd,natchez,mississippi,adr177
+645, S Canal Street,natchez,mississippi,adr178
+337, Devereaux Dr,natchez,mississippi,adr179
+1020, West th Avenue,anchorage,alaska,adr180
+1020, West th Avenue,anchorage,alaska,adr181
+4050, University Lake Dr,anchorage,alaska,adr182
+239, West th Ave,anchorage,alaska,adr183
+624, Rodeo Place,anchorage,alaska,adr184
+3501, Minnesota Dr and W th Ave,anchorage,alaska,adr185
+108, E th Ave,anchorage,alaska,adr186
+4411, Spenard Rd,anchorage,alaska,adr187
+4800, Spenard Road,anchorage,alaska,adr188
+123, Eden St,barharbor,maine,adr189
+100, Eden St,barharbor,maine,adr190
+39, Holland Avenue,barharbor,maine,adr191
+73, Mount Desert St,barharbor,maine,adr192
+90, Eden St,barharbor,maine,adr193
+452, State Highway ,barharbor,maine,adr194
+119, Eden St,barharbor,maine,adr195
+364, th St,sanfransisco,california,adr196
+386, Geary Street,sanfransisco,california,adr197
+2620, Jones Street,sanfransisco,california,adr198
+3100, Webster St,sanfransisco,california,adr199
+465, Grove Street,sanfransisco,california,adr200
+1625, Post St,sanfransisco,california,adr201
+1177, Airport Blvd,sanfransisco,california,adr202
+550, N Point St,sanfransisco,california,adr203
+250, Beach Street,sanfransisco,california,adr204
+3370, IH  North,sanantonio,texas,adr205
+100, W. Cesar Chavez Blvd,sanantonio,texas,adr206
+1610, E Sonterra Blvd,sanantonio,texas,adr207
+306, W Market Street,sanantonio,texas,adr208
+123, Losoya St,sanantonio,texas,adr209
+900, Dolorosa,sanantonio,texas,adr210
+16641, La Cantera Pkwy,sanantonio,texas,adr211
+2185, SW Loop ,sanantonio,texas,adr212
+320, Bonham,sanantonio,texas,adr213
+1700, Mccoy Rd,orlando,florida,adr214
+1255, S International Pkwy,orlando,florida,adr215
+221, East th Avenue,orlando,florida,adr216
+1060, Greenwood Blvd,orlando,florida,adr217
+1301, S Park Avenue,orlando,florida,adr218
+1040, Greenwood Blvd,orlando,florida,adr219
+6550, Adventure Way,orlando,florida,adr220
+6725, Adventure Way,orlando,florida,adr221
+1036, Greenwood Blvd,orlando,florida,adr222
+3200, S Orlando Drive,orlando,florida,adr223
+221, East th Avenue,orlando,florida,adr224
+3401, S Orlando Dr,orlando,florida,adr225
+590, Ava Ct,orlando,florida,adr226
+481, Deltona Blvd,orlando,florida,adr227
+100, N Alexander St,orlando,florida,adr228

@@ -1,0 +1,532 @@
+Company_Id,Job ID,Job Position Name,Posted Date,Location,url
+C0000258,R0007297,"Customer Service Rep, ",4/24/2019,820-Round Lake Beach,
+C0000258,R0007272,District Director of Operations-MO,4/24/2019,Missouri-Remote,
+C0000258,R0007287,Operations Support II,4/24/2019,"Fairfield, OH",
+C0000258,R0006312,"Sr. Analyst, Marketing Analytics",4/24/2019,"Cincinnati, OH",
+C0000258,R0007288,Store Manager,4/23/2019,"Redding, CA",
+C0000258,R0006859,Floating Store Manager- 2420,4/23/2019,"Detroit, MI",
+C0000258,R0007035,Customer Retail Service - PT Traverse City 6658,4/23/2019,"Traverse City, MI",
+C0000258,R0007238,"Sales and Service Specialist - Retail - Grand Blanc, MI",4/23/2019,"Grand Blanc, MI",
+C0000258,R0007258,Customer Service Support I - Retail,4/22/2019,"Sacramento, CA",
+C0000258,R0007211,Accountant I,4/19/2019,"Fairfield, OH",
+C0000258,R0007221,Field Management II,4/18/2019,Wisconsin-Remote,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Wisconsin-Remote/Field-Management-II_R0007275-1
+C0000258,R0007216,Customer Service Representative,4/18/2019,"Greenville, SC",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Fairfield-OH/Accountant-I_R0007220-1
+C0000258,R0007053,"Customer Service Representative, Texas City",4/18/2019,"Texas City, TX",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Providence-RI/PROVIDENCE-2766-FT-RETAIL-SALES---SERVICE-SPECIALIST_R0007128-1
+C0000258,R0005286,Customer Service Rep,4/17/2019,"Redding, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Riverside-CA/Sales---Service-Specialist---146-Riverside_R0007289-1
+C0000258,R0006399,Customer Service Representative,4/17/2019,"Redding, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Westland-MI/Customer-Service-Representative--4238_R0007296-1
+C0000258,R0006699,Store Manager,4/17/2019,"Redding, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Redford-MI/Customer-Service-Representative--5938_R0007284-1
+C0000258,R0007212,"Sales and Service Representative I - Retail Swartz Creek, MI",4/17/2019,"Swartz Creek, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Westland-MI/Customer-Service-Representative--4238_R0007285-1
+C0000258,R0007210,Customer Sales Rep - #5935,4/17/2019,"Grand Rapids, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0007297  /Customer-Service-Rep--820-Round-Lake-Beach_PostedYesterday-1
+C0000258,R0007194,Warwick Part Time Retail Sales & Specialist-1,4/16/2019,"Warwick, RI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Fairfield-OH/Operations-Support-II_R0007287-1
+C0000258,R0007193,Middletown Full Time Sales & Service Specialist,4/16/2019,"Middletown, RI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Cincinnati-OH/Sr--Analyst--Marketing-Analytics_R0006312-1
+C0000258,R0007203,CSR 1- #4119,4/16/2019,"Grand Rapids, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Redding-CA/Store-Manager_R0007288-1
+C0000258,R0007182,Customer Service Representative,4/16/2019,"Greenville, SC",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Detroit-MI/Floating-Store-Manager--2420_R0006859-1
+C0000258,R0007183,Customer Service Representative,4/16/2019,"Easley, SC",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Traverse City-MI/Customer-Retail-Service---PT-Traverse-City-6658_R0007035-1
+C0000258,R0007188,Sales and Service Store Manager  - FT Floating - 4177 Cadillac,4/16/2019,"Cadillac, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Grand Blanc-MI/Sales-and-Service-Specialist---Retail---Grand-Blanc--MI_R0007238-1
+C0000258,R0007181,Part Time Floating Loan Teller,4/16/2019,"Providence, RI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Sacramento-CA/Customer-Service-Support-I---Retail_R0007258-1
+C0000258,R0007187,CSR-Store 2792,4/15/2019,"Newport, TN",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Fairfield-OH/Accountant-I_R0007211-1
+C0000258,R0007158,Customer Service Support I - Retail,4/15/2019,"Rock Hill, SC",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Nebraska-Remote/Field-Management-II_R0007221-1
+C0000258,R0005715,"Sales and Service Specialist - Oxford, MI - 2874",4/15/2019,"Oxford, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Greenville-SC/Customer-Service-Representative_R0007216-1
+C0000258,R0007169,Customer Service Support - PT Floating - 6640 Bay City,4/15/2019,"Bay City, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Redding-CA/Customer-Service-Rep_R0005286-1
+C0000258,R0007137,Tax Accountant,4/15/2019,"Cincinnati, OH",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Redding-CA/Customer-Service-Representative_R0006399-1
+C0000258,R0007162,"Customer Service Rep - Beaumont, TX",4/12/2019,"Beaumont, TX",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Redding-CA/Store-Manager_R0006699-1
+C0000258,R0007164,"Customer Service Rep l-847, Joliet",4/12/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Swartz Creek-MI/Sales-and-Service-Representative-I---Retail-Swartz-Creek--MI_R0007212-1
+C0000258,R0007159,Customer Service Representative,4/12/2019,"Greenville, SC",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Grand Rapids-MI/Customer-Sales-Rep----5935_R0007210-1
+C0000258,R0006710,"Full Time Teller Woonsocket, RI",4/11/2019,"Woonsocket, RI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Warwick-RI/Warwick-Part-Time-Retail-Sales---Specialist-1_R0007194-1
+C0000258,R0007144,Customer Service Representative,4/11/2019,"Sacramento, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Middletown-RI/Middletown-Full-Time-Sales---Service-Specialist_R0007193-1
+C0000258,R0007141,Floating Store Manager,4/11/2019,"Providence, RI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Grand Rapids-MI/CSR-1---4119_R0007203-1
+C0000258,R0007143,Retail Field Auditor-1,4/11/2019,California-Remote,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Greenville-SC/Customer-Service-Representative_R0007182-1
+C0000258,R0006992,PT CSR- 6648,4/10/2019,"Detroit, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Easley-SC/Customer-Service-Representative_R0007183-1
+C0000258,R0006949,"Customer Service Rep - FT - Lincoln, NE $12-$14/hr",4/10/2019,"Lincoln, NE",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Cadillac-MI/Sales-and-Service-Store-Manager----FT-Floating---4177-Cadillac_R0007188-1
+C0000258,R0007121,"Sales and Service Customer Representative - Pontiac, MI",4/10/2019,"Pontiac, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Providence-RI/Part-Time-Floating-Loan-Teller_R0007181-1
+C0000258,R0005591,Sales & Service Rep-824-Glendale Heights,4/8/2019,"Glendale Heights, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Newport-TN/CSR-Store-2792_R0007187-1
+C0000258,R0007091,"Customer Service Representative PT Fremont, NE $11-$14/hr",4/8/2019,"Fremont, NE",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Rock Hill-SC/Customer-Service-Support-I---Retail_R0007158-1
+C0000258,R0007096,Customer Sales Rep #4175,4/8/2019,"Newaygo, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Oxford-MI/Sales-and-Service-Specialist---Oxford--MI---2874_R0005715-1
+C0000258,R0007085,Customer Service Support I - Retail,4/5/2019,"Stockton, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Bay City-MI/Customer-Service-Support---PT-Floating---6640-Bay-City_R0007169-1
+C0000258,R0007086,Sales and Service Specialist,4/5/2019,"Sacramento, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Cincinnati-OH/Tax-Accountant_R0007137-1
+C0000258,R0007083,Customer Service Support III - Retail 2116,4/5/2019,"Orange City, FL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Beaumont-TX/Customer-Service-Rep---Beaumont--TX_R0007162-1
+C0000258,R0007090,Sales and Service Representative - ,4/5/2019,"Greater Flint, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0007164  /Customer-Service-Rep-l-847--Joliet_Posted13DaysAgo-1
+C0000258,R0007070,PT Sales and Service Associate - 7117 Waterford,4/5/2019,"Waterford, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Greenville-SC/Customer-Service-Representative_R0007159-1
+C0000258,R0007077,"Sales and Service Specialist  I - Retail - Fort Gratiot, MI",4/5/2019,"Fort Gratiot, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Woonsocket-RI/Full-Time-Teller-Woonsocket--RI_R0006710-1
+C0000258,R0006991,PT CSR-5913,4/5/2019,"Detroit, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Sacramento-CA/Customer-Service-Representative_R0007144-1
+C0000258,R0007055,Customer Service Representative- 5913,4/5/2019,"Detroit, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Providence-RI/Floating-Store-Manager_R0007141-1
+C0000258,R0007063,"Customer Service Support I - Retail - Port Huron, MI",4/4/2019,"Port Huron, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Detroit-MI/PT-CSR--6648_R0006992-1
+C0000258,R0007042,Human Resources Business Partner,4/3/2019,"Cincinnati, OH",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Lincoln-NE/Customer-Service-Rep---FT---Lincoln--NE--12--14-hr_R0006949-1
+C0000258,R0006492,Sales and Service Associate - Traverse City - 6658,4/3/2019,"Traverse City, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Pontiac-MI/Sales-and-Service-Customer-Representative---Pontiac--MI_R0007121-1
+C0000258,R0007027,Customer Sales Rep #6643,4/2/2019,"Grand Rapids, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Glendale Heights-IL/Sales---Service-Rep-824-Glendale-Heights_R0005591-1
+C0000258,R0006997,Customer Service Rep-Aurora- 808,4/1/2019,"Aurora, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Fremont-NE/Customer-Service-Representative-PT-Fremont--NE--11--14-hr_R0007091-1
+C0000258,R0006975,Customer Service Rep l-847,4/1/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Newaygo-MI/Customer-Sales-Rep--4175_R0007096-1
+C0000258,R0006948,CUSTOMER SERVICE REPRESENTATIVE,3/26/2019,"Santa Rosa, CA, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Stockton-CA/Customer-Service-Support-I---Retail_R0007085-1
+C0000258,R0006935,Customer Service Support I - Retail,3/26/2019,"Sacramento, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Sacramento-CA/Sales-and-Service-Specialist_R0007086-1
+C0000258,R0006927,CSR,3/26/2019,"Ukiah, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Orange City-FL/Customer-Service-Support-III---Retail-2116_R0007083-1
+C0000258,R0006938,Retail Store Manager - Roseville - 5920,3/26/2019,"Roseville, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0007090  /Sales-and-Service-Representative---Greater-Flint--MI_Posted20DaysAgo-1
+C0000258,R0006892,Sales & Service Specialist - Chino 226,3/25/2019,"Chino, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Waterford-MI/PT-Sales-and-Service-Associate---7117-Waterford_R0007070-1
+C0000258,R0006353,"Senior Credit Analyst, Statistician",3/25/2019,"Cincinnati, OH",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Fort Gratiot-MI/Sales-and-Service-Specialist--I---Retail---Fort-Gratiot--MI_R0007077-1
+C0000258,R0006885,Customer Service Representative,3/25/2019,"Sacramento, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Detroit-MI/PT-CSR-5913_R0006991-1
+C0000258,R0006882,RI FLOATING STORE MANAGER,3/25/2019,"Providence, RI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Detroit-MI/Customer-Service-Representative--5913_R0007055-1
+C0000258,R0006860,Floating Sales and Service Associate - 6665 Oak Park,3/25/2019,"Oak Park, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Port Huron-MI/Customer-Service-Support-I---Retail---Port-Huron--MI_R0007063-1
+C0000258,R0006824,Customer Service Representative PT 7371 ,3/25/2019,"Saginaw, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Cincinnati-OH/Human-Resources-Business-Partner_R0007042-1
+C0000258,R0006821,Customer Service Representative PT 6655 ,3/25/2019,Mt Pleasant,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Traverse City-MI/Sales-and-Service-Associate---Traverse-City---6658_R0006492-1
+C0000258,R0006822,Customer Service Representative PT 7300 Essexville,3/25/2019,"Essexville, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Grand Rapids-MI/Customer-Sales-Rep--6643_R0007027-1
+C0000258,R0006823,Customer Service Representative PT 7321 Saginaw,3/25/2019,"Saginaw, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Aurora-IL/Customer-Service-Rep-Aurora--808_R0006997-1
+C0000258,R0005209,Customer Service Representative PT 5919 Saginaw,3/25/2019,"Saginaw, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0006975  /Customer-Service-Rep-l-847_Posted28DaysAgo-1
+C0000258,R0006819,Customer Service Representative PT 2761 ,3/25/2019,Houghton Lake,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Santa Rosa-CA/CUSTOMER-SERVICE-REPRESENTATIVE_R0006948-1
+C0000258,R0006820,Customer Service Representative PT 7127 Ludington,3/25/2019,"Ludington, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Sacramento-CA/Customer-Service-Support-I---Retail_R0006935-1
+C0000258,R0006789,Floating Store Manager - Oakland/Macomb County,3/25/2019,"Clinton Township, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Ukiah-CA/CSR_R0006927-1
+C0000258,R0006733,Customer Service Support I - Retail,3/25/2019,"Sacramento, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Roseville-MI/Retail-Store-Manager---Roseville---5920_R0006938-1
+C0000258,R0006734,Sales & Service Specialist - 232 Hemet,3/25/2019,"Hemet, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Chino-CA/Sales---Service-Specialist---Chino-226_R0006892-1
+C0000258,R0006735,Part Time Sales and Service Associate - 5907 Waterford -,3/25/2019,"Waterford, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Cincinnati-OH/Senior-Credit-Analyst--Statistician_R0006353-1
+C0000258,R0006719,Field Management II,3/25/2019,Michigan-Remote,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Sacramento-CA/Customer-Service-Representative_R0006885-1
+C0000258,R0006707,Store Manager (Hourly)-808- Aurora East,3/25/2019,"Aurora, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Providence-RI/RI-FLOATING-STORE-MANAGER_R0006882-1
+C0000258,R0006414,Customer Service Rep - 4202,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Oak Park-MI/Floating-Sales-and-Service-Associate---6665-Oak-Park_R0006860-1
+C0000258,R0006387,Customer Service Representative - 5584,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Saginaw-MI/Customer-Service-Representative-PT-7371-Saginaw_R0006824-1
+C0000258,R0006580,Customer Service Representative,3/25/2019,"Largo, FL, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0006821  /Customer-Service-Representative-PT-6655-Mt-Pleasant_Posted30DaysAgo-1
+C0000258,R0006550,Customer Service Specialist 2340,3/25/2019,"Ponca City, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Essexville-MI/Customer-Service-Representative-PT-7300-Essexville_R0006822-1
+C0000258,R0006526,Customer Service Support,3/25/2019,"York, SC, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Saginaw-MI/Customer-Service-Representative-PT-7321-Saginaw_R0006823-1
+C0000258,R0006325,Store Manager,3/25/2019,Round Lake Beach-820,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Saginaw-MI/Customer-Service-Representative-PT-5919-Saginaw_R0005209-1
+C0000258,R0006610,Store Manager,3/25/2019,"Hallandale, FL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0006819  /Customer-Service-Representative-PT-2761-Houghton-Lake_Posted30DaysAgo-1
+C0000258,R0006612,Store Manager,3/25/2019,"Port Saint Lucie, FL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Ludington-MI/Customer-Service-Representative-PT-7127-Ludington_R0006820-1
+C0000258,R0006625,Store Manager,3/25/2019,"Sebastian, FL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Clinton Township-MI/Floating-Store-Manager---Oakland-Macomb-County_R0006789-1
+C0000258,R0006674,Store Manager,3/25/2019,"Sarasota, FL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Sacramento-CA/Customer-Service-Support-I---Retail_R0006733-1
+C0000258,R0005820,Customer Sales & Service Associate –7294,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Hemet-CA/Sales---Service-Specialist---232-Hemet_R0006734-1
+C0000258,R0006007,Customer Service Represenative 5909,3/25/2019,"Sterling Heights, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Waterford-MI/Part-Time-Sales-and-Service-Associate---5907-Waterford--_R0006735-1
+C0000258,R0005931,Customer Service Representative -7114,3/25/2019,"Ionia, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Michigan-Remote/Field-Management-II_R0006719-1
+C0000258,R0006254,"Customer Service Representative 2368 Mobile, AL",3/25/2019,"Mobile, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Aurora-IL/Store-Manager--Hourly--808--Aurora-East_R0006707-1
+C0000258,R0005948,Customer Service Representative Part-Time OKC metro,3/25/2019,"Oklahoma City, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0006414  /Customer-Service-Rep---4202_Posted30DaysAgo-1
+C0000258,R0005896,Customer Service Representative,3/25/2019,"Ocala, FL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0006387  /Customer-Service-Representative---5584_Posted30DaysAgo-1
+C0000258,R0006118,Customer Service Representative,3/25/2019,"Sebastian, FL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Largo-FL/Customer-Service-Representative_R0006580-1
+C0000258,R0005878,Customer Service Support Rep I,3/25/2019,"Richmond, VA, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Ponca City-OK/Customer-Service-Specialist-2340_R0006550-1
+C0000258,R0005879,Customer Service Support Rep I,3/25/2019,"Charlottesville, VA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/York-SC/Customer-Service-Support_R0006526-1
+C0000258,R0005887,Customer Service Support Rep I,3/25/2019,"Lynchburg, VA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0006325  /Store-Manager-Round-Lake-Beach-820_Posted30DaysAgo-1
+C0000258,R0006013,Monroe - Sales and Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Hallandale-FL/Store-Manager_R0006610-1
+C0000258,R0006012,Oregon - Sales and Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Port Saint Lucie-FL/Store-Manager_R0006612-1
+C0000258,R0006016,Riverview - Sales and Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Sebastian-FL/Store-Manager_R0006625-1
+C0000258,R0005993,"Sales & Service Rep l, Crystal Lake-841",3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Sarasota-FL/Store-Manager_R0006674-1
+C0000258,R0005963,Sales & Services Specialist-805-Niles,3/25/2019,"Niles, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005820  /Customer-Sales---Service-Associate--7294_Posted30DaysAgo-1
+C0000258,R0006237,"Sales and Service Specialist - Dodge City, KS",3/25/2019,"Dodge City, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Sterling Heights-MI/Customer-Service-Represenative-5909_R0006007-1
+C0000258,R0006202,"Sales and Service Specialist - Garden City, KS",3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Ionia-MI/Customer-Service-Representative--7114_R0005931-1
+C0000258,R0006239,"Sales and Service Specialist - Independence, KS",3/25/2019,"Independence, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Mobile-AL/Customer-Service-Representative-2368-Mobile--AL_R0006254-1
+C0000258,R0006235,"Sales and Service Specialist - Junction City, KS",3/25/2019,"Junction City, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Oklahoma City-OK/Customer-Service-Representative-Part-Time-OKC-metro_R0005948-1
+C0000258,R0006227,"Sales and Service Specialist - Kansas City, KS",3/25/2019,"Kansas City, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Ocala-FL/Customer-Service-Representative_R0005896-1
+C0000258,R0006233,"Sales and Service Specialist - Liberal, KS",3/25/2019,"Liberal, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Sebastian-FL/Customer-Service-Representative_R0006118-1
+C0000258,R0006231,"Sales and Service Specialist - Manhattan, KS",3/25/2019,"Manhattan, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Richmond-VA/Customer-Service-Support-Rep-I_R0005878-1
+C0000258,R0006188,"Sales and Service Specialist - Newton, KS",3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Charlottesville-VA/Customer-Service-Support-Rep-I_R0005879-1
+C0000258,R0006194,"Sales and Service Specialist - Pittsburg, KS",3/25/2019,"Pittsburg, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Lynchburg-VA/Customer-Service-Support-Rep-I_R0005887-1
+C0000258,R0006192,"Sales and Service Specialist Wichita, KS",3/25/2019,"Wichita, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0006013  /Monroe---Sales-and-Service-Specialist_Posted30DaysAgo-1
+C0000258,R0006229,Sales and Service Specialist,3/25/2019,"Shawnee Mission, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0006012  /Oregon---Sales-and-Service-Specialist_Posted30DaysAgo-1
+C0000258,R0006015,Southgate - Sales and Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0006016  /Riverview---Sales-and-Service-Specialist_Posted30DaysAgo-1
+C0000258,R0006236,"Store Manager - Dodge City, KS",3/25/2019,"Dodge City, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005993  /Sales---Service-Rep-l--Crystal-Lake-841_Posted30DaysAgo-1
+C0000258,R0006201,"Store Manager - Garden City, KS",3/25/2019,"Garden City, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Niles-IL/Sales---Services-Specialist-805-Niles_R0005963-1
+C0000258,R0006238,"Store Manager - Independence, KS",3/25/2019,"Independence, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Dodge City-KS/Sales-and-Service-Specialist---Dodge-City--KS_R0006237-1
+C0000258,R0006226,"Store Manager - Kansas City, KS",3/25/2019,"Kansas City, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0006202  /Sales-and-Service-Specialist---Garden-City--KS_Posted30DaysAgo-1
+C0000258,R0006232,"Store Manager - Liberal, KS",3/25/2019,"Liberal, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Independence-KS/Sales-and-Service-Specialist---Independence--KS_R0006239-1
+C0000258,R0006230,"Store Manager - Manhattan, KS",3/25/2019,"Manhattan, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Junction City-KS/Sales-and-Service-Specialist---Junction-City--KS_R0006235-1
+C0000258,R0006186,"Store Manager - Newton, KS 2520",3/25/2019,"Newton, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Kansas City-KS/Sales-and-Service-Specialist---Kansas-City--KS_R0006227-1
+C0000258,R0006193,"Store Manager - Pittsburg, KS",3/25/2019,"Pittsburg, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Liberal-KS/Sales-and-Service-Specialist---Liberal--KS_R0006233-1
+C0000258,R0006228,"Store Manager - Shawnee Mission, KS",3/25/2019,"Shawnee Mission, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Manhattan-KS/Sales-and-Service-Specialist---Manhattan--KS_R0006231-1
+C0000258,R0006191,"Store Manager - Wichita, KS",3/25/2019,"Wichita, KS",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0006188  /Sales-and-Service-Specialist---Newton--KS_Posted30DaysAgo-1
+C0000258,R0006288,"STORE MANAGER- AMARILLO, TX",3/25/2019,"Amarillo, TX, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Pittsburg-KS/Sales-and-Service-Specialist---Pittsburg--KS_R0006194-1
+C0000258,R0006300,Store Manager-825,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Wichita-KS/Sales-and-Service-Specialist-Wichita--KS_R0006192-1
+C0000258,R0006301,Store Manager-847,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Shawnee Mission-KS/Sales-and-Service-Specialist_R0006229-1
+C0000258,R0005925,Store Manager,3/25/2019,"Durant, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0006015  /Southgate---Sales-and-Service-Specialist_Posted30DaysAgo-1
+C0000258,R0006060,Store Manager,3/25/2019,"Coweta, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Dodge City-KS/Store-Manager---Dodge-City--KS_R0006236-1
+C0000258,R0006014,Taylor - Sales and Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Garden City-KS/Store-Manager---Garden-City--KS_R0006201-1
+C0000258,R0006010,Toledo - Sales and Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Independence-KS/Store-Manager---Independence--KS_R0006238-1
+C0000258,R0006000,Ypsilanti - Sales and Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Kansas City-KS/Store-Manager---Kansas-City--KS_R0006226-1
+C0000258,R0005806,Customer Sales & Service Associate - 5913,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Liberal-KS/Store-Manager---Liberal--KS_R0006232-1
+C0000258,R0005805,Customer Sales & Service Associate -4238,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Manhattan-KS/Store-Manager---Manhattan--KS_R0006230-1
+C0000258,R0005807,Customer Sales & Service Associate- 5926,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Newton-KS/Store-Manager---Newton--KS-2520_R0006186-1
+C0000258,R0005814,Customer Sales & Service Associate –6645,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Pittsburg-KS/Store-Manager---Pittsburg--KS_R0006193-1
+C0000258,R0005815,Customer Sales & Service Associate –6648,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Shawnee Mission-KS/Store-Manager---Shawnee-Mission--KS_R0006228-1
+C0000258,R0005816,Customer Sales & Service Associate –6663,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Wichita-KS/Store-Manager---Wichita--KS_R0006191-1
+C0000258,R0005817,Customer Sales & Service Associate –7107,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Amarillo-TX/STORE-MANAGER--AMARILLO--TX_R0006288-1
+C0000258,R0005818,Customer Sales & Service Associate –7167,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0006300  /Store-Manager-825_Posted30DaysAgo-1
+C0000258,R0005819,Customer Sales & Service Associate –7219,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0006301  /Store-Manager-847_Posted30DaysAgo-1
+C0000258,R0005804,Customer Sales & Service Associate-2420,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Durant-OK/Store-Manager_R0005925-1
+C0000258,R0005809,Customer Sales & Service Associate-5938,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Coweta-OK/Store-Manager_R0006060-1
+C0000258,R0005796,Customer Service Rep- Joliet 847,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0006014  /Taylor---Sales-and-Service-Specialist_Posted30DaysAgo-1
+C0000258,R0005769,Customer Service Reprasenative- Store 5909,3/25/2019,"Sterling Heights, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0006010  /Toledo---Sales-and-Service-Specialist_Posted30DaysAgo-1
+C0000258,R0005771,Customer Service Represenative -5933,3/25/2019,"Sterling Heights, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0006000  /Ypsilanti---Sales-and-Service-Specialist_Posted30DaysAgo-1
+C0000258,R0005772,Customer Service Represenative Store 6650,3/25/2019,"Garden City, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005806  /Customer-Sales---Service-Associate---5913_Posted30DaysAgo-1
+C0000258,R0005770,Customer Service Representative- 5912,3/25/2019,"Oak Park, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005805  /Customer-Sales---Service-Associate--4238_Posted30DaysAgo-1
+C0000258,R0005773,Customer Service Representative 7254,3/25/2019,"Macomb, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005807  /Customer-Sales---Service-Associate--5926_Posted30DaysAgo-1
+C0000258,R0005726,"Customer Service Representative Full-Time 2373 Clanton, AL",3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005814  /Customer-Sales---Service-Associate--6645_Posted30DaysAgo-1
+C0000258,R0005727,"Sales and Service Representative 2759 Auburn, AL",3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005815  /Customer-Sales---Service-Associate--6648_Posted30DaysAgo-1
+C0000258,R0005738,"Store Manager 2409 Phenix City, AL",3/25/2019,"Phenix City, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005816  /Customer-Sales---Service-Associate--6663_Posted30DaysAgo-1
+C0000258,R0005746,Store Manager ,3/25/2019,"2410 Montgomery, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005817  /Customer-Sales---Service-Associate--7107_Posted30DaysAgo-1
+C0000258,R0005743,Store Manager ,3/25/2019,"2759 Auburn, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005818  /Customer-Sales---Service-Associate--7167_Posted30DaysAgo-1
+C0000258,R0005735,"Store Manager 9250 Valley, AL",3/25/2019,"Valley, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005819  /Customer-Sales---Service-Associate--7219_Posted30DaysAgo-1
+C0000258,R0005732,"Store Manager Mobile, AL (2368)",3/25/2019,"Mobile, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005804  /Customer-Sales---Service-Associate-2420_Posted30DaysAgo-1
+C0000258,R0005640,Customer Service Rep 808,3/25/2019,"Aurora, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005809  /Customer-Sales---Service-Associate-5938_Posted30DaysAgo-1
+C0000258,R0005722,Customer Service Representative ,3/25/2019,"2403 Mobile, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005796  /Customer-Service-Rep--Joliet-847_Posted30DaysAgo-1
+C0000258,R0005720,Customer Service Representative 5905,3/25/2019,"Clinton Township, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Sterling Heights-MI/Customer-Service-Reprasenative--Store-5909_R0005769-1
+C0000258,R0005721,Customer Service Representative 5920,3/25/2019,"Roseville, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Sterling Heights-MI/Customer-Service-Represenative--5933_R0005771-1
+C0000258,R0005725,Customer Service Representative ,3/25/2019,"Montgomery, AL 2410",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Garden City-MI/Customer-Service-Represenative-Store-6650_R0005772-1
+C0000258,R0005724,"Customer Service Representative Selma,",3/25/2019, AL (2362),https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Oak Park-MI/Customer-Service-Representative--5912_R0005770-1
+C0000258,R0005656,Sales and Service Specialist – Check ‘n Go Adrian 6644,3/25/2019,St. Louis Area,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Macomb-MI/Customer-Service-Representative-7254_R0005773-1
+C0000258,R0005709,Sales Support Specialist ,3/25/2019,"Wentzville, MO",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005726  /Customer-Service-Representative-Full-Time-2373-Clanton--AL_Posted30DaysAgo-1
+C0000258,R0005613,Sales and Service Specialist -,3/25/2019,Findlay 952,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005727  /Sales-and-Service-Representative-2759-Auburn--AL_Posted30DaysAgo-1
+C0000258,R0005590,Store Manager- Joliet 847,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Phenix City-AL/Store-Manager-2409-Phenix-City--AL_R0005738-1
+C0000258,R0005595,804- Store Manager,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005746  /Store-Manager-2410-Montgomery--AL_Posted30DaysAgo-1
+C0000258,R0005593,"825, Customer Support Retail",3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005743  /Store-Manager-2759-Auburn--AL_Posted30DaysAgo-1
+C0000258,R0005594,825-Sales and Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Valley-AL/Store-Manager-9250-Valley--AL_R0005735-1
+C0000258,R0005568,Store Sales Leader Mason City,3/25/2019,"Mason City, IA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Mobile-AL/Store-Manager-Mobile--AL--2368-_R0005732-1
+C0000258,R0005567,Store Sales Leader Newton,3/25/2019,"Newton, IA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Aurora-IL/Customer-Service-Rep-808_R0005640-1
+C0000258,R0005563,Store Sales Leader Iowa City,3/25/2019,"Iowa City, IA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005722  /Customer-Service-Representative-2403-Mobile--AL_Posted30DaysAgo-1
+C0000258,R0005562,Store Sales Leader Waterloo,3/25/2019,"Waterloo, IA, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Clinton Township-MI/Customer-Service-Representative-5905_R0005720-1
+C0000258,R0005549,Sales and Service Specialist 204 Waterloo,3/25/2019,"Waterloo, IA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Roseville-MI/Customer-Service-Representative-5920_R0005721-1
+C0000258,R0005550,Sales and Service Specialist 206 Iowa City,3/25/2019,"Iowa City, IA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005725  /Customer-Service-Representative-Montgomery--AL-2410_Posted30DaysAgo-1
+C0000258,R0005554,Sales and Service Specialist 2350 Fort Dodge,3/25/2019,"Fort Dodge, IA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005724  /Customer-Service-Representative-Selma--AL--2362-_Posted30DaysAgo-1
+C0000258,R0005555,Sales and Service Specialist 2364 Newton,3/25/2019,"Newton, IA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005656  /Sales-and-Service-Specialist---Check--n-Go-Adrian-6644_Posted30DaysAgo-1
+C0000258,R0005556,Sales and Service Specialist 2601 Mason City,3/25/2019,"Mason City, IA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Wentzville-MO/Sales-Support-Specialist-St--Louis-Area_R0005709-1
+C0000258,R0005557,Sales and Service Specialist 2650 Waterloo,3/25/2019,"Waterloo, IA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005613  /Sales-and-Service-Specialist--Findlay-952_Posted30DaysAgo-1
+C0000258,R0005558,Sales and Service Specialist 2898 Altoona,3/25/2019,"Altoona, IA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005590  /Store-Manager--Joliet-847_Posted30DaysAgo-1
+C0000258,R0005559,Store Sales Leader Des Moines,3/25/2019,"Des Moines, IA, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005595  /804--Store-Manager_Posted30DaysAgo-1
+C0000258,R0005526,Customer Service Rep,3/25/2019,"Sallisaw, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005593  /825--Customer-Support-Retail_Posted30DaysAgo-1
+C0000258,R0005527,Customer Service Rep,3/25/2019,"Tahlequah, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005594  /825-Sales-and-Service-Specialist_Posted30DaysAgo-1
+C0000258,R0005528,Customer Service Rep,3/25/2019,"Coweta, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Mason City-IA/Store-Sales-Leader-Mason-City_R0005568-1
+C0000258,R0005529,Customer Service Rep,3/25/2019,"Poteau, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Newton-IA/Store-Sales-Leader-Newton_R0005567-1
+C0000258,R0005531,Customer Service Rep,3/25/2019,"Ardmore, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Iowa City-IA/Store-Sales-Leader-Iowa-City_R0005563-1
+C0000258,R0005533,Exciting Store Manager Opportunity!!,3/25/2019,"Broken Arrow, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Waterloo-IA/Store-Sales-Leader-Waterloo_R0005562-1
+C0000258,R0005538,Sales and Service Specialist - Orlando,3/25/2019,"Orlando, FL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Waterloo-IA/Sales-and-Service-Specialist-204-Waterloo_R0005549-1
+C0000258,R0005545,Sales and Service Specialist 201 Des Moines,3/25/2019,"Des Moines, IA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Iowa City-IA/Sales-and-Service-Specialist-206-Iowa-City_R0005550-1
+C0000258,R0005547,Sales and Service Specialist 202 Sioux City,3/25/2019,"Sioux City, IA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Fort Dodge-IA/Sales-and-Service-Specialist-2350-Fort-Dodge_R0005554-1
+C0000258,R0005548,Sales and Service Specialist 203 Cedar Rapids,3/25/2019,"Cedar Rapids, IA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Newton-IA/Sales-and-Service-Specialist-2364-Newton_R0005555-1
+C0000258,R0005546,Sales and Service Specialist 208 Des Moines,3/25/2019,"Des Moines, IA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Mason City-IA/Sales-and-Service-Specialist-2601-Mason-City_R0005556-1
+C0000258,R0005474,Customer Service and Sales Representative ,3/25/2019," Oxford, MI - 2874",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Waterloo-IA/Sales-and-Service-Specialist-2650-Waterloo_R0005557-1
+C0000258,R0005462,Customer Service Rep $11-$14/hr PT Norfolk 2641,3/25/2019,"Norfolk, NE",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Altoona-IA/Sales-and-Service-Specialist-2898-Altoona_R0005558-1
+C0000258,R0005521,Customer Service Rep,3/25/2019,"Claremore, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Des Moines-IA/Store-Sales-Leader-Des-Moines_R0005559-1
+C0000258,R0005522,Customer Service Rep,3/25/2019,"McAlester, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Sallisaw-OK/Customer-Service-Rep_R0005526-1
+C0000258,R0005523,Customer Service Rep,3/25/2019,"Broken Arrow, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Tahlequah-OK/Customer-Service-Rep_R0005527-1
+C0000258,R0005524,Customer Service Rep,3/25/2019,"Muskogee, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Coweta-OK/Customer-Service-Rep_R0005528-1
+C0000258,R0005497,Store Manager,3/25/2019,"Hollywood, FL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Poteau-OK/Customer-Service-Rep_R0005529-1
+C0000258,R0005461,PT CSR Oklahoma City 2425,3/25/2019,"Oklahoma City, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Ardmore-OK/Customer-Service-Rep_R0005531-1
+C0000258,R0005450,Customer Service Rep $11-$14 hour PT Kearney,3/25/2019,"Kearney, NE",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Broken Arrow-OK/Exciting-Store-Manager-Opportunity--_R0005533-1
+C0000258,R0005460,Customer Service Rep $11-$14/hr PT Scottsbluff 2640,3/25/2019,"Scottsbluff, NE",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Orlando-FL/Sales-and-Service-Specialist---Orlando_R0005538-1
+C0000258,R0005453,Customer Service Rep $12-$14/hr PT Lincoln,3/25/2019,"Lincoln, NE",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Des Moines-IA/Sales-and-Service-Specialist-201-Des-Moines_R0005545-1
+C0000258,R0005455,Customer Service Rep PT $12-$14/hr 2639 Fremont,3/25/2019,"Fremont, NE",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Sioux City-IA/Sales-and-Service-Specialist-202-Sioux-City_R0005547-1
+C0000258,R0005449,Customer Service Rep PT $12-$14/hr North Platte,3/25/2019,"North Platte, NE",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Cedar Rapids-IA/Sales-and-Service-Specialist-203-Cedar-Rapids_R0005548-1
+C0000258,R0005459,FT CSR Anadarko 2391,3/25/2019,"Anadarko, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Des Moines-IA/Sales-and-Service-Specialist-208-Des-Moines_R0005546-1
+C0000258,R0005456,FT CSR ,3/25/2019,Edmond 2339,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005474  /Customer-Service-and-Sales-Representative---Oxford--MI---2874_Posted30DaysAgo-1
+C0000258,R0005454,PT CSR ,3/25/2019,Del City 2345,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Norfolk-NE/Customer-Service-Rep--11--14-hr-PT-Norfolk-2641_R0005462-1
+C0000258,R0005457,PT CSR Oklahoma City 2357,3/25/2019,"Oklahoma City, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Claremore-OK/Customer-Service-Rep_R0005521-1
+C0000258,R0005411,Customer Service Representative,3/25/2019,"Port Saint Lucie, FL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/McAlester-OK/Customer-Service-Rep_R0005522-1
+C0000258,R0005447,FT CSR El Reno 2299,3/25/2019,"El Reno, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Broken Arrow-OK/Customer-Service-Rep_R0005523-1
+C0000258,R0005363,Glendale Heights Customer Service Rep,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Muskogee-OK/Customer-Service-Rep_R0005524-1
+C0000258,R0005448,PT CSR Midwest City 2325,3/25/2019,"Oklahoma City, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Hollywood-FL/Store-Manager_R0005497-1
+C0000258,R0005362,Rockford Customer Service Rep,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Oklahoma City-OK/PT-CSR-Oklahoma-City-2425_R0005461-1
+C0000258,R0005323,Sales & Services Specialist-1308-Chicago,3/25/2019,"Chicago, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Kearney-NE/Customer-Service-Rep--11--14-hour-PT-Kearney_R0005450-1
+C0000258,R0005434,Sales and Service Specialist 2307,3/25/2019,"Miami, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Scottsbluff-NE/Customer-Service-Rep--11--14-hr-PT-Scottsbluff-2640_R0005460-1
+C0000258,R0005432,Sales and Service Specialist 2348,3/25/2019,"Henryetta, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Lincoln-NE/Customer-Service-Rep--12--14-hr-PT-Lincoln_R0005453-1
+C0000258,R0005326,Store Manager 6658 Traverse City,3/25/2019,"Traverse City, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Fremont-NE/Customer-Service-Rep-PT--12--14-hr-2639-Fremont_R0005455-1
+C0000258,R0005215,Customer Service Representative PT 6658 Traverse City,3/25/2019,"Traverse City, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/North Platte-NE/Customer-Service-Rep-PT--12--14-hr-North-Platte_R0005449-1
+C0000258,R0005219,Customer Service Representative,3/25/2019,"Oak Park, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Anadarko-OK/FT-CSR-Anadarko-2391_R0005459-1
+C0000258,R0005306,Customer Service Representative,3/25/2019,"Opa Locka, FL, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005456  /FT-CSR-Edmond-2339_Posted30DaysAgo-1
+C0000258,R0005307,Customer Service Representative,3/25/2019,"Lake Worth, FL, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005454  /PT-CSR-Del-City-2345_Posted30DaysAgo-1
+C0000258,R0005280,Store Manager,3/25/2019,"Socorro, NM",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Oklahoma City-OK/PT-CSR-Oklahoma-City-2357_R0005457-1
+C0000258,R0005154,Branch Manager,3/25/2019,"Sacramento, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Port Saint Lucie-FL/Customer-Service-Representative_R0005411-1
+C0000258,R0005194,Customer Sales Rep,3/25/2019,"El Paso, TX",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/El Reno-OK/FT-CSR-El-Reno-2299_R0005447-1
+C0000258,R0005211,Customer Service Representative FT 5945 Sault Ste Marie,3/25/2019,"Sault Sainte Marie, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005363  /Glendale-Heights-Customer-Service-Rep_Posted30DaysAgo-1
+C0000258,R0005208,Customer Service Representative PT 4177 Cadillac,3/25/2019,"Cadillac, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Oklahoma City-OK/PT-CSR-Midwest-City-2325_R0005448-1
+C0000258,R0005210,Customer Service Representative PT 5944 Gaylord,3/25/2019,"Gaylord, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005362  /Rockford-Customer-Service-Rep_Posted30DaysAgo-1
+C0000258,R0005212,Customer Service Representative PT 6640 Bay City,3/25/2019,"Bay City, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Chicago-IL/None_R0005323-1
+C0000258,R0005213,Customer Service Representative PT 6651 Midland,3/25/2019,"Midland, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Miami-OK/Sales-and-Service-Specialist-2307_R0005434-1
+C0000258,R0005214,Customer Service Representative PT 6655 Mount Pleasant,3/25/2019,"Mount Pleasant, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Henryetta-OK/Sales-and-Service-Specialist-2348_R0005432-1
+C0000258,R0005206,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Traverse City-MI/Store-Manager-6658-Traverse-City_R0005326-1
+C0000258,R0005156,"Sales and Service Customer Representative - Detroit, MI 7144",3/25/2019,"Detroit, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Traverse City-MI/Customer-Service-Representative-PT-6658-Traverse-City_R0005215-1
+C0000258,R0005155,"Sales and Service Customer Representative - Warren, MI 6662",3/25/2019,"Warren, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Oak Park-MI/Customer-Service-Representative_R0005219-1
+C0000258,R0005127,Customer Service Representative- 5902,3/25/2019,"Lansing, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Opa Locka-FL/Customer-Service-Representative_R0005306-1
+C0000258,R0005129,Customer Service Representative 2567,3/25/2019,"Brighton, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Lake Worth-FL/Customer-Service-Representative_R0005307-1
+C0000258,R0005126,Customer Service Representative 5901,3/25/2019,"Lansing, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Socorro-NM/Store-Manager_R0005280-1
+C0000258,R0005128,Customer Service Representative 5903,3/25/2019,"Jackson, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Sacramento-CA/Branch-Manager_R0005154-1
+C0000258,R0005135,Customer Service Representative,3/25/2019,"Melbourne, FL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/El Paso-TX/Customer-Sales-Rep_R0005194-1
+C0000258,R0005147,"Sales and Service Customer Representative - Detroit, MI 5924",3/25/2019,"Detroit, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Sault Sainte Marie-MI/Customer-Service-Representative-FT-5945-Sault-Ste-Marie_R0005211-1
+C0000258,R0005149,"Sales and Service Customer Representative - Detroit, MI 5949",3/25/2019,"Detroit, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Cadillac-MI/Customer-Service-Representative-PT-4177-Cadillac_R0005208-1
+C0000258,R0005151,"Sales and Service Customer Representative - Detroit, MI 6647",3/25/2019,"Detroit, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Gaylord-MI/Customer-Service-Representative-PT-5944-Gaylord_R0005210-1
+C0000258,R0005153,"Sales and Service Customer Representative - Detroit, MI 6660",3/25/2019,"Detroit, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Bay City-MI/Customer-Service-Representative-PT-6640-Bay-City_R0005212-1
+C0000258,R0005146,"Sales and Service Customer Representative - Hamtramck, MI 5923",3/25/2019,"Hamtramck, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Midland-MI/Customer-Service-Representative-PT-6651-Midland_R0005213-1
+C0000258,R0005148,"Sales and Service Customer Representative - Highland Park, MI 5948",3/25/2019,"Highland Park, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Mount Pleasant-MI/Customer-Service-Representative-PT-6655-Mount-Pleasant_R0005214-1
+C0000258,R0005145,"Sales and Service Customer Representative - Madison Heights, MI 5915",3/25/2019,"Madison Heights, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005206  /Sales---Service-Specialist_Posted30DaysAgo-1
+C0000258,R0005152,"Sales and Service Customer Representative - Redford, MI 6649",3/25/2019,"Redford, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Detroit-MI/Sales-and-Service-Customer-Representative---Detroit--MI-7144_R0005156-1
+C0000258,R0005144,"Sales and Service Customer Representative - Saint Clair Shores, MI 2663",3/25/2019,"Saint Clair Shores, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Warren-MI/Sales-and-Service-Customer-Representative---Warren--MI-6662_R0005155-1
+C0000258,R0005150,"Sales and Service Customer Representative - Warren, MI 6646",3/25/2019,"Warren, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Lansing-MI/Customer-Service-Representative--5902_R0005127-1
+C0000258,R0004888,CSR FT 1311 Bloomington,3/25/2019,"Bloomington, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Brighton-MI/Customer-Service-Representative-2567_R0005129-1
+C0000258,R0004889,CSR FT 1312 Peoria,3/25/2019,"Peoria, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Lansing-MI/Customer-Service-Representative-5901_R0005126-1
+C0000258,R0004894,CSR FT 2414 Belleville,3/25/2019,"Belleville, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Jackson-MI/Customer-Service-Representative-5903_R0005128-1
+C0000258,R0004893,CSR FT 2694 Springfield,3/25/2019,"Springfield, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Melbourne-FL/Customer-Service-Representative_R0005135-1
+C0000258,R0005125,Custoemr Service Representative 4143,3/25/2019,"Urbana, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Detroit-MI/Sales-and-Service-Customer-Representative---Detroit--MI-5924_R0005147-1
+C0000258,R0004886,Customer Sales & Service FT 840 Urbana,3/25/2019,"Urbana, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Detroit-MI/Sales-and-Service-Customer-Representative---Detroit--MI-5949_R0005149-1
+C0000258,R0004895,Customer Service and Support - FT - 1314 Champaign,3/25/2019,"Champaign, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Detroit-MI/Sales-and-Service-Customer-Representative---Detroit--MI-6647_R0005151-1
+C0000258,R0005066,Customer Service PT 301 Omaha $11-$13/hr,3/25/2019,"Omaha, NE",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Detroit-MI/Sales-and-Service-Customer-Representative---Detroit--MI-6660_R0005153-1
+C0000258,R0005124,Customer Service Representative- 4126,3/25/2019,"Greenville, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Hamtramck-MI/Sales-and-Service-Customer-Representative---Hamtramck--MI-5923_R0005146-1
+C0000258,R0004906,"Retail Store Manager - Milwaukee, WI Bank Hours!",3/25/2019,"Milwaukee, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Highland Park-MI/Sales-and-Service-Customer-Representative---Highland-Park--MI-5948_R0005148-1
+C0000258,R0004891,Sales & Service Specialist - FT 1315 Danville,3/25/2019,"Danville, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Madison Heights-MI/Sales-and-Service-Customer-Representative---Madison-Heights--MI-5915_R0005145-1
+C0000258,R0005029,Sales & Service Specialist- Harwood Hts-1317,3/25/2019,"Harwood Heights, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Redford-MI/Sales-and-Service-Customer-Representative---Redford--MI-6649_R0005152-1
+C0000258,R0005059,Sales & Service Specialist-810-Chicago,3/25/2019,"Chicago, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Saint Clair Shores-MI/Sales-and-Service-Customer-Representative---Saint-Clair-Shores--MI-2663_R0005144-1
+C0000258,R0005058,Sales & Service Specialist-Bensenville-801,3/25/2019,"Bensenville, IL, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Warren-MI/Sales-and-Service-Customer-Representative---Warren--MI-6646_R0005150-1
+C0000258,R0004890,Sales & Service Specialist FT 1316 Decatur,3/25/2019,"Decatur, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Bloomington-IL/CSR-FT-1311-Bloomington_R0004888-1
+C0000258,R0005028,Sales & Service Support- 1302 - Chicago,3/25/2019,"Chicago, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Peoria-IL/CSR-FT-1312-Peoria_R0004889-1
+C0000258,R0005096,Sales Representative - Full Time ,3/25/2019, Fresno,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Belleville-IL/CSR-FT-2414-Belleville_R0004894-1
+C0000258,R0005043,"Store Manager Alabaster, AL-2379 $15-18 Hourly",3/25/2019,"Alabaster, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Springfield-IL/CSR-FT-2694-Springfield_R0004893-1
+C0000258,R0005069,Store Manager-Store 1413,3/25/2019,"Memphis, TN, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005125  /Custoemr-Service-Representative-4143_Posted30DaysAgo-1
+C0000258,R0005042,"2362 Selma, AL Store Manager $15-18 per Hour",3/25/2019,"Selma, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Urbana-IL/Customer-Sales---Service-FT-840-Urbana_R0004886-1
+C0000258,R0004133,Arnold Customer SVC Rep,3/25/2019,"Arnold, MO",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Champaign-IL/Customer-Service-and-Support---FT---1314-Champaign_R0004895-1
+C0000258,R0004885,CSR FT 830 Harrisburg,3/25/2019,"Harrisburg, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Omaha-NE/Customer-Service-PT-301-Omaha--11--13-hr_R0005066-1
+C0000258,R0004817,Customer Representative-STORE 1412,3/25/2019,"Memphis, TN, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Greenville-MI/Customer-Service-Representative--4126_R0005124-1
+C0000258,R0004816,Customer Sales Rep- STORE 333,3/25/2019,"Southaven, MS, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Milwaukee-WI/Retail-Store-Manager---Milwaukee--WI-Bank-Hours-_R0004906-1
+C0000258,R0004715,Customer Service Rep - D702 ,3/25/2019,Evergreen,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Danville-IL/Sales---Service-Specialist---FT-1315-Danville_R0004891-1
+C0000258,R0004849,Customer Service Rep FT 2763,3/25/2019,"Omaha, NE, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Harwood Heights-IL/Sales---Service-Specialist--Harwood-Hts-1317_R0005029-1
+C0000258,R0004381,Customer Service Rep,3/25/2019,"El Paso, TX",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Chicago-IL/None_R0005059-1
+C0000258,R0004382,Customer Service Rep,3/25/2019,"Las Cruces, NM",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Bensenville-IL/None_R0005058-1
+C0000258,R0004109,Customer Service Representative - Marion 4202,3/25/2019,"Marion, IN",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Decatur-IL/Sales---Service-Specialist-FT-1316-Decatur_R0004890-1
+C0000258,R0004823,Customer Service Representative Bradenton 791,3/25/2019,"Sarasota, FL, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Chicago-IL/Sales---Service-Support--1302---Chicago_R0005028-1
+C0000258,R0004818,Customer Service Sales Rep-Store 1414,3/25/2019,"Memphis, TN, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0005096  /Sales-Representative---Full-Time---Fresno_Posted30DaysAgo-1
+C0000258,R0004409,Floating CSR supporting Copperas Cove & Temple,3/25/2019,"Temple, TX, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Alabaster-AL/Store-Manager-Alabaster--AL-2379--15-18-Hourly_R0005043-1
+C0000258,R0004711,FT Sales and Service Associate - Delavan 2316,3/25/2019,"Delavan, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Memphis-TN/Store-Manager-Store-1413_R0005069-1
+C0000258,R0004844,OCSS1R-Customer Service Support I-Retail-2687,3/25/2019,"Clinton Township, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Selma-AL/2362-Selma--AL-Store-Manager--15-18-per-Hour_R0005042-1
+C0000258,R0004123,Part Time Customer Service Rep,3/25/2019,"El Paso, TX",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Arnold-MO/Arnold-Customer-SVC-Rep_R0004133-1
+C0000258,R0004312,Retail Store Manager - Racine - 1230,3/25/2019,"Racine, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Harrisburg-IL/CSR-FT-830-Harrisburg_R0004885-1
+C0000258,R0003800,"Customer Service Representative - Bradenton-0791, Sarasota-0788",3/25/2019,"Bradenton, FL, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Memphis-TN/Customer-Representative-STORE-1412_R0004817-1
+C0000258,R0003813,"Providence & Warwick, RI Retail Sales & Service Specialist",3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Southaven-MS/Customer-Sales-Rep--STORE-333_R0004816-1
+C0000258,R0003814,"Woonsocket, RI Retail Sales & Service Specialist",3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Omaha-NE/Customer-Service-Rep-FT-2763-Omaha_R0004849-1
+C0000258,R0003815,"Johnston, RI Retail Sales & Service Specialist",3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/El Paso-TX/Customer-Service-Rep_R0004381-1
+C0000258,R0003816,"Middletown, RI Retail Sales & Service Specialist",3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Las Cruces-NM/Customer-Service-Rep_R0004382-1
+C0000258,R0004648,Sales and Service Associate,3/25/2019,"Southfield, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Marion-IN/Customer-Service-Representative---Marion-4202_R0004109-1
+C0000258,R0004444,"Sales and Service Customer Representative - Detroit, MI",3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Sarasota-FL/Customer-Service-Representative-Bradenton-791_R0004823-1
+C0000258,R0004807,Sales and Service Specialist - 1302,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Memphis-TN/Customer-Service-Sales-Rep-Store-1414_R0004818-1
+C0000258,R0004445,"Sales and Service Store Manager - Detroit, MI",3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Temple-TX/Floating-CSR-supporting-Copperas-Cove---Temple_R0004409-1
+C0000258,R0004727,Sales Associate,3/25/2019,"Simpsonville, SC",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Delavan-WI/FT-Sales-and-Service-Associate---Delavan-2316_R0004711-1
+C0000258,R0003957,Store Manager Detroit-5946,3/25/2019,"Detroit, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Clinton Township-MI/OCSS1R-Customer-Service-Support-I-Retail-2687_R0004844-1
+C0000258,R0003959,Store Manager Detroit-5946,3/25/2019,"Detroit, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/El Paso-TX/Part-Time-Customer-Service-Rep_R0004123-1
+C0000258,R0003953,Store Manager Las Cruces-7214,3/25/2019,"Las Cruces, NM",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Racine-WI/Retail-Store-Manager---Racine---1230_R0004312-1
+C0000258,R0004682,Store Manager Monroe 5904,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Bradenton-FL/Customer-Service-Representative---Bradenton-0791--Sarasota-0788_R0003800-1
+C0000258,R0003759,Store Manager Princeton-2922,3/25/2019,"Princeton, IN",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0003813  /Providence---Warwick--RI-Retail-Sales---Service-Specialist_Posted30DaysAgo-1
+C0000258,R0003817,"Providence & Warwick, RI Store Manager",3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0003814  /Woonsocket--RI-Retail-Sales---Service-Specialist_Posted30DaysAgo-1
+C0000258,R0003819,"Woonsocket, RI Store Manager",3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0003815  /Johnston--RI-Retail-Sales---Service-Specialist_Posted30DaysAgo-1
+C0000258,R0003820,"Johnston, RI Store Manager",3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0003816  /Middletown--RI-Retail-Sales---Service-Specialist_Posted30DaysAgo-1
+C0000258,R0003821,"Middletown, RI Store Manager",3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Southfield-MI/Sales-and-Service-Associate_R0004648-1
+C0000258,R0003975,Store Manager,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0004444  /Sales-and-Service-Customer-Representative---Detroit--MI_Posted30DaysAgo-1
+C0000258,R0004470,Store Manager,3/25/2019,"Houston, TX",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0004445  /Sales-and-Service-Store-Manager---Detroit--MI_Posted30DaysAgo-1
+C0000258,R0004812,Store Manager,3/25/2019,"Salt Lake City, UT",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Simpsonville-SC/Sales-Associate_R0004727-1
+C0000258,R0003374,Sales & Service Specialist Akron-0972,3/25/2019,"Akron, OH",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Las Cruces-NM/Store-Manager-Las-Cruces-7214_R0003953-1
+C0000258,R0003543,Sales & Service Specialist Belleville-2414,3/25/2019,"Belleville, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0004682  /Store-Manager-Monroe-5904_Posted30DaysAgo-1
+C0000258,R0003459,Sales & Service Specialist Boonville-2920,3/25/2019,"Boonville, IN",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0003817  /Providence---Warwick--RI-Store-Manager_Posted30DaysAgo-1
+C0000258,R0003650,Sales & Service Specialist Cape Girardeau-1132,3/25/2019,"Cape Girardeau, MO",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0003819  /Woonsocket--RI-Store-Manager_Posted30DaysAgo-1
+C0000258,R0003375,Sales & Service Specialist Cleveland-0987,3/25/2019,"Cleveland, OH",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0003820  /Johnston--RI-Store-Manager_Posted30DaysAgo-1
+C0000258,R0003538,Sales & Service Specialist Hannibal-1110,3/25/2019,"Hannibal, MO",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0003821  /Middletown--RI-Store-Manager_Posted30DaysAgo-1
+C0000258,R0003412,Customer Service Representative - Lakeland,3/25/2019,"Lakeland, FL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0003975  /Store-Manager_Posted30DaysAgo-1
+C0000258,R0003363,Sales & Service Specialist North Olmsted-0999,3/25/2019,"North Olmsted, OH",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Houston-TX/Store-Manager_R0004470-1
+C0000258,R0003376,Sales & Service Specialist Youngstown-0965,3/25/2019,"Youngstown, OH",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Salt Lake City-UT/Store-Manager_R0004812-1
+C0000258,R0003357,Store Manager Belleville-2414,3/25/2019,"Belleville, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Modesto-CA/Sales---Service-Specialist-Modesto-0117----Modesto-0162_R0003772-1
+C0000258,R0003354,Store Manager Champaign-1314,3/25/2019,"Champaign, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Memphis-TN/Sales---Service-Specialist-Memphis-1410----Memphis-1412_R0003476-1
+C0000258,R0003377,Store Manager Cleveland-0986,3/25/2019,"Cleveland, OH",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Akron-OH/Sales---Service-Specialist-Akron-0972_R0003374-1
+C0000258,R0003356,Store Manager Danville-1315,3/25/2019,"Danville, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Cape Girardeau-MO/Sales---Service-Specialist-Cape-Girardeau-1132_R0003650-1
+C0000258,R0003355,Store Manager Decatur-1316,3/25/2019,"Decatur, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Cleveland-OH/Sales---Service-Specialist-Cleveland-0987_R0003375-1
+C0000258,R0003438,Store Manager Harrisburg-0830,3/25/2019,"Harrisburg, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Hannibal-MO/Sales---Service-Specialist-Hannibal-1110_R0003538-1
+C0000258,R0003358,Store Manager O'Fallon-2443,3/25/2019,"O Fallon, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Lakeland-FL/Customer-Service-Representative---Lakeland_R0003412-1
+C0000258,R0003353,Store Manager Peoria-1312,3/25/2019,"Peoria, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/North Olmsted-OH/Sales---Service-Specialist-North-Olmsted-0999_R0003363-1
+C0000258,R0003359,Store Manager Springfield-2694,3/25/2019,"Springfield, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Youngstown-OH/Sales---Service-Specialist-Youngstown-0965_R0003376-1
+C0000258,R0003077,Sales & Service Specialist Munster-5565,3/25/2019,"Munster, IN",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Cleveland-OH/Store-Manager-Cleveland-0986_R0003377-1
+C0000258,R0002958,Sales & Service Specialist Belleville-2414,3/25/2019,"Belleville, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Munster-IN/Sales---Service-Specialist-Munster-5565_R0003077-1
+C0000258,R0003072,Sales & Service Specialist Bloomington-5588,3/25/2019,"Bloomington, IN",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Huntsville-AL/Sales---Service-Specialist-Huntsville-2417---Huntsville-2505_R0003066-1
+C0000258,R0002955,Sales & Service Specialist Champaign-1314,3/25/2019,"Champaign, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0003079  /Store-Manager_Posted30DaysAgo-1
+C0000258,R0002956,Sales & Service Specialist Danville-1315,3/25/2019,"Danville, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Delavan-WI/Sales---Service-Specialist-Delavan-2316_R0002802-1
+C0000258,R0003066,<div class=WLYF WJYF,3/25/2019,"Huntsville, AL, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Franklin-WI/Sales---Service-Specialist-Franklin-1231_R0002796-1
+C0000258,R0002959,Sales & Service Specialist O'Fallon-2443,3/25/2019,"O Fallon, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Milwaukee-WI/Sales---Service-Specialist-Milwaukee-1232_R0002797-1
+C0000258,R0002960,Sales & Service Specialist Springfield-2694,3/25/2019,"Springfield, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Milwaukee-WI/Sales---Service-Specialist-Milwaukee-1234_R0002798-1
+C0000258,R0002965,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Milwaukee-WI/Sales---Service-Specialist-Milwaukee-1235_R0002799-1
+C0000258,R0002966,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Milwaukee-WI/Sales---Service-Specialist-Milwaukee-1238_R0002800-1
+C0000258,R0002967,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Waukesha-WI/Sales---Service-Specialist-Waukesha-1239_R0002801-1
+C0000258,R0002968,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0002855  /Sales---Service-Specialist_Posted30DaysAgo-1
+C0000258,R0002969,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Beloit-WI/Sales---Service-Specialist-Beloit-1227_R0002793-1
+C0000258,R0002970,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Janesville-WI/Sales---Service-Specialist-Janesville-1226_R0002792-1
+C0000258,R0002971,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Milwaukee-WI/Sales---Service-Specialist-Milwaukee-1200_R0002790-1
+C0000258,R0002972,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Milwaukee-WI/Sales---Service-Specialist-Milwaukee-1204_R0002791-1
+C0000258,R0003079,Store Manager,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Racine-WI/Sales---Service-Specialist-Racine-1230_R0002795-1
+C0000258,R0003352,Store Manager Bloomington-1311,3/25/2019,"Bloomington, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Carson City-NV/Store-Manager-Carson-City-0554_R0002764-1
+C0000258,R0003349,Store Manager Moline-0807,3/25/2019,"Moline, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Memphis-TN/Sales---Service-Specialist-Memphis-1413_R0002463-1
+C0000258,R0003350,Store Manager Quincy-0835,3/25/2019,"Quincy, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Tampa-FL/Customer-Service-Representative---Tampa_R0002694-1
+C0000258,R0003351,Store Manager Urbana-0840,3/25/2019,"Urbana, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Fort Myers-FL/Customer-Service-Representative_R0002115-1
+C0000258,R0002953,Sales & Service Specialist Bloomington-1311,3/25/2019,"Bloomington, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Charlottesville-VA/Sales---Service-Specialist-Charlottesville-4075_R0002508-1
+C0000258,R0002802,Sales & Service Specialist Delavan-2316,3/25/2019,"Delavan, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Venice-FL/Customer-Service-Representative---Venice---Port-Charlotte_R0001721-1
+C0000258,R0002796,Sales & Service Specialist Franklin-1231,3/25/2019,"Franklin, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Richmond-VA/Sales---Service-Specialist-Richmond-4292_R0002479-1
+C0000258,R0002797,Sales & Service Specialist Milwaukee-1232,3/25/2019,"Milwaukee, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Richmond-VA/Sales---Service-Specialist-Richmond-4292_R0002507-1
+C0000258,R0002798,Sales & Service Specialist Milwaukee-1234,3/25/2019,"Milwaukee, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Oxford-MI/Store-Manager-Oxford-2874_R0001710-1
+C0000258,R0002799,Sales & Service Specialist Milwaukee-1235,3/25/2019,"Milwaukee, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Russellville-AL/Store-Manager-Russellville-2401_R0001717-1
+C0000258,R0002800,Sales & Service Specialist Milwaukee-1238,3/25/2019,"Milwaukee, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0002147  /Store-Manager---Greater-Flint--MI_Posted30DaysAgo-1
+C0000258,R0002950,Sales & Service Specialist Moline-0807,3/25/2019,"Moline, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Port Saint Lucie-FL/Store-Manager-Port-Saint-Lucie-0770----Sebastian-0780_R0002274-1
+C0000258,R0002954,Sales & Service Specialist Peoria-1312,3/25/2019,"Peoria, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Carson City-NV/Sales---Service-Specialist-Carson-City-0554_R0002765-1
+C0000258,R0002952,Sales & Service Specialist Quincy-0835,3/25/2019,"Quincy, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0001530  /Sales---Service-Specialist---Baytown_Posted30DaysAgo-1
+C0000258,R0002801,Sales & Service Specialist Waukesha-1239,3/25/2019,"Waukesha, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Albertville-AL/Sales---Service-Specialist-Albertville-2366_R0001548-1
+C0000258,R0002849,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Charleston-SC/Retail-Sales---Service-Specialist-Charleston--SC_R0001535-1
+C0000258,R0002852,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Decatur-AL/Sales---Service-Specialist-Decatur-2406_R0001505-1
+C0000258,R0002853,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Florence-AL/Sales---Service-Specialist-Florence-2375_R0001551-1
+C0000258,R0002854,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Greenville-SC/Sales---Service-Specialist-Greenville-1025---Simpsonville-2250_R0001495-1
+C0000258,R0002855,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Guntersville-AL/Sales---Service-Specialist-Guntersville-2365_R0001547-1
+C0000258,R0002857,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Hardeeville-SC/Retail-Sales---Service-Specialist-Hardeeville--SC_R0001538-1
+C0000258,R0002901,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Madera-CA/Sales---Service-Specialist-Madera-0108_R0001657-1
+C0000258,R0002902,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Madison-AL/Sales---Service-Specialist-Madison-2770_R0001549-1
+C0000258,R0002903,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Muscle Shoals-AL/Sales---Service-Specialist-Muscle-Shoals-2407_R0001552-1
+C0000258,R0002904,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Myrtle Beach-SC/Retail-Sales---Service-Specialist-Myrtle-Beach--SC_R0001536-1
+C0000258,R0002850,Store Manager,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Orangeburg-SC/Retail-Sales---Service-Specialist-Orangeburg--SC_R0001537-1
+C0000258,R0002851,Store Manager,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Russellville-AL/Sales---Service-Specialist-Russellville-2401_R0001502-1
+C0000258,R0002793,Sales & Service Specialist Beloit-1227,3/25/2019,"Beloit, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0001499  /Sales---Service-Specialist_Posted30DaysAgo-1
+C0000258,R0002792,Sales & Service Specialist Janesville-1226,3/25/2019,"Janesville, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Charleston-SC/Store-Manager-Charleston-1011_R0001521-1
+C0000258,R0002794,Sales & Service Specialist Kenosha-1228,3/25/2019,"Kenosha, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Hardeeville-SC/Store-Manager-Hardeeville--SC_R0001523-1
+C0000258,R0002790,Sales & Service Specialist Milwaukee-1200,3/25/2019,"Milwaukee, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Huntsville-AL/Store-Manager-Huntsville-2417_R0001550-1
+C0000258,R0002791,Sales & Service Specialist Milwaukee-1204,3/25/2019,"Milwaukee, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Orangeburg-SC/Store-Manager-Orangeburg--SC_R0001524-1
+C0000258,R0002795,Sales & Service Specialist Racine-1230,3/25/2019,"Racine, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Myrtle Beach-SC/Store-Manager_R0001478-1
+C0000258,R0002786,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0001498  /Store-Manager_Posted30DaysAgo-1
+C0000258,R0002787,Store Manager,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/R0006706  /Store-Manager-Aurora-808_Posted30DaysAgo-1
+C0000258,R0002764,Store Manager Carson City-0554,3/25/2019,"Carson City, NV",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Brownsville-TX/Customer-Service-Support-I---Retail_R0006661-1
+C0000258,R0001871,Sales & Service Specialist Lombard-0804,3/25/2019,"Lombard, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Spartanburg-SC/Customer-Support-1_R0006655-1
+C0000258,R0002463,Sales & Service Specialist Memphis-1413,3/25/2019,"Memphis, TN",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Cincinnati-OH/Floating-CSR_R0006659-1
+C0000258,R0002694,Customer Service Representative - Tampa,3/25/2019,"Tampa, FL, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Oklahoma City-OK/Store-Manager-OKC-Metro_R0006670-1
+C0000258,R0002115,Customer Service Representative,3/25/2019,"Fort Myers, FL, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Pinole-CA/Customer-Service-Representative_R0006627-1
+C0000258,R0002508,Sales & Service Specialist Charlottesville-4075,3/25/2019,"Charlottesville, VA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Omaha-NE/Customer-Service-Support-I---Retail_R0006571-1
+C0000258,R0002310,Sales & Service Specialist Cicero-1321,3/25/2019,"Cicero, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Farmersville-CA/Farmersville-2839-Store-Manager_R0006622-1
+C0000258,R0001878,Sales & Service Specialist Harwood Heights-1317,3/25/2019,"Harwood Heights, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Mount Pleasant-SC/Mount-Pleasant-Part-Time-Retail-Sales---Service-Specialist_R0006592-1
+C0000258,R0002311,Sales & Service Specialist Melrose Park-2661,3/25/2019,"Melrose Park, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Citrus Heights-CA/Sales-and-Service-Specialist----Citrus-Heights-3004_R0006566-1
+C0000258,R0001879,Sales & Service Specialist Oak Park-0819,3/25/2019,"Oak Park, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Valparaiso-IN/Customer-Service---Floater-2495_R0006510-1
+C0000258,R0001721,Customer Service Representative - Venice & Port Charlotte,3/25/2019,"Venice, FL, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/New Braunfels-TX/Customer-Service-Represenative-6839_R0006514-1
+C0000258,R0001875,Sales & Service Specialist Princeton-2922,3/25/2019,"Princeton, IN",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Stanton-CA/Customer-Service-Representative_R0006516-1
+C0000258,R0002479,Sales & Service Specialist Richmond-4292,3/25/2019,"Richmond, VA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Santa Ana-CA/Customer-Service-Support-I---Retail_R0006519-1
+C0000258,R0002507,Sales & Service Specialist Richmond-4292,3/25/2019,"Richmond, VA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Long Beach-CA/Customer-Service-Support-I---Retail_R0006520-1
+C0000258,R0001877,Sales & Service Specialist Skokie-0813,3/25/2019,"Skokie, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Hawaiian Gardens-CA/Customer-Service-Support-I---Retail_R0006521-1
+C0000258,R0002781,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Oceanside-CA/Customer-Service-Support-I---Retail_R0006531-1
+C0000258,R0002782,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Saint George-UT/Customer-Service-Support-I---Retail_R0006559-1
+C0000258,R0001710,Store Manager Oxford-2874,3/25/2019,"Oxford, MI, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Paris-TX/PT-CSR-6921-Paris-texas_R0006557-1
+C0000258,R0001717,Store Manager Russellville-2401,3/25/2019,"Russellville, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Huntsville-TX/Sales---Service-Specialist-Huntsville_R0006560-1
+C0000258,R0002147,"Store Manager - Greater Flint, MI",3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Alvin-TX/Banker---Sales-Rep_R0006436-1
+C0000258,R0002274,<div class=WLYF WJYF,3/25/2019,"Port Saint Lucie, FL, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Princeton-IN/Customer-Service-Representative-2922_R0006485-1
+C0000258,R0002765,Sales & Service Specialist Carson City-0554,3/25/2019,"Carson City, NV",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Austin-TX/Customer-Service-Support-6924_R0006425-1
+C0000258,R0001530,Sales & Service Specialist - Baytown,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Melbourne-FL/Customer-Service-Support-I---Retail_R0006403-1
+C0000258,R0001548,Sales & Service Specialist Albertville-2366,3/25/2019,"Albertville, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Mobile-AL/Floating-Customer-Service-Support-I---Retail-Mobile--AL-2368_R0006431-1
+C0000258,R0001535,"Retail Sales & Service Specialist Charleston, SC",3/25/2019,"Charleston, SC",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Conroe-TX/Sales---Service-Specialist-6793-Conroe_R0006443-1
+C0000258,R0001505,Sales & Service Specialist Decatur-2406,3/25/2019,"Decatur, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Woonsocket-RI/Woonsocket-Part-Time-Teller_R0006423-1
+C0000258,R0001551,Sales & Service Specialist Florence-2375,3/25/2019,"Florence, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Lansing-MI/Customer-Service-Representative--Float_R0006368-1
+C0000258,R0001495,Sales & Service Specialist Greenville-1025 & Simpsonville-2250,3/25/2019,"Greenville, SC, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Salt Lake City-UT/Customer-Service-Support-I---Retail_R0006392-1
+C0000258,R0001547,Sales & Service Specialist Guntersville-2365,3/25/2019,"Guntersville, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Palestine-TX/Customer-Service-Support-III---Retail_R0006369-1
+C0000258,R0001538,"Retail Sales & Service Specialist Hardeeville, SC",3/25/2019,"Hardeeville, SC",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Broken Arrow-OK/Customer-Service-Support-III---Retail_R0006383-1
+C0000258,R0001657,Sales & Service Specialist Madera-0108,3/25/2019,"Madera, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Covington-KY/Floating-Customer-Service-Rep-Covington--KY_R0006372-1
+C0000258,R0001549,Sales & Service Specialist Madison-2770,3/25/2019,"Madison, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Indianapolis-IN/Sales-and-Service-Specialist----Indianapolis-5591_R0006374-1
+C0000258,R0001552,Sales & Service Specialist Muscle Shoals-2407,3/25/2019,"Muscle Shoals, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Meridian-ID/Customer-Service-Representative_R0006198-1
+C0000258,R0001536,"Retail Sales & Service Specialist Myrtle Beach, SC",3/25/2019,"Myrtle Beach, SC",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Bakersfield-CA/Customer-Service-Representative_R0006248-1
+C0000258,R0001537,"Retail Sales & Service Specialist Orangeburg, SC",3/25/2019,"Orangeburg, SC",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Sonora-CA/PT-Customer-Service-Representative_R0006161-1
+C0000258,R0001502,Sales & Service Specialist ,3/25/2019,"Russellville, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Redford-MI/Sales-and-Service-Specialist-I-Redford-6649_R0006266-1
+C0000258,R0001499,Sales & Service Specialist,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Anaheim-CA/STM-252_R0006172-1
+C0000258,R0001521,Store Manager Charleston-1011,3/25/2019,"Charleston, SC",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Milwaukee-WI/Store-Manager-1204_R0006306-1
+C0000258,R0001523,"Store Manager Hardeeville, SC",3/25/2019,"Hardeeville, SC",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Janesville-WI/Store-Manager-1226_R0006307-1
+C0000258,R0001550,Store Manager Huntsville-2417,3/25/2019,"Huntsville, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Tracy-CA/Store-Manager_R0006293-1
+C0000258,R0001524,"Store Manager Orangeburg, SC",3/25/2019,"Orangeburg, SC",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Elizabethtown-KY/Elizabethtown-CSR_R0006051-1
+C0000258,R0001478,Store Manager,3/25/2019,"Myrtle Beach, SC",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Wausau-WI/Sales-and-Service-Representative-1214_R0006131-1
+C0000258,R0001498,Store Manager,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Boise-ID/Sales-and-Service-Specialist----Boise--Area_R0006058-1
+C0000258,R0006706,Store Manager Aurora-808,3/25/2019,,https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Pico Rivera-CA/Sales-Training-Manager_R0006112-1
+C0000258,R0006661,Customer Service Support I - Retail,3/25/2019,"Brownsville, TX",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Seaside-CA/Seaside-Full-Time-Store-Manager_R0006068-1
+C0000258,R0006655,Customer Support 1,3/25/2019,"Spartanburg, SC",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Prescott-AZ/Store-Manager--Prescott--AZ_R0006040-1
+C0000258,R0006659,Floating CSR,3/25/2019,"Cincinnati, OH",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Fresno-CA/Store-Manager-Full-Time-125-Fresno_R0006069-1
+C0000258,R0006670,Store Manager OKC Metro,3/25/2019,"Oklahoma City, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Lakeland-FL/Store-Manager_R0006038-1
+C0000258,R0006627,Customer Service Representative,3/25/2019,"Pinole, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Montgomery-AL/Customer-Service-Representative-Montgomery-AL-2410_R0005984-1
+C0000258,R0006571,Customer Service Support I - Retail,3/25/2019,"Omaha, NE, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Franklin-WI/Customer-Service-Support-1231_R0005992-1
+C0000258,R0006622,Farmersville 2839 Store Manager,3/25/2019,"Farmersville, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Hastings-MI/Customer-Service-Support-I---Retail_R0006003-1
+C0000258,R0006592,Mount Pleasant Part Time Retail Sales & Service Specialist,3/25/2019,"Mount Pleasant, SC",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Bedford-TX/Sales-and-Service-Rep---Bedford-TX_R0005982-1
+C0000258,R0006566,Sales and Service Specialist -  Citrus Heights-3004,3/25/2019,"Citrus Heights, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Paso Robles-CA/Sales-and-Service-Specialist----Paso-Robles-0195_R0005988-1
+C0000258,R0006510,Customer Service - Floater 2495,3/25/2019,"Valparaiso, IN",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Leeds-AL/Store-Manager-2693-Leeds--AL_R0005956-1
+C0000258,R0006514,Customer Service Represenative 6839,3/25/2019,"New Braunfels, TX",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/La Habra-CA/CSR-PT-240_R0005650-1
+C0000258,R0006516,Customer Service Representative,3/25/2019,"Stanton, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/North Platte-NE/Customer-Service-Rep-PT-North-Platte--11--13-hr_R0005911-1
+C0000258,R0006519,Customer Service Support I - Retail,3/25/2019,"Santa Ana, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Schaumburg-IL/Customer-Service-Representative--825_R0005756-1
+C0000258,R0006520,Customer Service Support I - Retail,3/25/2019,"Long Beach, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/San Diego-CA/Customer-Service-Support-I---Retail_R0005951-1
+C0000258,R0006521,Customer Service Support I - Retail,3/25/2019,"Hawaiian Gardens, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Hollywood-FL/Floater-Store-Manager_R0005768-1
+C0000258,R0006531,Customer Service Support I - Retail,3/25/2019,"Oceanside, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Kansas City-KS/Floating-Store-Manager-2558_R0005672-1
+C0000258,R0006559,Customer Service Support I - Retail,3/25/2019,"Saint George, UT",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Dallas-TX/PT-CSR-6869-Coit-Rd--Dallas-TX-75254_R0005781-1
+C0000258,R0006557,PT CSR 6921 Paris texas,3/25/2019,"Paris, TX",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Perris-CA/Sales---Service-Specialist---2259-Perris_R0005705-1
+C0000258,R0006560,Sales & Service Specialist Huntsville,3/25/2019,"Huntsville, TX",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Columbia-SC/Columbia-SC-Two-Notch-Rd--Assistant-Manager-W--Bonus-and-40-hour-work-week_R0005625-1
+C0000258,R0006436,Banker / Sales Rep,3/25/2019,"Alvin, TX",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Giddings-TX/Customer-Service-Representative---6974_R0005637-1
+C0000258,R0006485,Customer Service Representative-2922,3/25/2019,"Princeton, IN",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Page-AZ/Customer-Service-Support-I_R0005585-1
+C0000258,R0006425,Customer Service Support 6924,3/25/2019,"Austin, TX",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Stockton-CA/Customer-Service-Support-I---Retail_R0005348-1
+C0000258,R0006403,Customer Service Support I - Retail,3/25/2019,"Melbourne, FL, More...",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Riverton-UT/Customer-Service-Support-I---Retail_R0005373-1
+C0000258,R0006431,"Floating Customer Service Support I - Retail Mobile, AL 2368",3/25/2019,"Mobile, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Texas City-TX/PT-CSR-La-Marque--TX-77591_R0005317-1
+C0000258,R0006443,Sales & Service Specialist 6793 Conroe,3/25/2019,"Conroe, TX",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Belleville-MI/Sales-and-Service-Specialist---Belleville-7438_R0005384-1
+C0000258,R0006423,Woonsocket Part Time Teller,3/25/2019,"Woonsocket, RI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Merced-CA/Sales-Representative---Part-Time---Merced---104_R0005377-1
+C0000258,R0006368,Customer Service Representative- Float,3/25/2019,"Lansing, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Oceanside-CA/Sales-and-Service-Specialist----191_R0005196-1
+C0000258,R0006392,Customer Service Support I - Retail,3/25/2019,"Salt Lake City, UT",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/San Diego-CA/Sales-and-Service-Specialist-153_R0005273-1
+C0000258,R0006369,Customer Service Support III - Retail,3/25/2019,"Palestine, TX",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Harrisburg-IL/-Harrisburg--Part-time-Customer-Sales---Service---Retail_R0005236-1
+C0000258,R0006383,Customer Service Support III - Retail,3/25/2019,"Broken Arrow, OK",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Peoria-IL/-Peoria--Part-time-Customer-Sales---Service---Retail_R0005265-1
+C0000258,R0006372,"Floating Customer Service Rep Covington, KY",3/25/2019,"Covington, KY",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Stephenville-TX/Branch-Manager-Sales_R0004742-1
+C0000258,R0006374,Sales and Service Specialist -  Indianapolis-5591,3/25/2019,"Indianapolis, IN",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Bellevue-NE/Customer-Service-Rep---PT---Bellevue--11--13-hr_R0004942-1
+C0000258,R0006158,Customer Service Representative,3/25/2019,"Boise, ID",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Detroit-MI/Customer-Service-Store-Manager-III---Float_R0005191-1
+C0000258,R0006198,Customer Service Representative,3/25/2019,"Meridian, ID",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/North Augusta-SC/Customer-Service-Support-I---Retail_R0004919-1
+C0000258,R0006248,Customer Service Representative,3/25/2019,"Bakersfield, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Baldwin Park-CA/Store-Manager--Hourly-_R0004827-1
+C0000258,R0006161,PT Customer Service Representative,3/25/2019,"Sonora, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Visalia-CA/Store-Manager_R0005098-1
+C0000258,R0006266,Sales and Service Specialist I Redford 6649,3/25/2019,"Redford, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Harlingen-TX/6806-Customer-Service-Support-I---Retail_R0004959-1
+C0000258,R0006172,STM 252,3/25/2019,"Anaheim, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Wichita-KS/Customer-Service-Representative-2942-Wichita-Broadway_R0004253-1
+C0000258,R0006306,Store Manager 1204,3/25/2019,"Milwaukee, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Galveston-TX/Customer-Service-Representative-Galveston--TX_R0004569-1
+C0000258,R0006307,Store Manager 1226,3/25/2019,"Janesville, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Detroit-MI/Customer-Service-Support-I---Retail-Detroit-5946_R0004517-1
+C0000258,R0006293,Store Manager,3/25/2019,"Tracy, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Baldwin Park-CA/Customer-Service-Support-I---Retail_R0004388-1
+C0000258,R0006051,Elizabethtown CSR,3/25/2019,"Elizabethtown, KY",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Detroit-MI/Customer-Service-Support-Specialist-I---Detroit--MI-5946_R0004526-1
+C0000258,R0006131,Sales and Service Representative 1214,3/25/2019,"Wausau, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Madison Heights-MI/Retail-Support-Specialist-I---Madison-Heights-5915_R0004525-1
+C0000258,R0006058,Sales and Service Specialist -  Boise  Area,3/25/2019,"Boise, ID",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Detroit-MI/Sales-and-Service-Specialist----Detroit-5949_R0004027-1
+C0000258,R0006112,Sales Training Manager,3/25/2019,"Pico Rivera, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Los Angeles-CA/Sales-and-Service-Specialist----Los-Angeles-2760_R0001887-1
+C0000258,R0006068,Seaside Full Time Store Manager,3/25/2019,"Seaside, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Round Rock-TX/Sales-and-Service-Specialist----Round-Rock-6911_R0003921-1
+C0000258,R0006040,"Store Manager, Prescott, AZ",3/25/2019,"Prescott, AZ",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Schaumburg-IL/Sales-and-Service-Specialist----Schaumburg-0825_R0003199-1
+C0000258,R0006069,Store Manager Full Time 125 Fresno,3/25/2019,"Fresno, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Salinas-CA/Sales-Associate-Full-Time-2247-Salinas_R0004561-1
+C0000258,R0006038,Store Manager,3/25/2019,"Lakeland, FL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Deer Park-TX/Customer-Service-Representative---Deer-Park--Texas-77536_R0006379-1
+C0000258,R0005984,Customer Service Representative Montgomery AL 2410,3/25/2019,"Montgomery, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Cincinnati-OH/Risk-Analyst_R0006632-1
+C0000258,R0005992,Customer Service Support 1231,3/25/2019,"Franklin, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/California-Remote/District-Director---ORANGE-COUNTY_R0006607-1
+C0000258,R0006003,Customer Service Support I - Retail,3/25/2019,"Hastings, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Cincinnati-OH/Sr--Digital-Analyst_R0006313-1
+C0000258,R0005982,Sales and Service Rep - Bedford TX,3/25/2019,"Bedford, TX",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Cincinnati-OH/Sr--Analyst--Marketing-Analytics_R0006311-1
+C0000258,R0005988,Sales and Service Specialist -  Paso Robles-0195,3/25/2019,"Paso Robles, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Chino Hills-CA/Sales-and-Service-Specialist---270-Chino-Hills_R0006385-1
+C0000258,R0005976,Store Manager 1239,3/25/2019,"Racine, WI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Port Saint Lucie-FL/Customer-Service-Support-I---Retail_R0005860-1
+C0000258,R0005956,"Store Manager 2693 Leeds, AL",3/25/2019,"Leeds, AL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Fairfield-OH/Analytics-Analyst-II_R0005916-1
+C0000258,R0005650,CSR PT 240,3/25/2019,"La Habra, CA",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Cincinnati-OH/Workday-System-Analyst_R0005655-1
+C0000258,R0005839,Customer Sales Rep #7138,3/25/2019,"Grand Rapids, MI",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Tempe-AZ/Customer-Service-Support-I_R0005885-1
+C0000258,R0005911,Customer Service Rep PT North Platte $11-$13/hr,3/25/2019,"North Platte, NE",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/San Jose-CA/Axcess-Financial-Retail-Opportunities_R0003170-1
+C0000258,R0005756,Customer Service Representative- 825,3/25/2019,"Schaumburg, IL",https://cngholdingsinc.wd5.myworkdayjobs.com/Axcess_Financial/job/Cincinnati-OH/Data-Analyst-Data-Modeler---Based-in-Cincinnati--OH_R0002383-1
+C0000258,R0005951,Customer Service Support I - Retail,3/25/2019,"San Diego, CA",
+C0000258,R0005768,Floater Store Manager,3/25/2019,"Hollywood, FL",
+C0000258,R0005672,Floating Store Manager 2558,3/25/2019,"Kansas City, KS",
+C0000258,R0005781,PT CSR 6869 Coit Rd. Dallas TX 75254,3/25/2019,"Dallas, TX",
+C0000258,R0005705,Sales & Service Specialist - 2259 Perris,3/25/2019,"Perris, CA",
+C0000258,R0005625,Columbia SC-Two Notch Rd. Assistant Manager W/ Bonus and 40 hour work week,3/25/2019,"Columbia, SC",
+C0000258,R0005637,Customer Service Representative - 6974,3/25/2019,"Giddings, TX",
+C0000258,R0005585,Customer Service Support I,3/25/2019,"Page, AZ",
+C0000258,R0005348,Customer Service Support I - Retail,3/25/2019,"Stockton, CA",
+C0000258,R0005373,Customer Service Support I - Retail,3/25/2019,"Riverton, UT",
+C0000258,R0005317,"PT CSR La Marque, TX 77591",3/25/2019,"Texas City, TX",
+C0000258,R0005384,Sales and Service Specialist - Belleville 7438,3/25/2019,"Belleville, MI",
+C0000258,R0005377,Sales Representative - Part Time - Merced - 104,3/25/2019,"Merced, CA",
+C0000258,R0005196,Sales and Service Specialist -  191,3/25/2019,"Oceanside, CA",
+C0000258,R0005273,Sales and Service Specialist 153,3/25/2019,"San Diego, CA",
+C0000258,R0005236,(Harrisburg) Part-time Customer Sales & Service - Retail,3/25/2019,"Harrisburg, IL",
+C0000258,R0005265,(Peoria) Part-time Customer Sales & Service - Retail,3/25/2019,"Peoria, IL",
+C0000258,R0004742,Branch Manager/Sales,3/25/2019,"Stephenville, TX, More...",
+C0000258,R0004942,Customer Service Rep - PT - Bellevue $11-$13/hr,3/25/2019,"Bellevue, NE",
+C0000258,R0005191,Customer Service Store Manager III - Float,3/25/2019,"Detroit, MI",
+C0000258,R0004919,Customer Service Support I - Retail,3/25/2019,"North Augusta, SC",
+C0000258,R0004827,Store Manager (Hourly),3/25/2019,"Baldwin Park, CA",
+C0000258,R0005098,Store Manager,3/25/2019,"Visalia, CA",
+C0000258,R0004959,6806 Customer Service Support I - Retail,3/25/2019,"Harlingen, TX",
+C0000258,R0004253,Customer Service Representative 2942 Wichita Broadway,3/25/2019,"Wichita, KS",
+C0000258,R0004569,"Customer Service Representative Galveston, TX",3/25/2019,"Galveston, TX",
+C0000258,R0004517,Customer Service Support I - Retail Detroit 5946,3/25/2019,"Detroit, MI",
+C0000258,R0004388,Customer Service Support I - Retail,3/25/2019,"Baldwin Park, CA",
+C0000258,R0004526,"Customer Service Support Specialist I - Detroit, MI 5946",3/25/2019,"Detroit, MI",
+C0000258,R0004525,Retail Support Specialist I - Madison Heights 5915,3/25/2019,"Madison Heights, MI",
+C0000258,R0004027,Sales and Service Specialist -  Detroit-5949,3/25/2019,"Detroit, MI",
+C0000258,R0001887,Sales and Service Specialist -  Los Angeles-2760,3/25/2019,"Los Angeles, CA",
+C0000258,R0003921,Sales and Service Specialist -  Round Rock-6911,3/25/2019,"Round Rock, TX",
+C0000258,R0003199,Sales and Service Specialist -  Schaumburg-0825,3/25/2019,"Schaumburg, IL",
+C0000258,R0004561,Sales Associate Full Time 2247 Salinas,3/25/2019,"Salinas, CA",
+C0000258,R0006379,"Customer Service Representative - Deer Park, Texas 77536",3/25/2019,"Deer Park, TX",
+C0000258,R0006632,Risk Analyst,3/25/2019,"Cincinnati, OH",
+C0000258,R0006607,District Director / ORANGE COUNTY,3/25/2019,California-Remote,
+C0000258,R0006393,Accountant I,3/25/2019,"Fairfield, OH",
+C0000258,R0006313,Sr. Digital Analyst,3/25/2019,"Cincinnati, OH",
+C0000258,R0006311,"Sr. Analyst, Marketing Analytics",3/25/2019,"Cincinnati, OH",
+C0000258,R0006385,Sales and Service Specialist - 270 Chino Hills,3/25/2019,"Chino Hills, CA",
+C0000258,R0005860,Customer Service Support I - Retail,3/25/2019,"Port Saint Lucie, FL",
+C0000258,R0005916,Analytics Analyst II,3/25/2019,"Fairfield, OH",
+C0000258,R0005655,Workday System Analyst,3/25/2019,"Cincinnati, OH",
+C0000258,R0005885,Customer Service Support I,3/25/2019,"Tempe, AZ",
+C0000258,R0003170,Axcess Financial Retail Opportunities,3/25/2019,"San Jose, CA, More...",
+C0000258,R0002383,"Data Analyst/Data Modeler - Based in Cincinnati, OH",3/25/2019,"Cincinnati, OH",

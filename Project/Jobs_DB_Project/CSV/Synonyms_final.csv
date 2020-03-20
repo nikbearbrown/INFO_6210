@@ -1,0 +1,756 @@
+,First,Movies,STATUS,Second,Tags
+2668,March,Battle of the Sexes,SIMILAR,Mars,Mars
+10186,Horror,Arrival,SIMILAR,Fear,Fear
+15621,Movies,A Bad Moms Christmas,SIMILAR,Movie,Movie
+15910,Movies,21 Jump Street,SIMILAR,Films,Films
+15915,Movies,42,SIMILAR,Musical,Musical
+16114,Movies,Bad Grandpa,SIMILAR,Film,Film
+16908,Movies,12 Years a Slave,SIMILAR,Shows,Shows
+17095,Sport,ATM,SIMILAR,Racing,Racing
+21281,Tour,A Dog's Purpose,SIMILAR,Trip,Trip
+21437,Tour,Anna Karenina,SIMILAR,Travel,Travel
+24214,Career,Allegiant,SIMILAR,Job,Job
+24215,Career,Allegiant,SIMILAR,Jobs,Jobs
+26858,Phoenix,1922,SIMILAR,Sydney,Sydney
+26901,Phoenix,50/50,SIMILAR,Boston,Boston
+27579,Phoenix,Allegiant,SIMILAR,Raleigh,Raleigh
+31635,Holy,Angry Birds,SIMILAR,Place,Place
+42379,Sydney,13 Hours,SIMILAR,Phoenix,Phoenix
+42433,Sydney,50/50,SIMILAR,Boston,Boston
+43111,Sydney,Allegiant,SIMILAR,Raleigh,Raleigh
+46630,Gun,2 Guns,SIMILAR,Guns,Guns
+47566,Gun,Annie,SIMILAR,Steel,Steel
+48041,Guns,2 Guns,SIMILAR,Gun,Gun
+48978,Guns,Annie,SIMILAR,Steel,Steel
+50882,Me,42,SIMILAR,De,De
+51001,Me,Admission,SIMILAR,Jersey,Jersey
+51143,Me,Assassin's Creed,SIMILAR,Texas,Texas
+51239,Me,A Ghost Story,SIMILAR,Or,Or
+51462,Me,42,SIMILAR,Hi,Hi
+51581,Me,Allegiant,SIMILAR,Las,Las
+51606,Me,Angry Birds,SIMILAR,La,La
+52098,Me,1922,SIMILAR,In,In
+52763,Nobel,August: Osage County,SIMILAR,Roberts,Roberts
+53092,Nobel,Batman v Superman: Dawn of Justice,SIMILAR,Henry,Henry
+53309,Nobel,1922,SIMILAR,Black,Black
+55207,Womens,A Walk Among the Tombstones,SIMILAR,Amazon,Amazon
+55297,Womens,American Honey,SIMILAR,Lady,Lady
+55302,Womens,American Made,SIMILAR,Women,Women
+55405,Womens,Bachelorette,SIMILAR,Bachelorette,Bachelorette
+55414,Womens,Bastille Day,SIMILAR,Miss,Miss
+55503,Womens,Abduction,SIMILAR,Girls,Girls
+55504,Womens,Abduction,SIMILAR,Girl,Girl
+55829,Womens,American Honey,SIMILAR,Lady,Lady
+56202,Womens,A Street Cat Named Bob,SIMILAR,Cats,Cats
+56460,Womens,A Street Cat Named Bob,SIMILAR,Cat,Cat
+57321,China,Bad Teacher,SIMILAR,Japan,Japan
+59138,Five,Avengers: Age of Ultron,SIMILAR,Figure,Figure
+59461,Kenya,Abduction,SIMILAR,Rwanda,Rwanda
+59557,Kenya,Animal Kingdom,SIMILAR,Nigeria,Nigeria
+61342,Love,42,SIMILAR,Ardor,Ardor
+68333,Lead,A Thousand Words,SIMILAR,Leads,Leads
+69810,Lights,30 Minutes or Less,SIMILAR,Daylight,Daylight
+70636,De,20th Century Women,SIMILAR,Me,Me
+70769,De,Admission,SIMILAR,Jersey,Jersey
+70911,De,Assassin's Creed,SIMILAR,Texas,Texas
+71007,De,A Ghost Story,SIMILAR,Or,Or
+71230,De,42,SIMILAR,Hi,Hi
+71349,De,Allegiant,SIMILAR,Las,Las
+71374,De,Angry Birds,SIMILAR,La,La
+71866,De,1922,SIMILAR,In,In
+73356,Men,Animal Kingdom,SIMILAR,Complement,Complement
+75136,Argentina,Arrival,SIMILAR,Bolivia,Bolivia
+83392,Parkland,6 Souls,SIMILAR,Tracts,Tracts
+88092,News,A Haunted House,SIMILAR,Update,Update
+89573,Team,21 & Over,SIMILAR,Five,Five
+91508,World,A Walk in the Woods,SIMILAR,Nature,Nature
+93168,Harvey,A Man Called Ove,SIMILAR,Down,Down
+99124,Madrid,Apollo 18,SIMILAR,Amsterdam,Amsterdam
+103095,Boston,13 Hours,SIMILAR,Phoenix,Phoenix
+103106,Boston,1922,SIMILAR,Sydney,Sydney
+103827,Boston,Allegiant,SIMILAR,Raleigh,Raleigh
+106071,Federal,Admission,SIMILAR,Yankees,Yankees
+106126,Federal,American Assassin,SIMILAR,American,American
+118667,Tracts,42,SIMILAR,Parkland,Parkland
+119487,Tracts,300: Rise of an Empire,SIMILAR,Green,Green
+119875,Tracts,2 Guns,SIMILAR,Rights,Rights
+121774,Andrew,Bad Words,SIMILAR,Saint,Saint
+122619,Andrew,Allied,SIMILAR,John,John
+125679,Movie,12 Years a Slave,SIMILAR,Movies,Movies
+126046,Movie,21 Jump Street,SIMILAR,Films,Films
+126051,Movie,42,SIMILAR,Musical,Musical
+126250,Movie,Bad Grandpa,SIMILAR,Film,Film
+127044,Movie,12 Years a Slave,SIMILAR,Shows,Shows
+142627,Trip,13,SIMILAR,Tour,Tour
+142869,Trip,Anna Karenina,SIMILAR,Travel,Travel
+154041,Romance,A Royal Affair,SIMILAR,Romances,Romances
+157440,Blessings,Abduction,SIMILAR,Support,Support
+163909,Book,A Man Called Ove,SIMILAR,Reads,Reads
+163948,Book,Abduction,SIMILAR,Read,Read
+163972,Book,Alex Cross,SIMILAR,Books,Books
+165320,Reads,A Man Called Ove,SIMILAR,Book,Book
+165360,Reads,Abduction,SIMILAR,Read,Read
+165384,Reads,Alex Cross,SIMILAR,Books,Books
+171350,Seth,Ant-Man,SIMILAR,Man,Man
+171477,Seth,42,SIMILAR,Men,Men
+171542,Seth,A Street Cat Named Bob,SIMILAR,Cats,Cats
+171875,Seth,A Street Cat Named Bob,SIMILAR,Cat,Cat
+178271,Explain,10 Cloverfield Lane,SIMILAR,Explained,Explained
+186581,Tunes,All Eyez on Me,SIMILAR,Music,Music
+187905,Romances,A Haunted House,SIMILAR,Romance,Romance
+191191,Tomb,Angry Birds,SIMILAR,Place,Place
+192587,Cats,A Street Cat Named Bob,SIMILAR,Cat,Cat
+192813,Cats,Anna Karenina,SIMILAR,Tom,Tom
+193297,Cats,1922,SIMILAR,Panther,Panther
+194319,Cinema,21 Jump Street,SIMILAR,Films,Films
+194489,Cinema,Bad Grandpa,SIMILAR,Film,Film
+195860,Cyprus,13 Hours,SIMILAR,Country,Country
+199434,David,Bad Words,SIMILAR,Saint,Saint
+200856,Billy,Battle of the Sexes,SIMILAR,Billys,Billys
+201875,Billy,Battle Los Angeles,SIMILAR,Club,Club
+202436,Devon,August: Osage County,SIMILAR,County,County
+203780,Dream,Alice Through the Looking Glass,SIMILAR,Dreams,Dreams
+204015,Dream,A Nightmare on Elm Street,SIMILAR,Nightmare,Nightmare
+209290,Saturdays,Atomic Blonde,SIMILAR,Saturday,Saturday
+213224,Racing,127 Hours,SIMILAR,Sport,Sport
+215450,River,August: Osage County,SIMILAR,Osage,Osage
+215492,River,2 Guns,SIMILAR,Red,Red
+215759,River,A Walk Among the Tombstones,SIMILAR,Amazon,Amazon
+220388,Read,A Man Called Ove,SIMILAR,Book,Book
+220389,Read,A Man Called Ove,SIMILAR,Reads,Reads
+220452,Read,Alex Cross,SIMILAR,Books,Books
+221726,Rwanda,21 & Over,SIMILAR,Kenya,Kenya
+221937,Rwanda,Animal Kingdom,SIMILAR,Nigeria,Nigeria
+223422,Support,Automata,SIMILAR,Activities,Activities
+238664,Jersey,20th Century Women,SIMILAR,Me,Me
+238678,Jersey,42,SIMILAR,De,De
+238939,Jersey,Assassin's Creed,SIMILAR,Texas,Texas
+239035,Jersey,A Ghost Story,SIMILAR,Or,Or
+239258,Jersey,42,SIMILAR,Hi,Hi
+239377,Jersey,Allegiant,SIMILAR,Las,Las
+239402,Jersey,Angry Birds,SIMILAR,La,La
+239894,Jersey,1922,SIMILAR,In,In
+241527,Yankees,50/50,SIMILAR,Federal,Federal
+241678,Yankees,American Assassin,SIMILAR,American,American
+243833,Art,Annabelle: Creation,SIMILAR,Creation,Creation
+254276,Books,A Man Called Ove,SIMILAR,Book,Book
+254277,Books,A Man Called Ove,SIMILAR,Reads,Reads
+254316,Books,Abduction,SIMILAR,Read,Read
+273240,Start,Alan Partridge: Alpha Papa,SIMILAR,Alpha,Alpha
+277882,Days,A Nightmare on Elm Street,SIMILAR,Years,Years
+278296,Music,A Nightmare on Elm Street,SIMILAR,Tunes,Tunes
+293436,Ground,Absolutely Anything,SIMILAR,Earth,Earth
+296537,Job,13 Hours,SIMILAR,Career,Career
+296731,Job,Allegiant,SIMILAR,Jobs,Jobs
+296846,Job,Automata,SIMILAR,Activities,Activities
+297114,Job,127 Hours,SIMILAR,Sport,Sport
+297949,Jobs,13 Hours,SIMILAR,Career,Career
+298142,Jobs,Allegiant,SIMILAR,Job,Job
+298258,Jobs,Automata,SIMILAR,Activities,Activities
+298526,Jobs,127 Hours,SIMILAR,Sport,Sport
+299653,Laredo,Assassin's Creed,SIMILAR,Houston,Houston
+299772,Laredo,A Street Cat Named Bob,SIMILAR,Sur,Sur
+299804,Laredo,Allegiant,SIMILAR,Fargo,Fargo
+299873,Laredo,Battle of the Sexes,SIMILAR,Tampa,Tampa
+300064,Laredo,Aftermath,SIMILAR,Cambridge,Cambridge
+300225,Laredo,42,SIMILAR,Leon,Leon
+300429,Laredo,42,SIMILAR,Cordoba,Cordoba
+300501,Laredo,Aftermath,SIMILAR,Cambridge,Cambridge
+300624,Laredo,42,SIMILAR,Leon,Leon
+301001,Las,Angry Birds,SIMILAR,La,La
+301281,Las,Battle Los Angeles,SIMILAR,Metal,Metal
+302944,Marketing,Angry Birds,SIMILAR,Sales,Sales
+303060,Marketing,A Brilliant Young Mind,SIMILAR,Hawking,Hawking
+303373,Marketing,Angry Birds,SIMILAR,Sales,Sales
+305966,Veterans,Ant-Man,SIMILAR,Man,Man
+306075,Veterans,42,SIMILAR,Men,Men
+309504,Highway,Ant-Man,SIMILAR,Road,Road
+312562,Pride,Arthur Christmas,SIMILAR,Feeling,Feeling
+319187,American,50/50,SIMILAR,Federal,Federal
+319283,American,Admission,SIMILAR,Yankees,Yankees
+319830,American,Admission,SIMILAR,Yankees,Yankees
+320267,American,Admission,SIMILAR,Yankees,Yankees
+325050,Cars,Arbitrage,SIMILAR,Coupe,Coupe
+328703,Latin,A Haunted House,SIMILAR,Romance,Romance
+328717,Latin,A Royal Affair,SIMILAR,Romances,Romances
+330447,Women,20th Century Women,SIMILAR,Womens,Womens
+330547,Women,A Walk Among the Tombstones,SIMILAR,Amazon,Amazon
+330637,Women,American Honey,SIMILAR,Lady,Lady
+330745,Women,Bachelorette,SIMILAR,Bachelorette,Bachelorette
+330754,Women,Bastille Day,SIMILAR,Miss,Miss
+330843,Women,Abduction,SIMILAR,Girls,Girls
+330844,Women,Abduction,SIMILAR,Girl,Girl
+331169,Women,American Honey,SIMILAR,Lady,Lady
+331542,Women,A Street Cat Named Bob,SIMILAR,Cats,Cats
+331800,Women,A Street Cat Named Bob,SIMILAR,Cat,Cat
+333828,Go,13,SIMILAR,Tour,Tour
+336299,Reasons,Amy,SIMILAR,Why,Why
+336493,Reasons,Abduction,SIMILAR,Reason,Reason
+336800,Reasons,Allegiant,SIMILAR,Ground,Ground
+343354,Why,American Sniper,SIMILAR,Reasons,Reasons
+343553,Why,Abduction,SIMILAR,Reason,Reason
+343860,Why,Allegiant,SIMILAR,Ground,Ground
+346153,La,Allegiant,SIMILAR,Las,Las
+346465,La,Battle Los Angeles,SIMILAR,Metal,Metal
+348404,Last,10 Cloverfield Lane,SIMILAR,Ending,Ending
+352396,Animal,Arrival,SIMILAR,Adult,Adult
+354377,British,13 Hours,SIMILAR,Country,Country
+357278,Nigeria,21 & Over,SIMILAR,Kenya,Kenya
+357393,Nigeria,Abduction,SIMILAR,Rwanda,Rwanda
+358973,Artist,August: Osage County,SIMILAR,Weston,Weston
+359343,Artist,A Walk Among the Tombstones,SIMILAR,David,David
+362899,Travel,13,SIMILAR,Tour,Tour
+362985,Travel,A Dog's Purpose,SIMILAR,Trip,Trip
+370354,Photo,A Hologram for the King,SIMILAR,Hologram,Hologram
+372245,Critique,A Bad Moms Christmas,SIMILAR,Review,Review
+373094,Help,Automata,SIMILAR,Activities,Activities
+373476,Help,Abduction,SIMILAR,Support,Support
+373654,Help,50/50,SIMILAR,Service,Service
+377833,Android,Automata,SIMILAR,Automata,Automata
+386515,Ant,Ant-Man,SIMILAR,Wasp,Wasp
+388151,Avengers,13,SIMILAR,Tough,Tough
+389931,Road,Allied,SIMILAR,Highway,Highway
+401078,Amsterdam,47 Ronin,SIMILAR,Madrid,Madrid
+405159,Fraud,Alice in Wonderland,SIMILAR,Con,Con
+405984,Penn,All the Money in the World,SIMILAR,Quakers,Quakers
+407151,Watts,Anonymous,SIMILAR,Hogg,Hogg
+409710,Coupe,American Made,SIMILAR,Cars,Cars
+423653,Bolivia,42,SIMILAR,Argentina,Argentina
+426431,Fear,10 Cloverfield Lane,SIMILAR,Horror,Horror
+429641,Arthur,99 Homes,SIMILAR,Garfield,Garfield
+430139,Arthur,A Bigger Splash,SIMILAR,Johnson,Johnson
+430537,Arthur,A Bigger Splash,SIMILAR,Johnson,Johnson
+431465,Merlin,Argo,SIMILAR,Argonaut,Argonaut
+431473,Merlin,Arthur,SIMILAR,Arthur,Arthur
+436520,Houston,Allegiant,SIMILAR,Laredo,Laredo
+436736,Houston,A Street Cat Named Bob,SIMILAR,Sur,Sur
+436768,Houston,Allegiant,SIMILAR,Fargo,Fargo
+436837,Houston,Battle of the Sexes,SIMILAR,Tampa,Tampa
+437028,Houston,Aftermath,SIMILAR,Cambridge,Cambridge
+437189,Houston,42,SIMILAR,Leon,Leon
+437393,Houston,42,SIMILAR,Cordoba,Cordoba
+437465,Houston,Aftermath,SIMILAR,Cambridge,Cambridge
+437588,Houston,42,SIMILAR,Leon,Leon
+439168,Texas,20th Century Women,SIMILAR,Me,Me
+439182,Texas,42,SIMILAR,De,De
+439301,Texas,Admission,SIMILAR,Jersey,Jersey
+439539,Texas,A Ghost Story,SIMILAR,Or,Or
+439762,Texas,42,SIMILAR,Hi,Hi
+439881,Texas,Allegiant,SIMILAR,Las,Las
+439906,Texas,Angry Birds,SIMILAR,La,La
+440398,Texas,1922,SIMILAR,In,In
+443516,Saturday,A Walk in the Woods,SIMILAR,Saturdays,Saturdays
+450885,Actress,Alien: Covenant,SIMILAR,Scott,Scott
+450904,Actress,American Ultra,SIMILAR,Stewart,Stewart
+454083,Make,Automata,SIMILAR,Models,Models
+459154,Weston,Anna Karenina,SIMILAR,Artist,Artist
+460470,Activities,Abduction,SIMILAR,Support,Support
+460522,Activities,Allegiant,SIMILAR,Job,Job
+460523,Activities,Allegiant,SIMILAR,Jobs,Jobs
+460576,Activities,Annabelle: Creation,SIMILAR,Help,Help
+460721,Activities,A Ghost Story,SIMILAR,Games,Games
+460725,Activities,A Long Way Down,SIMILAR,Market,Market
+460804,Activities,Annabelle: Creation,SIMILAR,Creation,Creation
+460885,Activities,Anonymous,SIMILAR,Game,Game
+461486,Activities,All Eyez on Me,SIMILAR,Music,Music
+461516,Activities,Angry Birds,SIMILAR,Last,Last
+461617,Activities,A Most Violent Year,SIMILAR,Playing,Playing
+461632,Activities,Admission,SIMILAR,Fun,Fun
+472062,Figure,Alice in Wonderland,SIMILAR,Illustration,Illustration
+473545,Iron,Battle Los Angeles,SIMILAR,Metal,Metal
+475163,Marvel,Alice in Wonderland,SIMILAR,Wonder,Wonder
+482990,Saint,99 Homes,SIMILAR,Andrew,Andrew
+483045,Saint,A Walk Among the Tombstones,SIMILAR,David,David
+483268,Saint,13,SIMILAR,Santa,Santa
+484091,Saint,Allied,SIMILAR,John,John
+488987,Miss,Abduction,SIMILAR,Girls,Girls
+488988,Miss,Abduction,SIMILAR,Girl,Girl
+497166,Billys,A Walk in the Woods,SIMILAR,Billy,Billy
+498395,Billys,Battle Los Angeles,SIMILAR,Club,Club
+507034,Explained,A Most Wanted Man,SIMILAR,Explain,Explain
+514310,Santa,Bad Words,SIMILAR,Saint,Saint
+518690,Panther,Animal Kingdom,SIMILAR,Lion,Lion
+530067,Is,American Sniper,SIMILAR,Been,Been
+530451,Is,Allied,SIMILAR,Are,Are
+533747,Films,12 Years a Slave,SIMILAR,Movies,Movies
+533825,Films,A Bad Moms Christmas,SIMILAR,Movie,Movie
+534119,Films,42,SIMILAR,Musical,Musical
+534318,Films,Bad Grandpa,SIMILAR,Film,Film
+535112,Films,12 Years a Slave,SIMILAR,Shows,Shows
+540807,Musical,12 Years a Slave,SIMILAR,Movies,Movies
+540885,Musical,A Bad Moms Christmas,SIMILAR,Movie,Movie
+541174,Musical,21 Jump Street,SIMILAR,Films,Films
+541378,Musical,Bad Grandpa,SIMILAR,Film,Film
+545427,Mas,A Bad Moms Christmas,SIMILAR,Moms,Moms
+545523,Mas,Annabelle,SIMILAR,Mummy,Mummy
+549741,Canada,American Made,SIMILAR,America,America
+555220,Garfield,Arthur,SIMILAR,Arthur,Arthur
+555807,Garfield,A Bigger Splash,SIMILAR,Johnson,Johnson
+556205,Garfield,A Bigger Splash,SIMILAR,Johnson,Johnson
+558126,Moms,42,SIMILAR,Mas,Mas
+558231,Moms,Annabelle,SIMILAR,Mummy,Mummy
+574720,Or,20th Century Women,SIMILAR,Me,Me
+574734,Or,42,SIMILAR,De,De
+574853,Or,Admission,SIMILAR,Jersey,Jersey
+574995,Or,Assassin's Creed,SIMILAR,Texas,Texas
+575314,Or,42,SIMILAR,Hi,Hi
+575433,Or,Allegiant,SIMILAR,Las,Las
+575458,Or,Angry Birds,SIMILAR,La,La
+575950,Or,1922,SIMILAR,In,In
+577834,Games,Automata,SIMILAR,Activities,Activities
+578081,Games,Anonymous,SIMILAR,Game,Game
+579182,Hologram,Annabelle,SIMILAR,Photo,Photo
+583482,Market,Automata,SIMILAR,Activities,Activities
+590686,Monster,Aloha,SIMILAR,Dragons,Dragons
+604282,Raider,Arthur Christmas,SIMILAR,Morgan,Morgan
+604548,Sur,Allegiant,SIMILAR,Laredo,Laredo
+604645,Sur,Assassin's Creed,SIMILAR,Houston,Houston
+604796,Sur,Allegiant,SIMILAR,Fargo,Fargo
+604865,Sur,Battle of the Sexes,SIMILAR,Tampa,Tampa
+605056,Sur,Aftermath,SIMILAR,Cambridge,Cambridge
+605217,Sur,42,SIMILAR,Leon,Leon
+605421,Sur,42,SIMILAR,Cordoba,Cordoba
+605493,Sur,Aftermath,SIMILAR,Cambridge,Cambridge
+605616,Sur,42,SIMILAR,Leon,Leon
+606485,Day,All Eyez on Me,SIMILAR,Days,Days
+610619,Outside,47 Meters Down,SIMILAR,Open,Open
+614566,Girls,Bastille Day,SIMILAR,Miss,Miss
+614656,Girls,Abduction,SIMILAR,Girl,Girl
+615978,Girl,Bastille Day,SIMILAR,Miss,Miss
+616067,Girl,Abduction,SIMILAR,Girls,Girls
+617282,Reason,American Sniper,SIMILAR,Reasons,Reasons
+617287,Reason,Amy,SIMILAR,Why,Why
+617788,Reason,Allegiant,SIMILAR,Ground,Ground
+631699,Affair,2 Guns,SIMILAR,Matter,Matter
+638368,Dreams,A Walk in the Woods,SIMILAR,Dream,Dream
+638911,Dreams,A Nightmare on Elm Street,SIMILAR,Nightmare,Nightmare
+641382,Illustration,Avengers: Age of Ultron,SIMILAR,Figure,Figure
+645603,Scott,August: Osage County,SIMILAR,Actress,Actress
+645760,Scott,American Ultra,SIMILAR,Stewart,Stewart
+649732,Fargo,Allegiant,SIMILAR,Laredo,Laredo
+649829,Fargo,Assassin's Creed,SIMILAR,Houston,Houston
+649948,Fargo,A Street Cat Named Bob,SIMILAR,Sur,Sur
+650049,Fargo,Battle of the Sexes,SIMILAR,Tampa,Tampa
+650240,Fargo,Aftermath,SIMILAR,Cambridge,Cambridge
+650401,Fargo,42,SIMILAR,Leon,Leon
+650605,Fargo,42,SIMILAR,Cordoba,Cordoba
+650677,Fargo,Aftermath,SIMILAR,Cambridge,Cambridge
+650800,Fargo,42,SIMILAR,Leon,Leon
+655065,Vegas,A Walk in the Woods,SIMILAR,Miller,Miller
+655651,Tweet,Angry Birds,SIMILAR,Tweets,Tweets
+657064,Arena,Animal Kingdom,SIMILAR,Kingdom,Kingdom
+664058,Dragons,A Monster Calls,SIMILAR,Monster,Monster
+668265,America,45 Years,SIMILAR,Canada,Canada
+672431,Stewart,August: Osage County,SIMILAR,Actress,Actress
+672569,Stewart,Alien: Covenant,SIMILAR,Scott,Scott
+682460,Tweets,Allegiant,SIMILAR,Tweet,Tweet
+683873,Kingdom,Allied,SIMILAR,Arena,Arena
+686599,Lion,1922,SIMILAR,Panther,Panther
+687096,Lion,1922,SIMILAR,Panther,Panther
+693678,Mummy,42,SIMILAR,Mas,Mas
+693687,Mummy,A Bad Moms Christmas,SIMILAR,Moms,Moms
+695030,Creation,Automata,SIMILAR,Activities,Activities
+695423,Creation,Adoration,SIMILAR,Art,Art
+697114,Steel,Battle Los Angeles,SIMILAR,Metal,Metal
+699228,Hogg,Apollo 18,SIMILAR,Watts,Watts
+703297,Man,A Million Ways to Die in the West,SIMILAR,Seth,Seth
+703801,Man,42,SIMILAR,Men,Men
+703866,Man,A Street Cat Named Bob,SIMILAR,Cats,Cats
+704199,Man,A Street Cat Named Bob,SIMILAR,Cat,Cat
+720341,Feeling,Allied,SIMILAR,Pride,Pride
+724190,One,Avengers: Age of Ultron,SIMILAR,Figure,Figure
+724881,Am,Battle Los Angeles,SIMILAR,Metal,Metal
+729931,Bailey,Amy,SIMILAR,Bass,Bass
+732865,Roberts,20th Century Women,SIMILAR,Nobel,Nobel
+733676,Roberts,Batman v Superman: Dawn of Justice,SIMILAR,Henry,Henry
+733893,Roberts,1922,SIMILAR,Black,Black
+734383,County,A Walk in the Woods,SIMILAR,Devon,Devon
+741513,Metal,Allegiant,SIMILAR,Las,Las
+741545,Metal,Angry Birds,SIMILAR,La,La
+741635,Metal,Avengers: Age of Ultron,SIMILAR,Iron,Iron
+741813,Metal,Atomic Blonde,SIMILAR,Am,Am
+741869,Metal,Amour,SIMILAR,Na,Na
+741923,Metal,30 Minutes or Less,SIMILAR,Lead,Lead
+742165,Metal,1922,SIMILAR,In,In
+742325,Metal,A Thousand Words,SIMILAR,Leads,Leads
+747160,Tampa,Allegiant,SIMILAR,Laredo,Laredo
+747257,Tampa,Assassin's Creed,SIMILAR,Houston,Houston
+747376,Tampa,A Street Cat Named Bob,SIMILAR,Sur,Sur
+747408,Tampa,Allegiant,SIMILAR,Fargo,Fargo
+747668,Tampa,Aftermath,SIMILAR,Cambridge,Cambridge
+747829,Tampa,42,SIMILAR,Leon,Leon
+748033,Tampa,42,SIMILAR,Cordoba,Cordoba
+748105,Tampa,Aftermath,SIMILAR,Cambridge,Cambridge
+748228,Tampa,42,SIMILAR,Leon,Leon
+755867,Matter,Aftermath,SIMILAR,Affair,Affair
+772932,Not,Amour,SIMILAR,Non,Non
+773838,Update,45 Years,SIMILAR,News,News
+783796,Cat,A Street Cat Named Bob,SIMILAR,Cats,Cats
+784441,Cat,Anna Karenina,SIMILAR,Tom,Tom
+784925,Cat,1922,SIMILAR,Panther,Panther
+786532,Leads,30 Minutes or Less,SIMILAR,Lead,Lead
+794257,Referendum,About Time,SIMILAR,Vote,Vote
+800979,Been,21 & Over,SIMILAR,Is,Is
+801555,Been,Allied,SIMILAR,Are,Are
+802563,Non,A Ghost Story,SIMILAR,Not,Not
+803953,Na,Battle Los Angeles,SIMILAR,Metal,Metal
+806274,Place,13 Sins,SIMILAR,Holy,Holy
+806387,Place,A Royal Affair,SIMILAR,Tomb,Tomb
+807309,Place,13,SIMILAR,Top,Top
+809402,Game,Automata,SIMILAR,Activities,Activities
+809485,Game,A Ghost Story,SIMILAR,Games,Games
+820370,Uprising,Battle Los Angeles,SIMILAR,Battle,Battle
+821063,Theatre,A Street Cat Named Bob,SIMILAR,Cinema,Cinema
+821795,Film,12 Years a Slave,SIMILAR,Movies,Movies
+821873,Film,A Bad Moms Christmas,SIMILAR,Movie,Movie
+822162,Film,21 Jump Street,SIMILAR,Films,Films
+822167,Film,42,SIMILAR,Musical,Musical
+823160,Film,12 Years a Slave,SIMILAR,Shows,Shows
+830053,March,Anna Karenina,SIMILAR,Travel,Travel
+838938,Sport,Allegiant,SIMILAR,Job,Job
+838939,Sport,Allegiant,SIMILAR,Jobs,Jobs
+841788,Tour,American Reunion,SIMILAR,Go,Go
+845426,Career,'71,SIMILAR,March,March
+863344,Gun,2 Guns,SIMILAR,Guns,Guns
+864755,Guns,2 Guns,SIMILAR,Gun,Gun
+869146,Womens,American Made,SIMILAR,Women,Women
+871267,Five,45 Years,SIMILAR,Team,Team
+878313,Daylight,30 Minutes or Less,SIMILAR,Lights,Lights
+880201,Lead,Battle Los Angeles,SIMILAR,Metal,Metal
+880701,Lead,A Thousand Words,SIMILAR,Leads,Leads
+882621,Men,A Million Ways to Die in the West,SIMILAR,Seth,Seth
+882998,Men,Ant-Man,SIMILAR,Man,Man
+883190,Men,A Street Cat Named Bob,SIMILAR,Cats,Cats
+883523,Men,A Street Cat Named Bob,SIMILAR,Cat,Cat
+883955,Ardor,21 & Over,SIMILAR,Love,Love
+889596,Hi,20th Century Women,SIMILAR,Me,Me
+889610,Hi,42,SIMILAR,De,De
+889729,Hi,Admission,SIMILAR,Jersey,Jersey
+889871,Hi,Assassin's Creed,SIMILAR,Texas,Texas
+889967,Hi,A Ghost Story,SIMILAR,Or,Or
+890309,Hi,Allegiant,SIMILAR,Las,Las
+890334,Hi,Angry Birds,SIMILAR,La,La
+890826,Hi,1922,SIMILAR,In,In
+897052,Open,A Walk in the Woods,SIMILAR,Outside,Outside
+901594,Sound,All Eyez on Me,SIMILAR,Music,Music
+927594,Fundraiser,Aftermath,SIMILAR,Affair,Affair
+932817,Puppies,A Dog's Purpose,SIMILAR,Puppy,Puppy
+945317,Romance,A Royal Affair,SIMILAR,Romances,Romances
+953825,Book,Alex Cross,SIMILAR,Books,Books
+955219,Reads,Abduction,SIMILAR,Read,Read
+958267,Comedy,Admission,SIMILAR,Fun,Fun
+965253,Explain,10 Cloverfield Lane,SIMILAR,Explained,Explained
+968370,Dead,About Time,SIMILAR,Time,Time
+970188,Nightmare,A Walk in the Woods,SIMILAR,Dream,Dream
+970496,Nightmare,Alice Through the Looking Glass,SIMILAR,Dreams,Dreams
+973537,Romances,A Haunted House,SIMILAR,Romance,Romance
+974401,Cats,A Million Ways to Die in the West,SIMILAR,Seth,Seth
+974778,Cats,Ant-Man,SIMILAR,Man,Man
+974905,Cats,42,SIMILAR,Men,Men
+975303,Cats,A Street Cat Named Bob,SIMILAR,Cat,Cat
+976273,Cinema,August: Osage County,SIMILAR,Theatre,Theatre
+979578,Amazon,13 Hours,SIMILAR,Phoenix,Phoenix
+981594,David,Anna Karenina,SIMILAR,Artist,Artist
+983603,Billy,Battle of the Sexes,SIMILAR,Billys,Billys
+986512,Dream,Alice Through the Looking Glass,SIMILAR,Dreams,Dreams
+998960,Read,A Man Called Ove,SIMILAR,Reads,Reads
+999807,Support,A Little Bit of Heaven,SIMILAR,Blessings,Blessings
+999960,Support,Annabelle: Creation,SIMILAR,Help,Help
+1007318,Vote,Abduction,SIMILAR,Referendum,Referendum
+1009346,Earth,Allegiant,SIMILAR,Ground,Ground
+1014042,Yankees,American Assassin,SIMILAR,American,American
+1015720,Art,Annabelle: Creation,SIMILAR,Creation,Creation
+1016852,Cambridge,Allegiant,SIMILAR,Laredo,Laredo
+1016949,Cambridge,Assassin's Creed,SIMILAR,Houston,Houston
+1017068,Cambridge,A Street Cat Named Bob,SIMILAR,Sur,Sur
+1017100,Cambridge,Allegiant,SIMILAR,Fargo,Fargo
+1017169,Cambridge,Battle of the Sexes,SIMILAR,Tampa,Tampa
+1017521,Cambridge,42,SIMILAR,Leon,Leon
+1017725,Cambridge,42,SIMILAR,Cordoba,Cordoba
+1017920,Cambridge,42,SIMILAR,Leon,Leon
+1022481,Alpha,Alien: Covenant,SIMILAR,Start,Start
+1024375,Books,A Man Called Ove,SIMILAR,Book,Book
+1032508,Wonder,Avengers: Age of Ultron,SIMILAR,Marvel,Marvel
+1038986,Start,Alice in Wonderland,SIMILAR,First,First
+1041073,Days,A Street Cat Named Bob,SIMILAR,Day,Day
+1042694,Music,47 Ronin,SIMILAR,Sound,Sound
+1045167,Quakers,Apollo 18,SIMILAR,Penn,Penn
+1047246,Assassins,American Assassin,SIMILAR,Assassin,Assassin
+1050766,Ground,American Sniper,SIMILAR,Reasons,Reasons
+1050771,Ground,Amy,SIMILAR,Why,Why
+1050965,Ground,Abduction,SIMILAR,Reason,Reason
+1055512,Job,Allegiant,SIMILAR,Jobs,Jobs
+1056923,Jobs,Allegiant,SIMILAR,Job,Job
+1057624,Las,20th Century Women,SIMILAR,Me,Me
+1057638,Las,42,SIMILAR,De,De
+1057757,Las,Admission,SIMILAR,Jersey,Jersey
+1057899,Las,Assassin's Creed,SIMILAR,Texas,Texas
+1057995,Las,A Ghost Story,SIMILAR,Or,Or
+1058218,Las,42,SIMILAR,Hi,Hi
+1058362,Las,Angry Birds,SIMILAR,La,La
+1058854,Las,1922,SIMILAR,In,In
+1060431,Raleigh,13 Hours,SIMILAR,Phoenix,Phoenix
+1060442,Raleigh,1922,SIMILAR,Sydney,Sydney
+1060485,Raleigh,50/50,SIMILAR,Boston,Boston
+1062798,Veterans,Ant-Man,SIMILAR,Man,Man
+1062907,Veterans,42,SIMILAR,Men,Men
+1078672,Filtration,About Time,SIMILAR,Change,Change
+1082207,Women,20th Century Women,SIMILAR,Womens,Womens
+1086752,Reasons,Abduction,SIMILAR,Reason,Reason
+1092468,Sunday,August: Osage County,SIMILAR,Roberts,Roberts
+1092924,La,20th Century Women,SIMILAR,Me,Me
+1092938,La,42,SIMILAR,De,De
+1093057,La,Admission,SIMILAR,Jersey,Jersey
+1093199,La,Assassin's Creed,SIMILAR,Texas,Texas
+1093295,La,A Ghost Story,SIMILAR,Or,Or
+1093518,La,42,SIMILAR,Hi,Hi
+1093637,La,Allegiant,SIMILAR,Las,Las
+1094154,La,1922,SIMILAR,In,In
+1095926,Sales,Allegiant,SIMILAR,Marketing,Marketing
+1096604,Sales,A Brilliant Young Mind,SIMILAR,Hawking,Hawking
+1102908,Tom,A Street Cat Named Bob,SIMILAR,Cats,Cats
+1103327,Tom,A Street Cat Named Bob,SIMILAR,Cat,Cat
+1111074,Help,Automata,SIMILAR,Models,Models
+1136965,Argonaut,Arthur,SIMILAR,Merlin,Merlin
+1137473,Argonaut,Arthur,SIMILAR,Arthur,Arthur
+1141145,Adult,Animal Kingdom,SIMILAR,Animal,Animal
+1146443,Fear,A Walk in the Woods,SIMILAR,Care,Care
+1148261,Arthur,Arthur,SIMILAR,Merlin,Merlin
+1148761,Arthur,Argo,SIMILAR,Argonaut,Argonaut
+1153010,Bradley,Assassin's Creed,SIMILAR,Houston,Houston
+1153521,Bradley,Alien: Covenant,SIMILAR,Scott,Scott
+1155832,Houston,Arthur Christmas,SIMILAR,Bradley,Bradley
+1156345,Houston,Alien: Covenant,SIMILAR,Scott,Scott
+1166464,Osage,ATM,SIMILAR,River,River
+1170081,Activities,Allegiant,SIMILAR,Operations,Operations
+1170815,Automata,Anonymous,SIMILAR,Android,Android
+1173693,Models,August: Osage County,SIMILAR,Make,Make
+1187532,Japan,21 & Over,SIMILAR,China,China
+1197413,Henry,20th Century Women,SIMILAR,Nobel,Nobel
+1197895,Henry,August: Osage County,SIMILAR,Roberts,Roberts
+1198441,Henry,1922,SIMILAR,Black,Black
+1202308,Billys,A Walk in the Woods,SIMILAR,Billy,Billy
+1205436,Mars,Battle of the Sexes,SIMILAR,Venus,Venus
+1210767,Explained,A Most Wanted Man,SIMILAR,Explain,Explain
+1220454,Panther,Animal Kingdom,SIMILAR,Lion,Lion
+1221905,In,Battle Los Angeles,SIMILAR,Metal,Metal
+1225768,Red,ATM,SIMILAR,River,River
+1232298,Is,American Sniper,SIMILAR,Been,Been
+1232599,Is,Allied,SIMILAR,Are,Are
+1235637,Films,A Street Cat Named Bob,SIMILAR,Cinema,Cinema
+1236545,Films,Bad Grandpa,SIMILAR,Film,Film
+1239253,Magnet,Admission,SIMILAR,Excellence,Excellence
+1241232,Green,6 Souls,SIMILAR,Tracts,Tracts
+1244184,Leon,Allegiant,SIMILAR,Laredo,Laredo
+1244281,Leon,Assassin's Creed,SIMILAR,Houston,Houston
+1244400,Leon,A Street Cat Named Bob,SIMILAR,Sur,Sur
+1244432,Leon,Allegiant,SIMILAR,Fargo,Fargo
+1244501,Leon,Battle of the Sexes,SIMILAR,Tampa,Tampa
+1244692,Leon,Aftermath,SIMILAR,Cambridge,Cambridge
+1245057,Leon,42,SIMILAR,Cordoba,Cordoba
+1245129,Leon,Aftermath,SIMILAR,Cambridge,Cambridge
+1246371,Mas,Atomic Blonde,SIMILAR,Am,Am
+1248496,Students,Apollo 18,SIMILAR,Watts,Watts
+1248975,Students,American Mary,SIMILAR,Grad,Grad
+1249165,Students,American Ultra,SIMILAR,Stewart,Stewart
+1251296,Service,Annabelle: Creation,SIMILAR,Help,Help
+1255531,Review,Annabelle: Creation,SIMILAR,Critique,Critique
+1258396,Johnson,Arthur,SIMILAR,Arthur,Arthur
+1258485,Johnson,99 Homes,SIMILAR,Garfield,Garfield
+1259718,Hawking,Allegiant,SIMILAR,Marketing,Marketing
+1260280,Hawking,Angry Birds,SIMILAR,Sales,Sales
+1260709,Hawking,Angry Birds,SIMILAR,Sales,Sales
+1264693,Dogs,Aloha,SIMILAR,Dragons,Dragons
+1267224,Puppy,A Dog's Purpose,SIMILAR,Puppies,Puppies
+1274662,Games,Anonymous,SIMILAR,Game,Game
+1294542,Day,About Time,SIMILAR,Time,Time
+1294565,Day,All Eyez on Me,SIMILAR,Days,Days
+1302787,Girls,Abduction,SIMILAR,Girl,Girl
+1304198,Girl,Abduction,SIMILAR,Girls,Girls
+1305457,Reason,American Sniper,SIMILAR,Reasons,Reasons
+1311677,Hour,Anchorman 2: The Legend Continues,SIMILAR,Morning,Morning
+1311682,Hour,Annabelle,SIMILAR,Prime,Prime
+1312625,Excellence,30 Minutes or Less,SIMILAR,Magnet,Magnet
+1315250,Fun,A Million Ways to Die in the West,SIMILAR,Comedy,Comedy
+1322330,Dreams,A Walk in the Woods,SIMILAR,Dream,Dream
+1335168,Operations,Automata,SIMILAR,Activities,Activities
+1338126,Tweet,Angry Birds,SIMILAR,Tweets,Tweets
+1343187,Are,21 & Over,SIMILAR,Is,Is
+1343379,Are,American Sniper,SIMILAR,Been,Been
+1345374,Moment,About Time,SIMILAR,Time,Time
+1346531,Dragons,A Dog's Purpose,SIMILAR,Dogs,Dogs
+1347789,Assassin,Allegiant,SIMILAR,Assassins,Assassins
+1359291,Tweets,Allegiant,SIMILAR,Tweet,Tweet
+1360760,Kingdom,13 Hours,SIMILAR,Country,Country
+1368400,Creation,Adoration,SIMILAR,Art,Art
+1369673,Steel,2 Guns,SIMILAR,Gun,Gun
+1369674,Steel,2 Guns,SIMILAR,Guns,Guns
+1375504,Man,Allegiant,SIMILAR,Veterans,Veterans
+1376040,Man,Allegiant,SIMILAR,Veterans,Veterans
+1376371,Man,42,SIMILAR,Men,Men
+1394526,Am,42,SIMILAR,Mas,Mas
+1401477,Roberts,Anchorman 2: The Legend Continues,SIMILAR,Sunday,Sunday
+1409669,Metal,Annie,SIMILAR,Steel,Steel
+1412853,Venus,Battle of the Sexes,SIMILAR,Mars,Mars
+1414464,Limits,10 Cloverfield Lane,SIMILAR,Ending,Ending
+1417786,Country,A Thousand Words,SIMILAR,Cyprus,Cyprus
+1418611,Country,Animal Kingdom,SIMILAR,Kingdom,Kingdom
+1434420,Purpose,August: Osage County,SIMILAR,Role,Role
+1441365,Facts,A Man Called Ove,SIMILAR,Book,Book
+1441402,Facts,Alex Cross,SIMILAR,Books,Books
+1444597,Cat,A Million Ways to Die in the West,SIMILAR,Seth,Seth
+1444974,Cat,Ant-Man,SIMILAR,Man,Man
+1445101,Cat,42,SIMILAR,Men,Men
+1445166,Cat,A Street Cat Named Bob,SIMILAR,Cats,Cats
+1447825,Leads,Battle Los Angeles,SIMILAR,Metal,Metal
+1447923,Leads,30 Minutes or Less,SIMILAR,Lead,Lead
+1460880,Been,21 & Over,SIMILAR,Is,Is
+1461343,Been,Allied,SIMILAR,Are,Are
+1466558,Game,A Ghost Story,SIMILAR,Games,Games
+1467341,Wasp,Ant-Man,SIMILAR,Ant,Ant
+1475677,Film,A Street Cat Named Bob,SIMILAR,Cinema,Cinema
+1476415,Film,21 Jump Street,SIMILAR,Films,Films
+1483198,March,13 Hours,SIMILAR,Career,Career
+1485670,Ending,Angry Birds,SIMILAR,Last,Last
+1486425,Ending,'71,SIMILAR,Limits,Limits
+1493055,Top,Angry Birds,SIMILAR,Place,Place
+1500237,Phoenix,A Walk Among the Tombstones,SIMILAR,Amazon,Amazon
+1503524,Aviation,Adoration,SIMILAR,Art,Art
+1503817,Black,20th Century Women,SIMILAR,Nobel,Nobel
+1504299,Black,August: Osage County,SIMILAR,Roberts,Roberts
+1504628,Black,Batman v Superman: Dawn of Justice,SIMILAR,Henry,Henry
+1511911,Gun,2 Guns,SIMILAR,Guns,Guns
+1513322,Guns,2 Guns,SIMILAR,Gun,Gun
+1517685,Womens,American Made,SIMILAR,Women,Women
+1527765,Lead,A Thousand Words,SIMILAR,Leads,Leads
+1529412,Men,Allegiant,SIMILAR,Veterans,Veterans
+1529948,Men,Allegiant,SIMILAR,Veterans,Veterans
+1530170,Men,Ant-Man,SIMILAR,Man,Man
+1532232,Cordoba,Allegiant,SIMILAR,Laredo,Laredo
+1532329,Cordoba,Assassin's Creed,SIMILAR,Houston,Houston
+1532448,Cordoba,A Street Cat Named Bob,SIMILAR,Sur,Sur
+1532480,Cordoba,Allegiant,SIMILAR,Fargo,Fargo
+1532549,Cordoba,Battle of the Sexes,SIMILAR,Tampa,Tampa
+1532740,Cordoba,Aftermath,SIMILAR,Cambridge,Cambridge
+1532901,Cordoba,42,SIMILAR,Leon,Leon
+1533177,Cordoba,Aftermath,SIMILAR,Cambridge,Cambridge
+1533300,Cordoba,42,SIMILAR,Leon,Leon
+1580260,Romance,American Made,SIMILAR,Latin,Latin
+1581161,Romance,A Royal Affair,SIMILAR,Romances,Romances
+1589520,Book,A Monster Calls,SIMILAR,Facts,Facts
+1589662,Book,Alex Cross,SIMILAR,Books,Books
+1591058,Reads,Abduction,SIMILAR,Read,Read
+1595407,Explain,10 Cloverfield Lane,SIMILAR,Explained,Explained
+1595756,Years,All Eyez on Me,SIMILAR,Days,Days
+1600028,Romances,American Made,SIMILAR,Latin,Latin
+1600915,Romances,A Haunted House,SIMILAR,Romance,Romance
+1602600,Cats,A Street Cat Named Bob,SIMILAR,Cat,Cat
+1602772,Amazon,ATM,SIMILAR,River,River
+1608181,Dream,Alice Through the Looking Glass,SIMILAR,Dreams,Dreams
+1609744,Nature,45 Years,SIMILAR,World,World
+1619278,Read,A Man Called Ove,SIMILAR,Reads,Reads
+1624485,Time,A Nightmare on Elm Street,SIMILAR,Dead,Dead
+1624716,Time,A Street Cat Named Bob,SIMILAR,Day,Day
+1624752,Time,Aloha,SIMILAR,Moment,Moment
+1624973,Time,All Eyez on Me,SIMILAR,Days,Days
+1626831,Earth,Allegiant,SIMILAR,Ground,Ground
+1631086,Yankees,American Assassin,SIMILAR,American,American
+1633336,Art,1922,SIMILAR,Aviation,Aviation
+1633896,Cambridge,Allegiant,SIMILAR,Laredo,Laredo
+1633993,Cambridge,Assassin's Creed,SIMILAR,Houston,Houston
+1634112,Cambridge,A Street Cat Named Bob,SIMILAR,Sur,Sur
+1634144,Cambridge,Allegiant,SIMILAR,Fargo,Fargo
+1634213,Cambridge,Battle of the Sexes,SIMILAR,Tampa,Tampa
+1634565,Cambridge,42,SIMILAR,Leon,Leon
+1634769,Cambridge,42,SIMILAR,Cordoba,Cordoba
+1634964,Cambridge,42,SIMILAR,Leon,Leon
+1641764,Books,A Monster Calls,SIMILAR,Facts,Facts
+1641869,Books,A Man Called Ove,SIMILAR,Book,Book
+1647127,First,Alien: Covenant,SIMILAR,Start,Start
+1656274,War,Battle Los Angeles,SIMILAR,Battle,Battle
+1657192,Days,A Street Cat Named Bob,SIMILAR,Day,Day
+1657426,Days,About Time,SIMILAR,Time,Time
+1658014,Music,Automata,SIMILAR,Activities,Activities
+1664050,Ground,Absolutely Anything,SIMILAR,Earth,Earth
+1668754,Job,Allegiant,SIMILAR,Jobs,Jobs
+1670165,Jobs,Allegiant,SIMILAR,Job,Job
+1671599,Las,Angry Birds,SIMILAR,La,La
+1676130,John,99 Homes,SIMILAR,Andrew,Andrew
+1676386,John,Bad Words,SIMILAR,Saint,Saint
+1691238,Women,20th Century Women,SIMILAR,Womens,Womens
+1694303,Reasons,Abduction,SIMILAR,Reason,Reason
+1699819,La,Allegiant,SIMILAR,Las,Las
+1700374,Last,Automata,SIMILAR,Activities,Activities
+1701674,Sales,Allegiant,SIMILAR,Marketing,Marketing
+1702352,Sales,A Brilliant Young Mind,SIMILAR,Hawking,Hawking
+1707695,Travel,'71,SIMILAR,March,March
+1751895,Role,A Dog's Purpose,SIMILAR,Purpose,Purpose
+1753560,Activities,2 Guns,SIMILAR,Control,Control
+1754490,Models,Annabelle: Creation,SIMILAR,Help,Help
+1759393,Figure,21 & Over,SIMILAR,Five,Five
+1759864,Figure,"As Above, So Below",SIMILAR,One,One
+1773473,Mars,'71,SIMILAR,March,March
+1778837,Explained,A Most Wanted Man,SIMILAR,Explain,Explain
+1783630,Tough,Ant-Man,SIMILAR,Avengers,Avengers
+1786316,Panther,A Street Cat Named Bob,SIMILAR,Cats,Cats
+1786735,Panther,A Street Cat Named Bob,SIMILAR,Cat,Cat
+1787628,In,20th Century Women,SIMILAR,Me,Me
+1787642,In,42,SIMILAR,De,De
+1787761,In,Admission,SIMILAR,Jersey,Jersey
+1787903,In,Assassin's Creed,SIMILAR,Texas,Texas
+1787999,In,A Ghost Story,SIMILAR,Or,Or
+1788222,In,42,SIMILAR,Hi,Hi
+1788341,In,Allegiant,SIMILAR,Las,Las
+1788366,In,Angry Birds,SIMILAR,La,La
+1789088,Rights,6 Souls,SIMILAR,Tracts,Tracts
+1791657,Control,Automata,SIMILAR,Activities,Activities
+1797463,Is,American Sniper,SIMILAR,Been,Been
+1801708,Films,Bad Grandpa,SIMILAR,Film,Film
+1807572,Leon,Allegiant,SIMILAR,Laredo,Laredo
+1807669,Leon,Assassin's Creed,SIMILAR,Houston,Houston
+1807788,Leon,A Street Cat Named Bob,SIMILAR,Sur,Sur
+1807820,Leon,Allegiant,SIMILAR,Fargo,Fargo
+1807889,Leon,Battle of the Sexes,SIMILAR,Tampa,Tampa
+1808080,Leon,Aftermath,SIMILAR,Cambridge,Cambridge
+1808445,Leon,42,SIMILAR,Cordoba,Cordoba
+1808517,Leon,Aftermath,SIMILAR,Cambridge,Cambridge
+1820372,Johnson,Arthur,SIMILAR,Arthur,Arthur
+1820461,Johnson,99 Homes,SIMILAR,Garfield,Garfield
+1832767,Games,Anonymous,SIMILAR,Game,Game
+1842986,Playing,Automata,SIMILAR,Activities,Activities
+1848771,Miller,Allegiant,SIMILAR,Vegas,Vegas
+1851943,Care,Arrival,SIMILAR,Fear,Fear
+1855270,Girls,Abduction,SIMILAR,Girl,Girl
+1856681,Girl,Abduction,SIMILAR,Girls,Girls
+1857979,Reason,American Sniper,SIMILAR,Reasons,Reasons
+1858955,Change,American Made,SIMILAR,Filtration,Filtration
+1864166,Fun,Automata,SIMILAR,Activities,Activities
+1867320,Affair,A Cure for Wellness,SIMILAR,Fundraiser,Fundraiser
+1872038,Dreams,A Walk in the Woods,SIMILAR,Dream,Dream
+1874010,Con,Apollo 18,SIMILAR,Fraud,Fraud
+1877364,Scott,Arthur Christmas,SIMILAR,Bradley,Bradley
+1877366,Scott,Assassin's Creed,SIMILAR,Houston,Houston
+1882126,Tweet,Angry Birds,SIMILAR,Tweets,Tweets
+1885892,Are,21 & Over,SIMILAR,Is,Is
+1886054,Are,American Sniper,SIMILAR,Been,Been
+1891184,Bass,Attack the Block,SIMILAR,Bailey,Bailey
+1894420,Morning,Absolutely Anything,SIMILAR,Hour,Hour
+1896236,Tweets,Allegiant,SIMILAR,Tweet,Tweet
+1897779,Complement,42,SIMILAR,Men,Men
+1901480,Prime,Absolutely Anything,SIMILAR,Hour,Hour
+1917923,Morgan,A Royal Affair,SIMILAR,Raider,Raider
+1935994,Club,A Walk in the Woods,SIMILAR,Billy,Billy
+1936204,Club,Battle of the Sexes,SIMILAR,Billys,Billys
+1942923,Shows,12 Years a Slave,SIMILAR,Movies,Movies
+1943001,Shows,A Bad Moms Christmas,SIMILAR,Movie,Movie
+1943290,Shows,21 Jump Street,SIMILAR,Films,Films
+1943494,Shows,Bad Grandpa,SIMILAR,Film,Film
+1944574,Country,Animal Kingdom,SIMILAR,British,British
+1959921,Down,47 Meters Down,SIMILAR,Harvey,Harvey
+1966638,Cat,A Street Cat Named Bob,SIMILAR,Cats,Cats
+1967997,Leads,30 Minutes or Less,SIMILAR,Lead,Lead
+1976660,Been,21 & Over,SIMILAR,Is,Is
+1982333,Game,A Ghost Story,SIMILAR,Games,Games
+1989371,Film,21 Jump Street,SIMILAR,Films,Films
+1991500,Battle,Attack the Block,SIMILAR,Uprising,Uprising
+1992092,Battle,Alien: Covenant,SIMILAR,War,War

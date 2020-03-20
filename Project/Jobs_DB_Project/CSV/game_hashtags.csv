@@ -1,0 +1,642 @@
+id,created_at,hashtags,game
+6,2018-04-18 01:01:43,gamergate,Counter-Strike
+10,2018-04-18 00:58:24,csgo,Counter-Strike
+12,2018-04-18 00:47:52,foxplayer,Counter-Strike
+49,2018-04-17 23:48:41,Gaming,Counter-Strike
+58,2018-04-17 23:36:50,twitchkittens,Counter-Strike
+58,2018-04-17 23:36:50,SupportSmallStreamers,Counter-Strike
+59,2018-04-17 23:33:51,OurCurse,Counter-Strike
+63,2018-04-17 23:30:30,OurCurse,Counter-Strike
+101,2018-04-14 20:56:58,left,Left 4 Dead
+102,2018-04-13 03:00:03,Left,Left 4 Dead
+102,2018-04-13 03:00:03,Dead,Left 4 Dead
+102,2018-04-13 03:00:03,Steam,Left 4 Dead
+103,2018-04-12 15:45:05,Left,Left 4 Dead
+103,2018-04-12 15:45:05,Dead,Left 4 Dead
+104,2018-04-11 22:10:05,Left,Left 4 Dead
+104,2018-04-11 22:10:05,Dead,Left 4 Dead
+105,2018-04-09 21:10:06,Left,Left 4 Dead
+105,2018-04-09 21:10:06,Dead,Left 4 Dead
+106,2018-04-08 19:25:05,Left,Left 4 Dead
+106,2018-04-08 19:25:05,Dead,Left 4 Dead
+107,2018-04-17 23:44:08,europe,Dota 2
+107,2018-04-17 23:44:08,dota,Dota 2
+108,2018-04-17 23:43:43,DOTA,Dota 2
+109,2018-04-17 23:41:09,DOTA,Dota 2
+110,2018-04-17 22:46:48,europe,Dota 2
+110,2018-04-17 22:46:48,dota,Dota 2
+111,2018-04-17 21:43:48,DOTA,Dota 2
+112,2018-04-17 20:51:18,DOTA,Dota 2
+113,2018-04-17 20:43:44,DOTA,Dota 2
+114,2018-04-17 20:36:18,DOTA,Dota 2
+116,2018-04-17 17:33:59,dota,Dota 2
+116,2018-04-17 17:33:59,dota2,Dota 2
+118,2018-04-17 16:43:46,DOTA,Dota 2
+119,2018-04-17 16:43:44,DOTA,Dota 2
+120,2018-04-17 16:31:09,DOTA,Dota 2
+121,2018-04-17 15:46:52,DOTA,Dota 2
+122,2018-04-17 15:43:47,DOTA,Dota 2
+123,2018-04-17 14:51:16,DOTA,Dota 2
+124,2018-04-17 14:43:46,DOTA,Dota 2
+125,2018-04-17 14:01:38,DOTA,Dota 2
+126,2018-04-17 13:43:54,DOTA,Dota 2
+127,2018-04-17 13:43:46,Dota,Dota 2
+128,2018-04-17 13:43:04,dota,Dota 2
+128,2018-04-17 13:43:04,dota2,Dota 2
+129,2018-04-17 13:41:58,Dota,Dota 2
+130,2018-04-17 13:36:10,DOTA,Dota 2
+133,2018-04-17 12:56:33,DOTA,Dota 2
+134,2018-04-17 12:54:59,DOTA,Dota 2
+135,2018-04-17 12:43:54,dota2plus,Dota 2
+135,2018-04-17 12:43:54,dota2plus,Dota 2
+135,2018-04-17 12:43:54,ileague,Dota 2
+135,2018-04-17 12:43:54,sltv,Dota 2
+136,2018-04-17 12:43:43,DOTA,Dota 2
+137,2018-04-17 12:31:12,DOTA,Dota 2
+138,2018-04-17 12:07:06,dota2plus,Dota 2
+138,2018-04-17 12:07:06,dota2plus,Dota 2
+138,2018-04-17 12:07:06,ileague,Dota 2
+139,2018-04-17 11:43:47,dota,Dota 2
+139,2018-04-17 11:43:47,dota2,Dota 2
+140,2018-04-17 10:57:25,dota,Dota 2
+140,2018-04-17 10:57:25,dota2,Dota 2
+141,2018-04-17 10:43:52,ESLAUNZ,Dota 2
+141,2018-04-17 10:43:52,DOTA,Dota 2
+142,2018-04-17 10:34:46,ESLAUNZ,Dota 2
+142,2018-04-17 10:34:46,DOTA,Dota 2
+143,2018-04-17 10:33:22,ESLAUNZ,Dota 2
+143,2018-04-17 10:33:22,DOTA,Dota 2
+144,2018-04-17 09:43:58,GLHF,Dota 2
+144,2018-04-17 09:43:58,TRIDENT,Dota 2
+144,2018-04-17 09:43:58,ESLAUNZ,Dota 2
+144,2018-04-17 09:43:58,DOTA,Dota 2
+145,2018-04-17 09:43:44,GLHF,Dota 2
+145,2018-04-17 09:43:44,TRIDENT,Dota 2
+145,2018-04-17 09:43:44,ESLAUNZ,Dota 2
+145,2018-04-17 09:43:44,DOTA,Dota 2
+146,2018-04-17 09:43:08,GLHF,Dota 2
+146,2018-04-17 09:43:08,TRIDENT,Dota 2
+146,2018-04-17 09:43:08,ESLAUNZ,Dota 2
+146,2018-04-17 09:43:08,DOTA,Dota 2
+147,2018-04-17 09:42:58,GLHF,Dota 2
+147,2018-04-17 09:42:58,TRIDENT,Dota 2
+147,2018-04-17 09:42:58,ESLAUNZ,Dota 2
+147,2018-04-17 09:42:58,DOTA,Dota 2
+148,2018-04-17 08:43:54,Dota,Dota 2
+148,2018-04-17 08:43:54,Dota2ApparelAustralia,Dota 2
+149,2018-04-17 08:12:25,Dota,Dota 2
+150,2018-04-17 08:05:44,dota,Dota 2
+150,2018-04-17 08:05:44,dota2,Dota 2
+151,2018-04-17 07:57:00,Dota2,Dota 2
+151,2018-04-17 07:57:00,Gaming,Dota 2
+151,2018-04-17 07:57:00,PCGames,Dota 2
+151,2018-04-17 07:57:00,Dota,Dota 2
+152,2018-04-17 07:44:02,DOTA,Dota 2
+153,2018-04-17 07:43:55,Dota,Dota 2
+153,2018-04-17 07:43:55,Steam,Dota 2
+154,2018-04-17 07:30:04,Dota,Dota 2
+154,2018-04-17 07:30:04,Steam,Dota 2
+155,2018-04-17 07:06:19,DOTA,Dota 2
+156,2018-04-17 06:43:51,DOTA,Dota 2
+157,2018-04-17 06:43:44,DOTA,Dota 2
+158,2018-04-17 05:46:28,DOTA,Dota 2
+159,2018-04-17 05:46:27,DOTA,Dota 2
+160,2018-04-17 04:43:43,DOTA,Dota 2
+161,2018-04-17 04:16:11,DOTA,Dota 2
+162,2018-04-17 03:43:53,dota,Dota 2
+162,2018-04-17 03:43:53,Supportsmallstreams,Dota 2
+162,2018-04-17 03:43:53,twitch,Dota 2
+162,2018-04-17 03:43:53,streamer,Dota 2
+162,2018-04-17 03:43:53,dota2,Dota 2
+163,2018-04-17 03:16:53,dota,Dota 2
+163,2018-04-17 03:16:53,Supportsmallstreams,Dota 2
+163,2018-04-17 03:16:53,twitch,Dota 2
+163,2018-04-17 03:16:53,streamer,Dota 2
+164,2018-04-16 20:43:58,Dota,Dota 2
+164,2018-04-16 20:43:58,Steam,Dota 2
+165,2018-04-16 20:43:51,DOTA,Dota 2
+166,2018-04-16 20:02:19,DOTA,Dota 2
+167,2018-04-16 20:00:03,Dota,Dota 2
+167,2018-04-16 20:00:03,Steam,Dota 2
+168,2018-04-16 19:43:50,DOTA,Dota 2
+169,2018-04-16 19:17:05,DOTA,Dota 2
+170,2018-04-16 18:43:58,FelizLunes,Dota 2
+170,2018-04-16 18:43:58,SteamCards,Dota 2
+171,2018-04-16 18:43:56,DOTA,Dota 2
+172,2018-04-16 18:43:50,DOTA,Dota 2
+173,2018-04-16 18:43:43,Dota,Dota 2
+174,2018-04-16 18:42:38,Dota,Dota 2
+175,2018-04-16 18:21:35,DOTA,Dota 2
+176,2018-04-16 18:21:35,DOTA,Dota 2
+177,2018-04-16 18:11:07,FelizLunes,Dota 2
+177,2018-04-16 18:11:07,SteamCards,Dota 2
+178,2018-04-16 16:43:49,Dota,Dota 2
+181,2018-04-16 16:17:07,Dota,Dota 2
+182,2018-04-16 16:11:19,DOTA,Dota 2
+183,2018-04-16 15:44:08,dota,Dota 2
+183,2018-04-16 15:44:08,gameplay,Dota 2
+183,2018-04-16 15:44:08,multiplayer,Dota 2
+184,2018-04-16 15:43:51,DOTA,Dota 2
+185,2018-04-16 15:36:22,DOTA,Dota 2
+186,2018-04-16 15:19:43,dota,Dota 2
+186,2018-04-16 15:19:43,gameplay,Dota 2
+186,2018-04-16 15:19:43,multiplayer,Dota 2
+187,2018-04-16 15:15:21,dota,Dota 2
+187,2018-04-16 15:15:21,gameplay,Dota 2
+187,2018-04-16 15:15:21,multiplayer,Dota 2
+188,2018-04-16 13:50:13,Dota,Dota 2
+189,2018-04-16 12:43:53,DOTA,Dota 2
+190,2018-04-16 12:06:41,DOTA,Dota 2
+191,2018-04-16 09:43:55,Dota,Dota 2
+191,2018-04-16 09:43:55,Steam,Dota 2
+192,2018-04-16 09:30:03,Dota,Dota 2
+192,2018-04-16 09:30:03,Steam,Dota 2
+193,2018-04-16 08:43:44,DOTA,Dota 2
+194,2018-04-16 08:36:15,DOTA,Dota 2
+195,2018-04-16 07:37:20,dota,Dota 2
+195,2018-04-16 07:37:20,dota2,Dota 2
+195,2018-04-16 07:37:20,dota2turkiye,Dota 2
+195,2018-04-16 07:37:20,turkdotasi,Dota 2
+196,2018-04-16 06:43:46,Dota,Dota 2
+196,2018-04-16 06:43:46,Steam,Dota 2
+197,2018-04-16 06:00:25,Dota,Dota 2
+197,2018-04-16 06:00:25,Steam,Dota 2
+198,2018-04-16 02:43:44,DOTA,Dota 2
+199,2018-04-16 02:16:28,DOTA,Dota 2
+200,2018-04-16 00:43:46,DOTA,Dota 2
+201,2018-04-15 23:51:11,DOTA,Dota 2
+202,2018-04-15 23:43:53,MLB,Dota 2
+202,2018-04-15 23:43:53,EPL,Dota 2
+202,2018-04-15 23:43:53,NBA,Dota 2
+203,2018-04-15 23:43:44,MLB,Dota 2
+203,2018-04-15 23:43:44,EPL,Dota 2
+203,2018-04-15 23:43:44,NBA,Dota 2
+204,2018-04-15 23:30:10,MLB,Dota 2
+204,2018-04-15 23:30:10,EPL,Dota 2
+205,2018-04-15 23:29:50,MLB,Dota 2
+205,2018-04-15 23:29:50,EPL,Dota 2
+205,2018-04-15 23:29:50,NBA,Dota 2
+206,2018-04-15 20:43:44,DOTA,Dota 2
+208,2018-04-17 19:41:41,DanaDurnford,Fallout 3
+208,2018-04-17 19:41:41,BanTokyo2020,Fallout 3
+208,2018-04-17 19:41:41,StopTokyo2020,Fallout 3
+209,2018-04-17 14:54:45,Prepared,Fallout 3
+209,2018-04-17 14:54:45,Fallout,Fallout 3
+210,2018-04-17 10:38:24,seabiscuit,Fallout 3
+210,2018-04-17 10:38:24,fallout,Fallout 3
+210,2018-04-17 10:38:24,thestandard,Fallout 3
+210,2018-04-17 10:38:24,doublestandard,Fallout 3
+211,2018-04-17 10:28:09,seabiscuit,Fallout 3
+211,2018-04-17 10:28:09,fallout,Fallout 3
+211,2018-04-17 10:28:09,thestandard,Fallout 3
+212,2018-04-16 17:33:08,vacation,Fallout 3
+212,2018-04-16 17:33:08,fallout,Fallout 3
+213,2018-04-16 16:53:40,Fallout,Fallout 3
+213,2018-04-16 16:53:40,retroREPLAY,Fallout 3
+214,2018-04-16 14:45:46,Fallout,Fallout 3
+214,2018-04-16 14:45:46,lootcrate,Fallout 3
+215,2018-04-16 14:31:31,littlepip,Fallout 3
+215,2018-04-16 14:31:31,pip,Fallout 3
+215,2018-04-16 14:31:31,lilpip,Fallout 3
+215,2018-04-16 14:31:31,unicorn,Fallout 3
+215,2018-04-16 14:31:31,mare,Fallout 3
+215,2018-04-16 14:31:31,chibi,Fallout 3
+215,2018-04-16 14:31:31,bronycon2018,Fallout 3
+215,2018-04-16 14:31:31,bronycon,Fallout 3
+217,2018-04-16 13:30:17,scifi,Fallout 3
+217,2018-04-16 13:30:17,fallout,Fallout 3
+218,2018-04-16 13:00:19,scifi,Fallout 3
+218,2018-04-16 13:00:19,fallout,Fallout 3
+219,2018-04-16 11:31:24,Fallout,Fallout 3
+219,2018-04-16 11:31:24,retroREPLAY,Fallout 3
+220,2018-04-16 11:09:17,Fallout,Fallout 3
+220,2018-04-16 11:09:17,retroREPLAY,Fallout 3
+222,2018-04-16 10:19:58,Fallout,Fallout 3
+222,2018-04-16 10:19:58,retroREPLAY,Fallout 3
+223,2018-04-16 10:05:16,Fallout,Fallout 3
+223,2018-04-16 10:05:16,retroREPLAY,Fallout 3
+224,2018-04-16 10:04:58,Fallout,Fallout 3
+224,2018-04-16 10:04:58,retroREPLAY,Fallout 3
+225,2018-04-16 09:53:37,Fallout,Fallout 3
+225,2018-04-16 09:53:37,retroREPLAY,Fallout 3
+226,2018-04-16 09:49:19,Fallout,Fallout 3
+226,2018-04-16 09:49:19,retroREPLAY,Fallout 3
+227,2018-04-16 09:44:40,Fallout,Fallout 3
+227,2018-04-16 09:44:40,retroREPLAY,Fallout 3
+228,2018-04-16 09:36:51,Fallout,Fallout 3
+228,2018-04-16 09:36:51,retroREPLAY,Fallout 3
+229,2018-04-16 09:34:41,Fallout,Fallout 3
+229,2018-04-16 09:34:41,retroREPLAY,Fallout 3
+230,2018-04-16 09:31:17,Fallout,Fallout 3
+230,2018-04-16 09:31:17,retroREPLAY,Fallout 3
+231,2018-04-16 09:31:00,Fallout,Fallout 3
+231,2018-04-16 09:31:00,retroREPLAY,Fallout 3
+232,2018-04-15 22:37:04,Fallout3,Fallout 3
+232,2018-04-15 22:37:04,Fallout,Fallout 3
+234,2018-04-14 18:39:03,MissionImpossibleIII,Fallout 3
+234,2018-04-14 18:39:03,JJAbrams,Fallout 3
+235,2018-04-14 16:35:03,fortnite,Fallout 3
+235,2018-04-14 16:35:03,truegamer,Fallout 3
+235,2018-04-14 16:35:03,COD,Fallout 3
+235,2018-04-14 16:35:03,Blackops,Fallout 3
+235,2018-04-14 16:35:03,fallout,Fallout 3
+235,2018-04-14 16:35:03,skyrim,Fallout 3
+236,2018-04-13 15:58:05,fallout,Fallout 3
+236,2018-04-13 15:58:05,bethesda,Fallout 3
+236,2018-04-13 15:58:05,nostalgia,Fallout 3
+237,2018-04-13 15:57:55,fallout,Fallout 3
+237,2018-04-13 15:57:55,bethesda,Fallout 3
+237,2018-04-13 15:57:55,nostalgia,Fallout 3
+239,2018-04-12 22:33:38,fallout,Fallout 3
+240,2018-04-12 22:04:11,Fallout,Fallout 3
+240,2018-04-12 22:04:11,Fallout3,Fallout 3
+240,2018-04-12 22:04:11,gaming,Fallout 3
+240,2018-04-12 22:04:11,gamers,Fallout 3
+240,2018-04-12 22:04:11,videogames,Fallout 3
+240,2018-04-12 22:04:11,games,Fallout 3
+241,2018-04-12 20:09:55,DanaDurnford,Fallout 3
+241,2018-04-12 20:09:55,BanTokyo2020,Fallout 3
+241,2018-04-12 20:09:55,StopTokyo2020,Fallout 3
+242,2018-04-12 16:09:14,FalloutShelter,Fallout 3
+248,2018-04-12 11:20:28,FalloutShelter,Fallout 3
+249,2018-04-12 02:45:24,DanaDurnford,Fallout 3
+249,2018-04-12 02:45:24,BanTokyo2020,Fallout 3
+249,2018-04-12 02:45:24,StopTokyo2020,Fallout 3
+250,2018-04-11 18:51:05,Fallout,Fallout 3
+250,2018-04-11 18:51:05,Bethesda,Fallout 3
+250,2018-04-11 18:51:05,Nintendo,Fallout 3
+250,2018-04-11 18:51:05,Switch,Fallout 3
+251,2018-04-11 15:27:33,DanaDurnford,Fallout 3
+251,2018-04-11 15:27:33,BanTokyo2020,Fallout 3
+251,2018-04-11 15:27:33,StopTokyo2020,Fallout 3
+252,2018-04-11 05:31:46,Fallout,Fallout 3
+253,2018-04-11 03:59:01,PixelArt,Fallout 3
+253,2018-04-11 03:59:01,Fallout,Fallout 3
+253,2018-04-11 03:59:01,Pokemon,Fallout 3
+254,2018-04-11 03:31:53,Fallout,Fallout 3
+255,2018-04-10 16:28:11,DanaDurnford,Fallout 3
+255,2018-04-10 16:28:11,BanTokyo2020,Fallout 3
+255,2018-04-10 16:28:11,StopTokyo2020,Fallout 3
+256,2018-04-10 12:01:26,Fallout,Fallout 3
+256,2018-04-10 12:01:26,Fallout,Fallout 3
+257,2018-04-10 10:22:01,Oblivion,Fallout 3
+257,2018-04-10 10:22:01,Fallout,Fallout 3
+258,2018-04-10 02:14:58,DanaDurnford,Fallout 3
+258,2018-04-10 02:14:58,BanTokyo2020,Fallout 3
+258,2018-04-10 02:14:58,StopTokyo2020,Fallout 3
+260,2018-04-09 18:43:37,DanaDurnford,Fallout 3
+260,2018-04-09 18:43:37,BanTokyo2020,Fallout 3
+260,2018-04-09 18:43:37,StopTokyo2020,Fallout 3
+261,2018-04-08 22:31:09,FALLOUT,Fallout 3
+262,2018-04-08 22:08:19,FALLOUT,Fallout 3
+263,2018-04-08 22:05:01,FALLOUT,Fallout 3
+264,2018-04-08 13:23:07,Fallout,Fallout 3
+265,2018-04-08 02:36:19,BE3,Fallout 3
+265,2018-04-08 02:36:19,Bethesda,Fallout 3
+265,2018-04-08 02:36:19,fallout,Fallout 3
+265,2018-04-08 02:36:19,fo4,Fallout 3
+266,2018-04-07 20:21:29,DanaDurnford,Fallout 3
+266,2018-04-07 20:21:29,BanTokyo2020,Fallout 3
+266,2018-04-07 20:21:29,StopTokyo2020,Fallout 3
+267,2018-04-07 12:38:31,fallout,Fallout 3
+267,2018-04-07 12:38:31,fallout4,Fallout 3
+267,2018-04-07 12:38:31,twitchkittens,Fallout 3
+267,2018-04-07 12:38:31,twitch,Fallout 3
+268,2018-04-16 05:05:05,Empire,Empire: Total War
+268,2018-04-16 05:05:05,Total,Empire: Total War
+270,2018-04-13 16:25:06,Empire,Empire: Total War
+270,2018-04-13 16:25:06,Total,Empire: Total War
+271,2018-04-13 16:25:05,Empire,Empire: Total War
+271,2018-04-13 16:25:05,Total,Empire: Total War
+272,2018-04-17 23:26:14,Call,Call of Duty
+273,2018-04-17 22:10:56,call,Call of Duty
+275,2018-04-17 19:14:18,call,Call of Duty
+275,2018-04-17 19:14:18,of,Call of Duty
+275,2018-04-17 19:14:18,duty,Call of Duty
+276,2018-04-17 17:00:05,Call,Call of Duty
+276,2018-04-17 17:00:05,Duty,Call of Duty
+278,2018-04-17 06:41:32,zu,Call of Duty
+278,2018-04-17 06:41:32,Call,Call of Duty
+278,2018-04-17 06:41:32,of,Call of Duty
+278,2018-04-17 06:41:32,Duty,Call of Duty
+278,2018-04-17 06:41:32,Black,Call of Duty
+278,2018-04-17 06:41:32,Ops,Call of Duty
+278,2018-04-17 06:41:32,Logo,Call of Duty
+279,2018-04-17 06:27:07,Call,Call of Duty
+279,2018-04-17 06:27:07,Minecraft,Call of Duty
+279,2018-04-17 06:27:07,Overwatch,Call of Duty
+279,2018-04-17 06:27:07,liveme,Call of Duty
+283,2018-04-16 14:00:49,PROMO,Call of Duty
+283,2018-04-16 14:00:49,CALL,Call of Duty
+283,2018-04-16 14:00:49,OF,Call of Duty
+283,2018-04-16 14:00:49,DUTY,Call of Duty
+283,2018-04-16 14:00:49,INFINITE,Call of Duty
+283,2018-04-16 14:00:49,WARFARE,Call of Duty
+283,2018-04-16 14:00:49,STEAM,Call of Duty
+286,2018-04-15 21:14:26,Call,Call of Duty
+286,2018-04-15 21:14:26,PUBG,Call of Duty
+287,2018-04-15 20:20:07,Call,Call of Duty
+287,2018-04-15 20:20:07,Duty,Call of Duty
+289,2018-04-15 05:39:49,Call,Call of Duty
+290,2018-04-15 01:09:13,CALL,Call of Duty
+292,2018-04-14 16:10:06,Call,Call of Duty
+292,2018-04-14 16:10:06,Duty,Call of Duty
+293,2018-04-14 11:15:40,Call,Call of Duty
+293,2018-04-14 11:15:40,Duty,Call of Duty
+293,2018-04-14 11:15:40,jeux,Call of Duty
+293,2018-04-14 11:15:40,populaire,Call of Duty
+293,2018-04-14 11:15:40,enfants,Call of Duty
+293,2018-04-14 11:15:40,adolescent,Call of Duty
+294,2018-04-13 15:38:05,Call,Call of Duty
+295,2018-04-13 14:25:24,Call,Call of Duty
+297,2018-04-13 08:50:20,Call,Call of Duty
+299,2018-04-13 02:23:49,Call,Call of Duty
+299,2018-04-13 02:23:49,Cons,Call of Duty
+300,2018-04-13 00:15:08,Call,Call of Duty
+301,2018-04-12 09:59:46,incharge,Call of Duty
+303,2018-04-12 04:27:01,Call,Call of Duty
+303,2018-04-12 04:27:01,Esp,Call of Duty
+303,2018-04-12 04:27:01,liveme,Call of Duty
+304,2018-04-12 03:56:20,Call,Call of Duty
+305,2018-04-12 03:12:01,Call,Call of Duty
+305,2018-04-12 03:12:01,Esp,Call of Duty
+305,2018-04-12 03:12:01,liveme,Call of Duty
+306,2018-04-12 02:35:29,Call,Call of Duty
+307,2018-04-11 19:32:50,PS4live,Call of Duty
+307,2018-04-11 19:32:50,Call,Call of Duty
+308,2018-04-18 00:00:44,Twitch,Divinity 2
+308,2018-04-18 00:00:44,Divinity,Divinity 2
+311,2018-04-17 12:00:12,Divinity,Divinity 2
+315,2018-04-17 04:31:38,streaming,Divinity 2
+315,2018-04-17 04:31:38,Divinity,Divinity 2
+316,2018-04-17 01:51:36,Divinity,Divinity 2
+324,2018-04-14 12:00:11,Divinity,Divinity 2
+325,2018-04-14 03:08:14,RELIGIONS,Divinity 2
+325,2018-04-14 03:08:14,Theology,Divinity 2
+325,2018-04-14 03:08:14,Divinity,Divinity 2
+325,2018-04-14 03:08:14,Sacred,Divinity 2
+325,2018-04-14 03:08:14,Economics,Divinity 2
+325,2018-04-14 03:08:14,Money,Divinity 2
+325,2018-04-14 03:08:14,Debt,Divinity 2
+325,2018-04-14 03:08:14,Usury,Divinity 2
+326,2018-04-13 19:49:54,Deadpool,Divinity 2
+328,2018-04-13 13:59:12,Shrimad,Divinity 2
+328,2018-04-13 13:59:12,Bhagavat,Divinity 2
+328,2018-04-13 13:59:12,Katha,Divinity 2
+328,2018-04-13 13:59:12,Bhaishriji,Divinity 2
+328,2018-04-13 13:59:12,HinduSpiritualleader,Divinity 2
+328,2018-04-13 13:59:12,Vedanta,Divinity 2
+328,2018-04-13 13:59:12,Divine,Divinity 2
+328,2018-04-13 13:59:12,Divinity,Divinity 2
+328,2018-04-13 13:59:12,Shree,Divinity 2
+330,2018-04-12 12:00:16,Divinity,Divinity 2
+332,2018-04-11 00:52:58,Ironman,Divinity 2
+333,2018-04-10 14:01:41,Divinity,Divinity 2
+333,2018-04-10 14:01:41,XboxOne,Divinity 2
+334,2018-04-10 12:00:09,Divinity,Divinity 2
+335,2018-04-09 04:22:35,RPG,Divinity 2
+335,2018-04-09 04:22:35,DIVINITY,Divinity 2
+335,2018-04-09 04:22:35,PlayStation4,Divinity 2
+335,2018-04-09 04:22:35,XboxOne,Divinity 2
+336,2018-04-09 04:15:15,streaming,Divinity 2
+336,2018-04-09 04:15:15,game,Divinity 2
+336,2018-04-09 04:15:15,Divinity,Divinity 2
+336,2018-04-09 04:15:15,divinity,Divinity 2
+337,2018-04-09 03:58:35,RPG,Divinity 2
+337,2018-04-09 03:58:35,DIVINITY,Divinity 2
+337,2018-04-09 03:58:35,PlayStation4,Divinity 2
+337,2018-04-09 03:58:35,XboxOne,Divinity 2
+338,2018-04-09 03:36:07,streaming,Divinity 2
+338,2018-04-09 03:36:07,game,Divinity 2
+338,2018-04-09 03:36:07,Divinity,Divinity 2
+338,2018-04-09 03:36:07,divinity,Divinity 2
+339,2018-04-09 03:35:59,Divinity,Divinity 2
+340,2018-04-09 03:25:31,streaming,Divinity 2
+340,2018-04-09 03:25:31,game,Divinity 2
+340,2018-04-09 03:25:31,Divinity,Divinity 2
+340,2018-04-09 03:25:31,divinity,Divinity 2
+341,2018-04-09 03:18:48,streaming,Divinity 2
+341,2018-04-09 03:18:48,game,Divinity 2
+341,2018-04-09 03:18:48,Divinity,Divinity 2
+341,2018-04-09 03:18:48,divinity,Divinity 2
+342,2018-04-09 03:16:58,Divinity,Divinity 2
+343,2018-04-09 02:29:58,Divinity,Divinity 2
+343,2018-04-09 02:29:58,OriginalSin2,Divinity 2
+344,2018-04-08 21:49:03,Repost,Divinity 2
+344,2018-04-08 21:49:03,BandaiNamco,Divinity 2
+344,2018-04-08 21:49:03,PS4,Divinity 2
+345,2018-04-08 20:59:49,Superman,Divinity 2
+345,2018-04-08 20:59:49,Divinity,Divinity 2
+346,2018-04-08 15:09:25,Divinity,Divinity 2
+346,2018-04-08 15:09:25,XboxOne,Divinity 2
+347,2018-04-08 13:57:53,Repost,Divinity 2
+347,2018-04-08 13:57:53,BandaiNamco,Divinity 2
+347,2018-04-08 13:57:53,PS4,Divinity 2
+348,2018-04-08 13:35:18,Repost,Divinity 2
+348,2018-04-08 13:35:18,BandaiNamco,Divinity 2
+348,2018-04-08 13:35:18,PS4,Divinity 2
+349,2018-04-08 13:31:19,Repost,Divinity 2
+349,2018-04-08 13:31:19,BandaiNamco,Divinity 2
+349,2018-04-08 13:31:19,PS4,Divinity 2
+350,2018-04-08 13:20:04,Repost,Divinity 2
+350,2018-04-08 13:20:04,BandaiNamco,Divinity 2
+351,2018-04-08 12:36:53,Divinity,Divinity 2
+351,2018-04-08 12:36:53,XboxOne,Divinity 2
+352,2018-04-08 02:36:03,blood,Divinity 2
+353,2018-04-07 20:27:06,Divinity,Divinity 2
+353,2018-04-07 20:27:06,XboxOne,Divinity 2
+354,2018-04-07 13:21:00,Repost,Divinity 2
+354,2018-04-07 13:21:00,BandaiNamco,Divinity 2
+354,2018-04-07 13:21:00,PS4,Divinity 2
+355,2018-04-07 13:20:04,Repost,Divinity 2
+355,2018-04-07 13:20:04,BandaiNamco,Divinity 2
+356,2018-04-07 12:00:12,Divinity,Divinity 2
+357,2018-04-18 01:10:02,earthquake,Quake
+357,2018-04-18 01:10:02,quake,Quake
+358,2018-04-18 01:02:47,earthquake,Quake
+358,2018-04-18 01:02:47,quake,Quake
+359,2018-04-18 01:02:02,earthquake,Quake
+359,2018-04-18 01:02:02,quake,Quake
+360,2018-04-18 00:58:02,earthquake,Quake
+360,2018-04-18 00:58:02,quake,Quake
+361,2018-04-18 00:55:41,earthquake,Quake
+361,2018-04-18 00:55:41,quake,Quake
+362,2018-04-18 00:53:33,quake,Quake
+363,2018-04-18 00:49:02,earthquake,Quake
+363,2018-04-18 00:49:02,quake,Quake
+365,2018-04-18 00:47:02,earthquake,Quake
+365,2018-04-18 00:47:02,quake,Quake
+366,2018-04-18 00:36:34,earthquake,Quake
+366,2018-04-18 00:36:34,quake,Quake
+367,2018-04-18 00:36:02,earthquake,Quake
+367,2018-04-18 00:36:02,quake,Quake
+368,2018-04-18 00:36:02,earthquake,Quake
+368,2018-04-18 00:36:02,quake,Quake
+369,2018-04-18 00:35:14,quake,Quake
+370,2018-04-18 00:34:59,earthquake,Quake
+370,2018-04-18 00:34:59,quake,Quake
+371,2018-04-18 00:30:38,Earthquake,Quake
+371,2018-04-18 00:30:38,quake,Quake
+371,2018-04-18 00:30:38,earth,Quake
+371,2018-04-18 00:30:38,地震,Quake
+371,2018-04-18 00:30:38,WebSite,Quake
+371,2018-04-18 00:30:38,Web,Quake
+372,2018-04-18 00:30:15,quake,Quake
+373,2018-04-18 00:29:02,earthquake,Quake
+374,2018-04-18 00:26:44,quake,Quake
+375,2018-04-18 00:25:15,quake,Quake
+376,2018-04-18 00:25:03,earthquake,Quake
+376,2018-04-18 00:25:03,quake,Quake
+378,2018-04-18 00:05:16,quake,Quake
+379,2018-04-18 00:05:02,earthquake,Quake
+380,2018-04-17 23:47:02,earthquake,Quake
+380,2018-04-17 23:47:02,quake,Quake
+381,2018-04-17 23:45:33,earthquake,Quake
+381,2018-04-17 23:45:33,quake,Quake
+382,2018-04-17 23:42:02,earthquake,Quake
+382,2018-04-17 23:42:02,quake,Quake
+383,2018-04-17 23:38:01,earthquake,Quake
+383,2018-04-17 23:38:01,quake,Quake
+384,2018-04-17 23:35:02,earthquake,Quake
+384,2018-04-17 23:35:02,quake,Quake
+385,2018-04-17 23:35:02,earthquake,Quake
+385,2018-04-17 23:35:02,quake,Quake
+386,2018-04-17 23:33:42,quake,Quake
+387,2018-04-17 23:33:29,quake,Quake
+389,2018-04-17 23:29:39,quake,Quake
+389,2018-04-17 23:29:39,quakechampions,Quake
+389,2018-04-17 23:29:39,gamemusic,Quake
+390,2018-04-17 23:23:02,earthquake,Quake
+390,2018-04-17 23:23:02,quake,Quake
+391,2018-04-17 23:19:01,earthquake,Quake
+391,2018-04-17 23:19:01,quake,Quake
+392,2018-04-17 23:18:02,earthquake,Quake
+392,2018-04-17 23:18:02,quake,Quake
+393,2018-04-17 23:07:09,america,Quake
+393,2018-04-17 23:07:09,indie,Quake
+393,2018-04-17 23:07:09,music,Quake
+393,2018-04-17 23:07:09,idol,Quake
+393,2018-04-17 23:07:09,the,Quake
+393,2018-04-17 23:07:09,american,Quake
+394,2018-04-17 23:07:02,earthquake,Quake
+394,2018-04-17 23:07:02,quake,Quake
+395,2018-04-17 23:00:01,america,Quake
+395,2018-04-17 23:00:01,indie,Quake
+395,2018-04-17 23:00:01,music,Quake
+396,2018-04-17 22:58:01,earthquake,Quake
+396,2018-04-17 22:58:01,quake,Quake
+397,2018-04-17 22:50:00,earthquake,Quake
+397,2018-04-17 22:50:00,quake,Quake
+398,2018-04-17 22:46:01,earthquake,Quake
+398,2018-04-17 22:46:01,quake,Quake
+399,2018-04-17 22:45:16,quake,Quake
+400,2018-04-17 22:45:00,america,Quake
+400,2018-04-17 22:45:00,indie,Quake
+400,2018-04-17 22:45:00,music,Quake
+400,2018-04-17 22:45:00,idol,Quake
+400,2018-04-17 22:45:00,the,Quake
+401,2018-04-17 22:44:02,earthquake,Quake
+401,2018-04-17 22:44:02,quake,Quake
+402,2018-04-17 22:37:02,earthquake,Quake
+402,2018-04-17 22:37:02,quake,Quake
+403,2018-04-17 22:37:02,earthquake,Quake
+403,2018-04-17 22:37:02,quake,Quake
+404,2018-04-17 22:28:46,earthquake,Quake
+404,2018-04-17 22:28:46,quake,Quake
+405,2018-04-17 22:27:04,Quake,Quake
+405,2018-04-17 22:27:04,Twitch,Quake
+405,2018-04-17 22:27:04,Streamer,Quake
+405,2018-04-17 22:27:04,Esports,Quake
+406,2018-04-17 22:23:02,earthquake,Quake
+406,2018-04-17 22:23:02,quake,Quake
+407,2018-04-17 22:23:02,earthquake,Quake
+407,2018-04-17 22:23:02,quake,Quake
+408,2018-04-17 22:13:01,earthquake,Quake
+408,2018-04-17 22:13:01,quake,Quake
+409,2018-04-17 22:10:20,quake,Quake
+410,2018-04-17 22:09:41,quake,Quake
+411,2018-04-17 22:00:02,america,Quake
+411,2018-04-17 22:00:02,indie,Quake
+411,2018-04-17 22:00:02,music,Quake
+411,2018-04-17 22:00:02,idol,Quake
+411,2018-04-17 22:00:02,the,Quake
+412,2018-04-17 21:57:27,quake,Quake
+413,2018-04-17 21:48:01,earthquake,Quake
+413,2018-04-17 21:48:01,quake,Quake
+415,2018-04-17 21:47:07,earthquake,Quake
+415,2018-04-17 21:47:07,quake,Quake
+416,2018-04-17 21:45:38,TestYourKnowledge,Quake
+416,2018-04-17 21:45:38,Earthquakes,Quake
+416,2018-04-17 21:45:38,Measured,Quake
+416,2018-04-17 21:45:38,Earthquake,Quake
+417,2018-04-17 21:45:08,TestYourKnowledge,Quake
+417,2018-04-17 21:45:08,Earthquakes,Quake
+417,2018-04-17 21:45:08,Measured,Quake
+417,2018-04-17 21:45:08,Earthquake,Quake
+419,2018-04-17 21:43:02,earthquake,Quake
+419,2018-04-17 21:43:02,quake,Quake
+420,2018-04-17 21:37:41,quake,Quake
+421,2018-04-17 21:30:39,earthquake,Quake
+421,2018-04-17 21:30:39,quake,Quake
+422,2018-04-17 21:30:18,quake,Quake
+423,2018-04-17 21:29:22,earthquake,Quake
+423,2018-04-17 21:29:22,quake,Quake
+424,2018-04-17 21:29:02,earthquake,Quake
+424,2018-04-17 21:29:02,quake,Quake
+425,2018-04-17 21:26:02,earthquake,Quake
+425,2018-04-17 21:26:02,quake,Quake
+426,2018-04-17 21:22:02,earthquake,Quake
+426,2018-04-17 21:22:02,quake,Quake
+427,2018-04-17 21:21:02,earthquake,Quake
+427,2018-04-17 21:21:02,quake,Quake
+428,2018-04-17 21:19:02,earthquake,Quake
+428,2018-04-17 21:19:02,quake,Quake
+429,2018-04-17 21:19:02,earthquake,Quake
+429,2018-04-17 21:19:02,quake,Quake
+430,2018-04-17 21:17:33,earthquake,Quake
+430,2018-04-17 21:17:33,quake,Quake
+431,2018-04-17 21:16:06,earthquake,Quake
+431,2018-04-17 21:16:06,quake,Quake
+432,2018-04-17 21:11:02,earthquake,Quake
+432,2018-04-17 21:11:02,quake,Quake
+433,2018-04-17 21:05:02,earthquake,Quake
+433,2018-04-17 21:05:02,quake,Quake
+434,2018-04-17 21:04:52,earthquake,Quake
+434,2018-04-17 21:04:52,quake,Quake
+435,2018-04-17 21:00:02,america,Quake
+435,2018-04-17 21:00:02,indie,Quake
+435,2018-04-17 21:00:02,music,Quake
+435,2018-04-17 21:00:02,idol,Quake
+435,2018-04-17 21:00:02,the,Quake
+435,2018-04-17 21:00:02,american,Quake
+435,2018-04-17 21:00:02,voice,Quake
+435,2018-04-17 21:00:02,got,Quake
+435,2018-04-17 21:00:02,talent,Quake
+435,2018-04-17 21:00:02,quake,Quake
+436,2018-04-17 20:56:02,earthquake,Quake
+436,2018-04-17 20:56:02,quake,Quake
+437,2018-04-17 20:55:15,quake,Quake
+438,2018-04-17 20:52:56,quake,Quake
+440,2018-04-17 20:50:03,earthquake,Quake
+440,2018-04-17 20:50:03,quake,Quake
+441,2018-04-17 20:49:48,QuakeChampions,Quake
+441,2018-04-17 20:49:48,PAXEast,Quake
+441,2018-04-17 20:49:48,Quake,Quake
+442,2018-04-17 20:48:39,earthquake,Quake
+442,2018-04-17 20:48:39,quake,Quake
+443,2018-04-17 20:48:02,earthquake,Quake
+443,2018-04-17 20:48:02,quake,Quake
+444,2018-04-17 20:44:02,earthquake,Quake
+444,2018-04-17 20:44:02,quake,Quake
+445,2018-04-17 20:44:02,earthquake,Quake
+445,2018-04-17 20:44:02,quake,Quake
+446,2018-04-17 20:44:00,earthquake,Quake
+446,2018-04-17 20:44:00,quake,Quake
+447,2018-04-17 20:41:02,earthquake,Quake
+447,2018-04-17 20:41:02,quake,Quake
+448,2018-04-17 20:40:20,quake,Quake
+449,2018-04-17 20:35:02,earthquake,Quake
+449,2018-04-17 20:35:02,quake,Quake
+450,2018-04-17 20:35:02,earthquake,Quake
+450,2018-04-17 20:35:02,quake,Quake
+451,2018-04-17 20:23:39,quake,Quake

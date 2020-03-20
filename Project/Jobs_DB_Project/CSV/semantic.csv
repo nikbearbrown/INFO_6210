@@ -1,0 +1,15 @@
+text,semantic,similarity,text_ID
+competence,power,0.25,1
+winner,national,0.25,2
+winner,champion,0.25,3
+winner,skater,0.25,4
+beauty,power,0.25,5
+canada,united_states,0.333333333,6
+mascot,national,0.25,7
+national,reporter,0.25,8
+ecuador,brazil,0.333333333,9
+quito,guayaquil,0.25,10
+skating,sport,0.5,11
+television,medium,0.25,12
+journalist,reporter,0.25,13
+medium,journalism,0.333333333,14

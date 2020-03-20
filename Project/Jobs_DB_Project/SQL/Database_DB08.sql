@@ -1,0 +1,394 @@
+CREATE DATABASE  IF NOT EXISTS `hyperparameter` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `hyperparameter`;
+-- MySQL dump 10.13  Distrib 5.7.17, for macos10.12 (x86_64)
+--
+-- Host: localhost    Database: hyperparameter
+-- ------------------------------------------------------
+-- Server version	5.7.21
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Table structure for table `Algorithm`
+--
+
+DROP TABLE IF EXISTS `Algorithm`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `Algorithm` (
+  `Algorithm_ID` varchar(255) NOT NULL,
+  `Algorithm_Name` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`Algorithm_ID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `Algorithm`
+--
+
+LOCK TABLES `Algorithm` WRITE;
+/*!40000 ALTER TABLE `Algorithm` DISABLE KEYS */;
+INSERT INTO `Algorithm` VALUES ('1','GBM'),('2','DRF'),('3','GLM'),('4','XRT'),('5','Stacked Ensemble'),('6','Deep Learning');
+/*!40000 ALTER TABLE `Algorithm` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `DRF_Hyperparameters`
+--
+
+DROP TABLE IF EXISTS `DRF_Hyperparameters`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `DRF_Hyperparameters` (
+  `Model_name` varchar(255) NOT NULL,
+  `weights_column` varchar(45) DEFAULT NULL,
+  `offset_column` varchar(45) DEFAULT NULL,
+  `fold_column` varchar(45) DEFAULT NULL,
+  `fold_assignment` varchar(45) DEFAULT NULL,
+  `stopping_rounds` int(11) DEFAULT NULL,
+  `Max_runtime_secs` int(11) DEFAULT NULL,
+  `stopping_metric` varchar(45) DEFAULT NULL,
+  `stopping_tolerance` decimal(20,0) DEFAULT NULL,
+  `balance_classes` varchar(45) DEFAULT NULL,
+  `class_sampling_factors` varchar(45) DEFAULT NULL,
+  `max_after_balance_size` int(11) DEFAULT NULL,
+  `ntrees` int(11) DEFAULT NULL,
+  `max_depth` int(11) DEFAULT NULL,
+  `min_rows` int(11) DEFAULT NULL,
+  `nbins` int(11) DEFAULT NULL,
+  `nbins_top_level` int(11) DEFAULT NULL,
+  `nbins_cats` int(11) DEFAULT NULL,
+  `seed` bigint(20) DEFAULT NULL,
+  `sample_rate` decimal(20,0) DEFAULT NULL,
+  `sample_rate_per_class` varchar(45) DEFAULT NULL,
+  `col_sample_rate_per_tree` int(11) DEFAULT NULL,
+  `col_sample_rate_change_per_level` int(11) DEFAULT NULL,
+  `min_split_improvement` double DEFAULT NULL,
+  `histogram_type` varchar(45) DEFAULT NULL,
+  `mtries` int(11) DEFAULT NULL,
+  `categorical_encoding` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`Model_name`),
+  CONSTRAINT `Model1` FOREIGN KEY (`Model_name`) REFERENCES `Model` (`Model_name`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `DRF_Hyperparameters`
+--
+
+LOCK TABLES `DRF_Hyperparameters` WRITE;
+/*!40000 ALTER TABLE `DRF_Hyperparameters` DISABLE KEYS */;
+INSERT INTO `DRF_Hyperparameters` VALUES ('DRF_1_AutoML_20190416_233703','NULL','NULL','NULL','Modulo',0,0,'AUTO',0,'False','NULL',5,50,20,1,20,1024,1024,-6704382951542713002,1,'NULL',1,1,0.00001,'AUTO',-1,'AUTO'),('DRF_1_AutoML_20190417_092107','NULL','NULL','NULL','Modulo',0,0,'AUTO',0,'False','NULL',5,50,20,1,20,1024,1024,-2635800423649975935,1,'NULL',1,1,0.00001,'AUTO',-1,'AUTO'),('DRF_1_AutoML_20190417_103626','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL',5,50,20,1,20,1024,1024,6959041519254724733,1,'NULL',1,1,0.00001,'AUTO',-1,'AUTO'),('DRF_1_AutoML_20190417_121910','NULL','NULL','NULL','Modulo',0,0,'AUTO',0,'False','NULL',5,50,20,1,20,1024,1024,-9111228162615771517,1,'NULL',1,1,0.00001,'AUTO',-1,'AUTO'),('DRF_1_AutoML_20190419_190006','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL',5,43,20,1,20,1024,1024,-8631069984132283210,1,'NULL',1,1,0.00001,'AUTO',-1,'AUTO'),('DRF_1_AutoML_20190419_193106','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL',5,35,20,1,20,1024,1024,5016295063280971703,1,'NULL',1,1,0.00001,'AUTO',-1,'AUTO');
+/*!40000 ALTER TABLE `DRF_Hyperparameters` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `DataSet_Description`
+--
+
+DROP TABLE IF EXISTS `DataSet_Description`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `DataSet_Description` (
+  `Column_ID` int(11) NOT NULL,
+  `Dataset_ID` int(11) DEFAULT NULL,
+  `Column_Name` varchar(255) DEFAULT NULL,
+  `Col_Data_Type` varchar(45) DEFAULT NULL,
+  `Total_Records` int(11) DEFAULT NULL,
+  PRIMARY KEY (`Column_ID`),
+  UNIQUE KEY `ID_UNIQUE` (`Column_ID`),
+  KEY `Dataset_ID_idx` (`Dataset_ID`),
+  CONSTRAINT `Dataset_ID` FOREIGN KEY (`Dataset_ID`) REFERENCES `Dataset` (`Dataset_ID`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `DataSet_Description`
+--
+
+LOCK TABLES `DataSet_Description` WRITE;
+/*!40000 ALTER TABLE `DataSet_Description` DISABLE KEYS */;
+INSERT INTO `DataSet_Description` VALUES (1,1,'Rooms','int',34857),(2,1,'Postcode','int',34856),(3,1,'Bedroom2','int',26640),(4,1,'Bathroom','int',26631),(5,1,'Car','int',26129),(6,1,'Landsize','int',23047),(7,1,'YearBuilt','int',15551),(8,1,'Propertycount','int',34854),(9,1,'Suburb','enum',34857),(10,1,'Type','enum',34857),(11,1,'Method','enum',34857),(12,1,'SellerG','enum',34857),(13,1,'Date','enum',34857),(14,1,'CouncilArea','enum',34854),(15,1,'Regionname','enum',34854),(16,1,'Address','string',34857),(17,1,'Distance','real',34856),(18,1,'BuildingArea','real',13742),(19,1,'Lattitude','real',26881),(20,1,'Longtitude','real',26881);
+/*!40000 ALTER TABLE `DataSet_Description` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `Dataset`
+--
+
+DROP TABLE IF EXISTS `Dataset`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `Dataset` (
+  `Dataset_ID` int(11) NOT NULL,
+  `Data_Set_Name` varchar(255) DEFAULT NULL,
+  `Dataset_Type` varchar(45) DEFAULT NULL,
+  `Total_Columns` int(11) DEFAULT NULL,
+  `Total_Records` int(11) DEFAULT NULL,
+  `Target` varchar(45) DEFAULT NULL,
+  `Prediction Type` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`Dataset_ID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `Dataset`
+--
+
+LOCK TABLES `Dataset` WRITE;
+/*!40000 ALTER TABLE `Dataset` DISABLE KEYS */;
+INSERT INTO `Dataset` VALUES (1,'Melbourne_Housing_Prices','csv',20,731997,'Price','Regression');
+/*!40000 ALTER TABLE `Dataset` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `GBM_Hyperparameters`
+--
+
+DROP TABLE IF EXISTS `GBM_Hyperparameters`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `GBM_Hyperparameters` (
+  `Model_name` varchar(255) NOT NULL,
+  `weights_column` varchar(45) DEFAULT NULL,
+  `offset_column` varchar(45) DEFAULT NULL,
+  `fold_column` varchar(45) DEFAULT NULL,
+  `fold_assignment` varchar(45) DEFAULT NULL,
+  `stopping_rounds` int(11) DEFAULT NULL,
+  `max_runtime_secs` int(11) DEFAULT NULL,
+  `stopping_metric` varchar(45) DEFAULT NULL,
+  `stopping_tolerance` decimal(20,0) DEFAULT NULL,
+  `balance_classes` varchar(45) DEFAULT NULL,
+  `class_sampling_factors` varchar(45) DEFAULT NULL,
+  `max_abs_leafnode_pred` varchar(255) DEFAULT NULL,
+  `ntrees` int(11) DEFAULT NULL,
+  `max_depth` int(11) DEFAULT NULL,
+  `min_rows` int(11) DEFAULT NULL,
+  `nbins` int(11) DEFAULT NULL,
+  `nbins_top_level` int(11) DEFAULT NULL,
+  `nbins_cats` int(11) DEFAULT NULL,
+  `seed` bigint(20) DEFAULT NULL,
+  `sample_rate` float DEFAULT NULL,
+  `sample_rate_per_class` varchar(45) DEFAULT NULL,
+  `col_sample_rate` int(11) DEFAULT NULL,
+  `col_sample_rate_per_tree` float DEFAULT NULL,
+  `col_sample_rate_change_per_level` int(11) DEFAULT NULL,
+  `min_split_improvement` varchar(45) DEFAULT NULL,
+  `histogram_type` varchar(45) DEFAULT NULL,
+  `learn_rate` int(11) DEFAULT NULL,
+  `learn_rate_annealing` int(11) DEFAULT NULL,
+  `distribution` varchar(255) DEFAULT NULL,
+  `quantile_alpha` int(11) DEFAULT NULL,
+  `tweedie_power` int(11) DEFAULT NULL,
+  `huber_alpha` int(11) DEFAULT NULL,
+  `pred_noise_bandwidth` int(11) DEFAULT NULL,
+  `categorical_encoding` varchar(255) DEFAULT NULL,
+  `max_after_balance_size` int(11) DEFAULT NULL,
+  PRIMARY KEY (`Model_name`),
+  CONSTRAINT `Model_Name` FOREIGN KEY (`Model_name`) REFERENCES `Model` (`Model_name`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `GBM_Hyperparameters`
+--
+
+LOCK TABLES `GBM_Hyperparameters` WRITE;
+/*!40000 ALTER TABLE `GBM_Hyperparameters` DISABLE KEYS */;
+INSERT INTO `GBM_Hyperparameters` VALUES ('GBM_1_AutoML_20190416_233703','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',61,15,100,20,1024,1024,3078818369627870710,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_1_AutoML_20190417_092107','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',62,15,100,20,1024,1024,7372367767816309807,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_1_AutoML_20190417_103626','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',64,15,100,20,1024,1024,4082354481697489202,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_1_AutoML_20190417_121910','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',63,15,100,20,1024,1024,-1588667706846982461,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_1_AutoML_20190419_190006','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',61,15,100,20,1024,1024,-5334906992421171543,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_1_AutoML_20190419_193106','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',61,15,100,20,1024,1024,-495884831084999236,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_2_AutoML_20190416_233703','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',61,15,100,20,1024,1024,3078818369627870710,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_2_AutoML_20190417_092107','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',62,15,100,20,1024,1024,7372367767816309807,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_2_AutoML_20190417_103626','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',64,15,100,20,1024,1024,4082354481697489202,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_2_AutoML_20190417_121910','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',63,15,100,20,1024,1024,-1588667706846982461,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_2_AutoML_20190419_190006','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',61,15,100,20,1024,1024,-5334906992421171543,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_2_AutoML_20190419_193106','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',61,15,100,20,1024,1024,-495884831084999236,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_3_AutoML_20190416_233703','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',61,15,100,20,1024,1024,3078818369627870710,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_3_AutoML_20190417_092107','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',62,15,100,20,1024,1024,7372367767816309807,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_3_AutoML_20190417_103626','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',64,15,100,20,1024,1024,4082354481697489202,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_3_AutoML_20190417_121910','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',63,15,100,20,1024,1024,-1588667706846982461,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_3_AutoML_20190419_190006','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',61,15,100,20,1024,1024,-5334906992421171543,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_3_AutoML_20190419_193106','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',61,15,100,20,1024,1024,-495884831084999236,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_4_AutoML_20190416_233703','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',61,15,100,20,1024,1024,3078818369627870710,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_4_AutoML_20190417_092107','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',62,15,100,20,1024,1024,7372367767816309807,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_4_AutoML_20190417_103626','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',64,15,100,20,1024,1024,4082354481697489202,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_4_AutoML_20190417_121910','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',63,15,100,20,1024,1024,-1588667706846982461,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_4_AutoML_20190419_190006','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',61,15,100,20,1024,1024,-5334906992421171543,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_4_AutoML_20190419_193106','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',61,15,100,20,1024,1024,-495884831084999236,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_5_AutoML_20190416_233703','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',61,15,100,20,1024,1024,3078818369627870710,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_5_AutoML_20190417_092107','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',62,15,100,20,1024,1024,7372367767816309807,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_5_AutoML_20190417_103626','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',64,15,100,20,1024,1024,4082354481697489202,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_5_AutoML_20190417_121910','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',63,15,100,20,1024,1024,-1588667706846982461,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_5_AutoML_20190419_190006','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',61,15,100,20,1024,1024,-5334906992421171543,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_5_AutoML_20190419_193106','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',61,15,100,20,1024,1024,-495884831084999236,0.8,'NULL',1,0.8,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190416_233703_model_1','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',318,5,100,20,1024,1024,3171531577495013694,0.9,'NULL',1,0.7,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190417_092107_model_1','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',82,16,30,20,1024,1024,5237574280126203006,0.8,'NULL',0,0.7,1,'0.0001','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190417_092107_model_2','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',139,13,5,20,1024,1024,7119740443975609895,0.8,'NULL',1,1,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190417_103626_model_1','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',71,10,10,20,1024,1024,-8345124674244584109,0.9,'NULL',1,1,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190417_103626_model_2','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',30,9,100,20,1024,1024,6385568036023688457,0.7,'NULL',0,1,1,'1e-05','AUTO',1,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190417_103626_model_3','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',596,4,10,20,1024,1024,-1721287115365718717,0.7,'NULL',1,0.7,1,'0.0001','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190417_103626_model_4','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',167,10,10,20,1024,1024,5333362619996317076,0.9,'NULL',1,1,1,'0.0001','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190417_121910_model_1','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',30,15,15,20,1024,1024,-5318611874786415261,0.7,'NULL',1,1,1,'0.0001','AUTO',1,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190417_121910_model_2','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',42,6,10,20,1024,1024,-869162244294565663,0.9,'NULL',0,0.7,1,'1e-05','AUTO',1,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190417_121910_model_3','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',1228,7,15,20,1024,1024,-8406986571754772076,0.9,'NULL',1,1,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_190006_model_1','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',560,7,15,20,1024,1024,4606614230273957578,0.8,'NULL',1,0.7,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_190006_model_10','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',323,14,100,20,1024,1024,3624697114101722685,0.5,'NULL',1,1,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_190006_model_2','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',510,10,15,20,1024,1024,6036333020194884590,1,'NULL',0,1,1,'0.0001','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_190006_model_3','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',1217,8,100,20,1024,1024,3765043563491124531,0.6,'NULL',1,0.7,1,'0.0001','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_190006_model_4','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',33,6,10,20,1024,1024,2733734620104950333,0.6,'NULL',0,0.7,1,'0.0001','AUTO',1,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_190006_model_5','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',163,3,10,20,1024,1024,-1663918341453657440,0.8,'NULL',1,0.4,1,'0.0001','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_190006_model_6','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',361,16,10,20,1024,1024,-2742458585521478422,0.8,'NULL',1,0.7,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_190006_model_7','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',77,9,30,20,1024,1024,2145527528275538733,1,'NULL',1,0.7,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_190006_model_8','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',63,17,15,20,1024,1024,4487718596278623905,1,'NULL',1,0.7,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_190006_model_9','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',105,9,100,20,1024,1024,-2893166822710131910,0.7,'NULL',1,0.7,1,'0.0001','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_193106_model_1','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',398,5,1,20,1024,1024,9067431481972847664,0.9,'NULL',1,0.7,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_193106_model_2','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',58,16,5,20,1024,1024,3595262500866250074,0.6,'NULL',1,0.7,1,'0.0001','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_193106_model_3','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',578,14,5,20,1024,1024,3393418502945795281,0.6,'NULL',1,0.4,1,'0.0001','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_193106_model_4','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',1279,16,30,20,1024,1024,6412359233620241457,0.7,'NULL',1,0.7,1,'0.0001','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_193106_model_5','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',495,3,5,20,1024,1024,3610281684317458788,0.8,'NULL',1,0.4,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_193106_model_6','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',417,9,10,20,1024,1024,951678743500414110,0.7,'NULL',0,0.7,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_193106_model_7','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',81,15,30,20,1024,1024,-8332726616535134022,0.8,'NULL',1,0.7,1,'0.0001','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_193106_model_8','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',1283,7,5,20,1024,1024,7050224585350308020,1,'NULL',0,0.7,1,'1e-05','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5),('GBM_grid_1_AutoML_20190419_193106_model_9','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL','1.7976931348623157e+308',39,16,10,20,1024,1024,-2411513579916230683,0.5,'NULL',0,0.7,1,'0.0001','AUTO',0,1,'gaussian',1,2,1,0,'AUTO',5);
+/*!40000 ALTER TABLE `GBM_Hyperparameters` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `GLM_Hyperparameters`
+--
+
+DROP TABLE IF EXISTS `GLM_Hyperparameters`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `GLM_Hyperparameters` (
+  `Model_name` varchar(255) NOT NULL,
+  `weights_column` varchar(45) DEFAULT NULL,
+  `offset_column` varchar(45) DEFAULT NULL,
+  `fold_column` varchar(45) DEFAULT NULL,
+  `fold_assignment` varchar(45) DEFAULT NULL,
+  `seed` bigint(20) DEFAULT NULL,
+  `tweedie_variance_power` int(11) DEFAULT NULL,
+  `tweedie_link_power` int(11) DEFAULT NULL,
+  `missing_values_handling` varchar(45) DEFAULT NULL,
+  `standardize` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`Model_name`),
+  CONSTRAINT `Model3` FOREIGN KEY (`Model_name`) REFERENCES `Model` (`Model_name`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `GLM_Hyperparameters`
+--
+
+LOCK TABLES `GLM_Hyperparameters` WRITE;
+/*!40000 ALTER TABLE `GLM_Hyperparameters` DISABLE KEYS */;
+INSERT INTO `GLM_Hyperparameters` VALUES ('GLM_grid_1_AutoML_20190416_233703_model_1','NULL','NULL','NULL','Modulo',3605434411294760589,0,1,'MeanImputation','True'),('GLM_grid_1_AutoML_20190417_092107_model_1','NULL','NULL','NULL','Modulo',-4293711706793077853,0,1,'MeanImputation','True'),('GLM_grid_1_AutoML_20190417_103626_model_1','NULL','NULL','NULL','Modulo',1695358159836644228,0,1,'MeanImputation','True'),('GLM_grid_1_AutoML_20190417_121910_model_1','NULL','NULL','NULL','Modulo',1411290820467823314,0,1,'MeanImputation','True'),('GLM_grid_1_AutoML_20190419_190006_model_1','NULL','NULL','NULL','Modulo',2106761952620105859,0,1,'MeanImputation','True'),('GLM_grid_1_AutoML_20190419_193106_model_1','NULL','NULL','NULL','Modulo',-312107903609785575,0,1,'MeanImputation','True');
+/*!40000 ALTER TABLE `GLM_Hyperparameters` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `Model`
+--
+
+DROP TABLE IF EXISTS `Model`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `Model` (
+  `Model_name` varchar(255) NOT NULL,
+  `Dataset_ID` int(11) DEFAULT NULL,
+  `Algorithm_ID` varchar(255) DEFAULT NULL,
+  `Runtime_ID` int(11) DEFAULT NULL,
+  PRIMARY KEY (`Model_name`),
+  KEY `AlgorithmID_idx` (`Algorithm_ID`),
+  KEY `Dataset_ID` (`Dataset_ID`),
+  KEY `Run_time_idx` (`Runtime_ID`),
+  CONSTRAINT `Algorithm_ID` FOREIGN KEY (`Algorithm_ID`) REFERENCES `Algorithm` (`Algorithm_ID`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `Dataset ID` FOREIGN KEY (`Dataset_ID`) REFERENCES `Dataset` (`Dataset_ID`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `Run_time` FOREIGN KEY (`Runtime_ID`) REFERENCES `Model_Runtime` (`Runtime_ID`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `Model`
+--
+
+LOCK TABLES `Model` WRITE;
+/*!40000 ALTER TABLE `Model` DISABLE KEYS */;
+INSERT INTO `Model` VALUES ('DeepLearning_1_AutoML_20190416_233703',1,'6',1),('DeepLearning_1_AutoML_20190417_092107',1,'6',2),('DeepLearning_1_AutoML_20190417_103626',1,'6',2),('DeepLearning_1_AutoML_20190417_121910',1,'6',3),('DeepLearning_1_AutoML_20190419_190006',1,'6',4),('DeepLearning_1_AutoML_20190419_193106',1,'6',5),('DeepLearning_grid_1_AutoML_20190416_233703_model_1',1,'6',1),('DeepLearning_grid_1_AutoML_20190417_092107_model_1',1,'6',2),('DeepLearning_grid_1_AutoML_20190417_092107_model_2',1,'6',2),('DeepLearning_grid_1_AutoML_20190417_092107_model_3',1,'6',2),('DeepLearning_grid_1_AutoML_20190417_103626_model_1',1,'6',2),('DeepLearning_grid_1_AutoML_20190417_103626_model_2',1,'6',2),('DeepLearning_grid_1_AutoML_20190417_121910_model_1',1,'6',3),('DeepLearning_grid_1_AutoML_20190417_121910_model_2',1,'6',3),('DeepLearning_grid_1_AutoML_20190417_121910_model_3',1,'6',3),('DeepLearning_grid_1_AutoML_20190419_190006_model_1',1,'6',4),('DeepLearning_grid_1_AutoML_20190419_190006_model_2',1,'6',4),('DeepLearning_grid_1_AutoML_20190419_190006_model_3',1,'6',4),('DeepLearning_grid_1_AutoML_20190419_193106_model_1',1,'6',5),('DeepLearning_grid_1_AutoML_20190419_193106_model_2',1,'6',5),('DeepLearning_grid_1_AutoML_20190419_193106_model_3',1,'6',5),('DRF_1_AutoML_20190416_233703',1,'2',1),('DRF_1_AutoML_20190417_092107',1,'2',2),('DRF_1_AutoML_20190417_103626',1,'2',2),('DRF_1_AutoML_20190417_121910',1,'2',3),('DRF_1_AutoML_20190419_190006',1,'2',4),('DRF_1_AutoML_20190419_193106',1,'2',5),('GBM_1_AutoML_20190416_233703',1,'1',1),('GBM_1_AutoML_20190417_092107',1,'1',2),('GBM_1_AutoML_20190417_103626',1,'1',2),('GBM_1_AutoML_20190417_121910',1,'1',3),('GBM_1_AutoML_20190419_190006',1,'1',4),('GBM_1_AutoML_20190419_193106',1,'1',5),('GBM_2_AutoML_20190416_233703',1,'1',1),('GBM_2_AutoML_20190417_092107',1,'1',2),('GBM_2_AutoML_20190417_103626',1,'1',2),('GBM_2_AutoML_20190417_121910',1,'1',3),('GBM_2_AutoML_20190419_190006',1,'1',4),('GBM_2_AutoML_20190419_193106',1,'1',5),('GBM_3_AutoML_20190416_233703',1,'1',1),('GBM_3_AutoML_20190417_092107',1,'1',2),('GBM_3_AutoML_20190417_103626',1,'1',2),('GBM_3_AutoML_20190417_121910',1,'1',3),('GBM_3_AutoML_20190419_190006',1,'1',4),('GBM_3_AutoML_20190419_193106',1,'1',5),('GBM_4_AutoML_20190416_233703',1,'1',1),('GBM_4_AutoML_20190417_092107',1,'1',2),('GBM_4_AutoML_20190417_103626',1,'1',2),('GBM_4_AutoML_20190417_121910',1,'1',3),('GBM_4_AutoML_20190419_190006',1,'1',4),('GBM_4_AutoML_20190419_193106',1,'1',5),('GBM_5_AutoML_20190416_233703',1,'1',1),('GBM_5_AutoML_20190417_092107',1,'1',2),('GBM_5_AutoML_20190417_103626',1,'1',2),('GBM_5_AutoML_20190417_121910',1,'1',3),('GBM_5_AutoML_20190419_190006',1,'1',4),('GBM_5_AutoML_20190419_193106',1,'1',5),('GBM_grid_1_AutoML_20190416_233703_model_1',1,'1',1),('GBM_grid_1_AutoML_20190417_092107_model_1',1,'1',2),('GBM_grid_1_AutoML_20190417_092107_model_2',1,'1',2),('GBM_grid_1_AutoML_20190417_103626_model_1',1,'1',2),('GBM_grid_1_AutoML_20190417_103626_model_2',1,'1',2),('GBM_grid_1_AutoML_20190417_103626_model_3',1,'1',2),('GBM_grid_1_AutoML_20190417_103626_model_4',1,'1',2),('GBM_grid_1_AutoML_20190417_121910_model_1',1,'1',3),('GBM_grid_1_AutoML_20190417_121910_model_2',1,'1',3),('GBM_grid_1_AutoML_20190417_121910_model_3',1,'1',3),('GBM_grid_1_AutoML_20190419_190006_model_1',1,'1',4),('GBM_grid_1_AutoML_20190419_190006_model_10',1,'1',4),('GBM_grid_1_AutoML_20190419_190006_model_2',1,'1',4),('GBM_grid_1_AutoML_20190419_190006_model_3',1,'1',4),('GBM_grid_1_AutoML_20190419_190006_model_4',1,'1',4),('GBM_grid_1_AutoML_20190419_190006_model_5',1,'1',4),('GBM_grid_1_AutoML_20190419_190006_model_6',1,'1',4),('GBM_grid_1_AutoML_20190419_190006_model_7',1,'1',4),('GBM_grid_1_AutoML_20190419_190006_model_8',1,'1',4),('GBM_grid_1_AutoML_20190419_190006_model_9',1,'1',4),('GBM_grid_1_AutoML_20190419_193106_model_1',1,'1',5),('GBM_grid_1_AutoML_20190419_193106_model_2',1,'1',5),('GBM_grid_1_AutoML_20190419_193106_model_3',1,'1',5),('GBM_grid_1_AutoML_20190419_193106_model_4',1,'1',5),('GBM_grid_1_AutoML_20190419_193106_model_5',1,'1',5),('GBM_grid_1_AutoML_20190419_193106_model_6',1,'1',5),('GBM_grid_1_AutoML_20190419_193106_model_7',1,'1',5),('GBM_grid_1_AutoML_20190419_193106_model_8',1,'1',5),('GBM_grid_1_AutoML_20190419_193106_model_9',1,'1',5),('GLM_grid_1_AutoML_20190416_233703_model_1',1,'3',1),('GLM_grid_1_AutoML_20190417_092107_model_1',1,'3',2),('GLM_grid_1_AutoML_20190417_103626_model_1',1,'3',2),('GLM_grid_1_AutoML_20190417_121910_model_1',1,'3',3),('GLM_grid_1_AutoML_20190419_190006_model_1',1,'3',4),('GLM_grid_1_AutoML_20190419_193106_model_1',1,'3',5),('StackedEnsemble_AllModels_AutoML_20190416_233703',1,'5',1),('StackedEnsemble_AllModels_AutoML_20190417_092107',1,'5',2),('StackedEnsemble_AllModels_AutoML_20190417_121910',1,'5',3),('StackedEnsemble_AllModels_AutoML_20190419_190006',1,'5',4),('StackedEnsemble_AllModels_AutoML_20190419_193106',1,'5',5),('StackedEnsemble_BestOfFamily_AutoML_20190416_233703',1,'5',1),('StackedEnsemble_BestOfFamily_AutoML_20190417_092107',1,'5',2),('StackedEnsemble_BestOfFamily_AutoML_20190417_121910',1,'5',3),('StackedEnsemble_BestOfFamily_AutoML_20190419_190006',1,'5',4),('StackedEnsemble_BestOfFamily_AutoML_20190419_193106',1,'5',5),('XRT_1_AutoML_20190416_233703',1,'4',1),('XRT_1_AutoML_20190417_092107',1,'4',2),('XRT_1_AutoML_20190417_103626',1,'4',2),('XRT_1_AutoML_20190417_121910',1,'4',3),('XRT_1_AutoML_20190419_190006',1,'6',4),('XRT_1_AutoML_20190419_193106',1,'5',5);
+/*!40000 ALTER TABLE `Model` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `Model_Metrics`
+--
+
+DROP TABLE IF EXISTS `Model_Metrics`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `Model_Metrics` (
+  `Model_ID` int(11) NOT NULL,
+  `Model_name` varchar(255) DEFAULT NULL,
+  `Mean_Residual_Deviance` float DEFAULT NULL,
+  `RMSE` float DEFAULT NULL,
+  `MSE` float DEFAULT NULL,
+  `MAE` float DEFAULT NULL,
+  `RMSLE` float DEFAULT NULL,
+  PRIMARY KEY (`Model_ID`),
+  KEY `Model_Name_idx` (`Model_name`),
+  CONSTRAINT `Modelname` FOREIGN KEY (`Model_name`) REFERENCES `Model` (`Model_name`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `Model_Metrics`
+--
+
+LOCK TABLES `Model_Metrics` WRITE;
+/*!40000 ALTER TABLE `Model_Metrics` DISABLE KEYS */;
+INSERT INTO `Model_Metrics` VALUES (1,'GBM_4_AutoML_20190416_233703',91662600000,302758,91662600000,171471,0.204274),(2,'GBM_2_AutoML_20190416_233703',91903500000,303156,91903500000,171953,0.205054),(3,'GBM_3_AutoML_20190416_233703',92203400000,303650,92203400000,171106,0.20358),(4,'GBM_1_AutoML_20190416_233703',93506400000,305788,93506400000,173001,0.206323),(5,'GBM_5_AutoML_20190416_233703',96805000000,311135,96805000000,176071,0.208741),(6,'DRF_1_AutoML_20190416_233703',97719600000,312601,97719600000,174594,0.207177),(7,'DeepLearning_1_AutoML_20190416_233703',103002000000,320939,103002000000,184821,0.219451),(8,'XRT_1_AutoML_20190416_233703',106074000000,325689,106074000000,185192,0.221409),(10,'GBM_grid_1_AutoML_20190416_233703_model_1',296232000000,544272,296232000000,368958,0.430541),(11,'StackedEnsemble_AllModels_AutoML_20190416_233703',415598000000,644669,415598000000,451488,0.517737),(12,'StackedEnsemble_BestOfFamily_AutoML_20190416_233703',420700000000,648614,420700000000,454605,0.521234),(13,'GLM_grid_1_AutoML_20190416_233703_model_1',424343000000,651416,424343000000,456794,0.523713),(14,'GBM_1_AutoML_20190417_092107',91480100000,302457,91480100000,171898,0.206078),(15,'GBM_grid_1_AutoML_20190417_092107_model_1',91581000000,302623,91581000000,171073,0.203611),(16,'GBM_1_AutoML_20190417_103626',92516000000,304164,92516000000,172391,0.20572),(17,'GBM_2_AutoML_20190417_092107',93072100000,305077,93072100000,172842,0.206126),(18,'GBM_2_AutoML_20190417_103626',93500300000,305778,93500300000,173022,0.206536),(19,'GBM_4_AutoML_20190417_092107',93537100000,305838,93537100000,173089,0.206132),(20,'GBM_3_AutoML_20190417_103626',93744500000,306177,93744500000,172498,0.205731),(21,'GBM_3_AutoML_20190417_092107',93761400000,306205,93761400000,172664,0.205604),(22,'GBM_4_AutoML_20190417_103626',94047400000,306672,94047400000,172980,0.205805),(23,'GBM_grid_1_AutoML_20190417_103626_model_1',94531100000,307459,94531100000,173774,0.206751),(24,'GBM_5_AutoML_20190417_103626',95291000000,308692,95291000000,174519,0.2077),(25,'GBM_5_AutoML_20190417_092107',96319600000,310354,96319600000,174895,0.207882),(26,'DRF_1_AutoML_20190417_103626',97308600000,311943,97308600000,174490,0.206746),(27,'DRF_1_AutoML_20190417_092107',97669800000,312522,97669800000,174488,0.206973),(28,'XRT_1_AutoML_20190417_092107',104427000000,323151,104427000000,183510,0.218792),(30,'XRT_1_AutoML_20190417_103626',106962000000,327050,106962000000,185870,0.221158),(31,'DeepLearning_1_AutoML_20190417_103626',107590000000,328009,107590000000,192265,0.237177),(32,'GBM_grid_1_AutoML_20190417_103626_model_3',110434000000,332316,110434000000,193822,0.232977),(33,'GBM_grid_1_AutoML_20190417_092107_model_2',118243000000,343866,118243000000,206802,0.250432),(35,'DeepLearning_grid_1_AutoML_20190417_092107_model_3',125055000000,353631,125055000000,218252,0.265756),(39,'GBM_grid_1_AutoML_20190417_103626_model_4',164224000000,405246,164224000000,258496,0.311662),(40,'DeepLearning_grid_1_AutoML_20190417_103626_model_1',250798000000,500798,250798000000,203348,0.239079),(41,'StackedEnsemble_AllModels_AutoML_20190417_092107',412977000000,642633,412977000000,449940,0.515994),(42,'StackedEnsemble_BestOfFamily_AutoML_20190417_092107',420698000000,648612,420698000000,454596,0.521228),(43,'GLM_grid_1_AutoML_20190417_103626_model_1',424343000000,651416,424343000000,456794,0.523713),(44,'GLM_grid_1_AutoML_20190417_092107_model_1',424343000000,651416,424343000000,456794,0.523713),(45,'GBM_2_AutoML_20190417_121910',91810000000,303002,91810000000,171920,0.204805),(46,'GBM_3_AutoML_20190417_121910',91838000000,303048,91838000000,171935,0.205196),(47,'GBM_1_AutoML_20190417_121910',92281400000,303779,92281400000,172470,0.205012),(48,'GBM_4_AutoML_20190417_121910',92942000000,304864,92942000000,172690,0.205287),(49,'GBM_5_AutoML_20190417_121910',96779900000,311095,96779900000,175250,0.208079),(50,'DRF_1_AutoML_20190417_121910',97522100000,312285,97522100000,174325,0.20681),(51,'DeepLearning_grid_1_AutoML_20190417_121910_model_2',97626900000,312453,97626900000,181825,0.22061),(53,'XRT_1_AutoML_20190417_121910',108518000000,329421,108518000000,187737,0.22404),(56,'GBM_grid_1_AutoML_20190417_121910_model_3',137412000000,370691,137412000000,227275,0.275108),(57,'DeepLearning_grid_1_AutoML_20190417_121910_model_3',156482000000,395578,156482000000,249444,0.302083),(59,'StackedEnsemble_AllModels_AutoML_20190417_121910',412365000000,642157,412365000000,449593,0.515595),(60,'StackedEnsemble_BestOfFamily_AutoML_20190417_121910',420695000000,648610,420695000000,454611,0.521235),(61,'GLM_grid_1_AutoML_20190417_121910_model_1',424343000000,651416,424343000000,456794,0.523713),(62,'GBM_grid_1_AutoML_20190419_190006_model_7',90361700000,300602,90361700000,170227,0.20324),(63,'GBM_4_AutoML_20190419_190006',90932600000,301550,90932600000,170770,0.203594),(64,'GBM_grid_1_AutoML_20190419_190006_model_6',91832800000,303039,91832800000,171230,0.205578),(65,'GBM_2_AutoML_20190419_190006',91889100000,303132,91889100000,171957,0.204748),(66,'GBM_grid_1_AutoML_20190419_190006_model_8',92262100000,303747,92262100000,171426,0.205585),(67,'GBM_3_AutoML_20190419_190006',92794000000,304621,92794000000,172327,0.204726),(68,'GBM_1_AutoML_20190419_190006',93246100000,305362,93246100000,172482,0.206082),(69,'GBM_grid_1_AutoML_20190419_190006_model_9',93554000000,305866,93554000000,173230,0.206363),(70,'GBM_5_AutoML_20190419_190006',96280800000,310291,96280800000,175470,0.208547),(71,'GBM_grid_1_AutoML_20190419_190006_model_5',97463600000,312192,97463600000,178298,0.211984),(72,'DRF_1_AutoML_20190419_190006',98482800000,313820,98482800000,175665,0.208185),(73,'GBM_grid_1_AutoML_20190419_190006_model_1',98649300000,314085,98649300000,179877,0.214534),(74,'GBM_grid_1_AutoML_20190419_190006_model_2',99034700000,314698,99034700000,179176,0.213443),(77,'XRT_1_AutoML_20190419_190006',106865000000,326903,106865000000,184693,0.22023),(79,'GBM_grid_1_AutoML_20190419_190006_model_10',131667000000,362860,131667000000,211065,0.256765),(81,'GBM_grid_1_AutoML_20190419_190006_model_3',150704000000,388206,150704000000,234823,0.286161),(82,'DeepLearning_grid_1_AutoML_20190419_190006_model_2',299487000000,547254,299487000000,485897,0.53024),(83,'StackedEnsemble_AllModels_AutoML_20190419_190006',406239000000,637369,406239000000,445864,0.511434),(84,'StackedEnsemble_BestOfFamily_AutoML_20190419_190006',420702000000,648615,420702000000,454616,0.521239),(85,'GLM_grid_1_AutoML_20190419_190006_model_1',424343000000,651416,424343000000,456794,0.523713),(86,'GBM_3_AutoML_20190419_193106',91750000000,302903,91750000000,171672,0.204166),(87,'GBM_1_AutoML_20190419_193106',92075900000,303440,92075900000,171663,0.205569),(88,'GBM_2_AutoML_20190419_193106',92939500000,304860,92939500000,172467,0.205375),(89,'GBM_grid_1_AutoML_20190419_193106_model_6',93225600000,305329,93225600000,172157,0.205503),(90,'GBM_4_AutoML_20190419_193106',93275200000,305410,93275200000,172305,0.205156),(91,'GBM_grid_1_AutoML_20190419_193106_model_2',93411600000,305633,93411600000,172939,0.20784),(92,'GBM_grid_1_AutoML_20190419_193106_model_7',94126600000,306801,94126600000,172213,0.20486),(93,'GBM_grid_1_AutoML_20190419_193106_model_3',95124200000,308422,95124200000,175192,0.214356),(94,'GBM_5_AutoML_20190419_193106',96285500000,310299,96285500000,174727,0.207146),(95,'GBM_grid_1_AutoML_20190419_193106_model_1',96808300000,311140,96808300000,177760,0.212076),(96,'DRF_1_AutoML_20190419_193106',99888200000,316051,99888200000,177249,0.210083),(98,'GBM_grid_1_AutoML_20190419_193106_model_5',109705000000,331218,109705000000,190927,0.227341),(99,'DeepLearning_grid_1_AutoML_20190419_193106_model_1',110177000000,331929,110177000000,187097,0.222459),(100,'XRT_1_AutoML_20190419_193106',111343000000,333680,111343000000,188263,0.224122),(102,'GBM_grid_1_AutoML_20190419_193106_model_4',134918000000,367312,134918000000,221059,0.269377),(103,'GBM_grid_1_AutoML_20190419_193106_model_8',141214000000,375785,141214000000,230758,0.281441),(104,'DeepLearning_grid_1_AutoML_20190419_193106_model_3',276568000000,525897,276568000000,440769,0.528778),(105,'GBM_grid_1_AutoML_20190419_193106_model_9',331043000000,575363,331043000000,394968,0.457192),(106,'StackedEnsemble_AllModels_AutoML_20190419_193106',407150000000,638083,407150000000,446430,0.512063),(107,'StackedEnsemble_BestOfFamily_AutoML_20190419_193106',420728000000,648636,420728000000,454607,0.521242),(108,'GLM_grid_1_AutoML_20190419_193106_model_1',424343000000,651416,424343000000,456794,0.523713);
+/*!40000 ALTER TABLE `Model_Metrics` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `Model_Runtime`
+--
+
+DROP TABLE IF EXISTS `Model_Runtime`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `Model_Runtime` (
+  `Runtime_ID` int(11) NOT NULL,
+  `Dataset_ID` int(11) DEFAULT NULL,
+  `Run_Time` double DEFAULT NULL,
+  `Models_generated` int(11) DEFAULT NULL,
+  `model_execution_time_sec` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`Runtime_ID`),
+  UNIQUE KEY `ID_UNIQUE` (`Runtime_ID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `Model_Runtime`
+--
+
+LOCK TABLES `Model_Runtime` WRITE;
+/*!40000 ALTER TABLE `Model_Runtime` DISABLE KEYS */;
+INSERT INTO `Model_Runtime` VALUES (1,1,500,12,'529.5489628314972'),(2,1,800,30,'807.102153301239'),(3,1,1000,16,'1006.5357584953308'),(4,1,1500,22,'1955.4602789878845'),(5,1,1300,23,'1418.1832509040833'),(6,1,1500,22,'1955.4602789878845');
+/*!40000 ALTER TABLE `Model_Runtime` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `XRT_Hyperparameters`
+--
+
+DROP TABLE IF EXISTS `XRT_Hyperparameters`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `XRT_Hyperparameters` (
+  `Model_name` varchar(255) NOT NULL,
+  `weights_column` varchar(45) DEFAULT NULL,
+  `offset_column` varchar(45) DEFAULT NULL,
+  `fold_column` varchar(45) DEFAULT NULL,
+  `fold_assignment` varchar(45) DEFAULT NULL,
+  `stopping_rounds` int(11) DEFAULT NULL,
+  `Max_runtime_secs` int(11) DEFAULT NULL,
+  `stopping_metric` varchar(45) DEFAULT NULL,
+  `stopping_tolerance` decimal(20,0) DEFAULT NULL,
+  `balance_classes` varchar(45) DEFAULT NULL,
+  `class_sampling_factors` varchar(45) DEFAULT NULL,
+  `max_after_balance_size` int(11) DEFAULT NULL,
+  `ntrees` int(11) DEFAULT NULL,
+  `max_depth` int(11) DEFAULT NULL,
+  `min_rows` int(11) DEFAULT NULL,
+  `nbins` int(11) DEFAULT NULL,
+  `nbins_top_level` int(11) DEFAULT NULL,
+  `nbins_cats` int(11) DEFAULT NULL,
+  `seed` bigint(20) DEFAULT NULL,
+  `sample_rate` decimal(20,0) DEFAULT NULL,
+  `sample_rate_per_class` varchar(45) DEFAULT NULL,
+  `col_sample_rate_per_tree` int(11) DEFAULT NULL,
+  `col_sample_rate_change_per_level` int(11) DEFAULT NULL,
+  `min_split_improvement` double DEFAULT NULL,
+  `histogram_type` varchar(45) DEFAULT NULL,
+  `mtries` int(11) DEFAULT NULL,
+  `categorical_encoding` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`Model_name`),
+  CONSTRAINT `Model4` FOREIGN KEY (`Model_name`) REFERENCES `Model` (`Model_name`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `XRT_Hyperparameters`
+--
+
+LOCK TABLES `XRT_Hyperparameters` WRITE;
+/*!40000 ALTER TABLE `XRT_Hyperparameters` DISABLE KEYS */;
+INSERT INTO `XRT_Hyperparameters` VALUES ('XRT_1_AutoML_20190416_233703','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL',5,50,20,1,20,1024,1024,5537584604491778803,1,'NULL',1,1,0.00001,'Random',-1,'AUTO'),('XRT_1_AutoML_20190417_092107','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL',5,50,20,1,20,1024,1024,-5340757850293182143,1,'NULL',1,1,0.00001,'Random',-1,'AUTO'),('XRT_1_AutoML_20190417_103626','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL',5,50,20,1,20,1024,1024,3644544331466233729,1,'NULL',1,1,0.00001,'Random',-1,'AUTO'),('XRT_1_AutoML_20190417_121910','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL',5,35,20,1,20,1024,1024,230567767928632878,1,'NULL',1,1,0.00001,'Random',-1,'AUTO'),('XRT_1_AutoML_20190419_190006','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL',5,43,20,1,20,1024,1024,3536244150522692514,1,'NULL',1,1,0.00001,'Random',-1,'AUTO'),('XRT_1_AutoML_20190419_193106','NULL','NULL','NULL','Modulo',0,0,'deviance',0,'False','NULL',5,30,20,1,20,1024,1024,7043920943179017531,1,'NULL',1,1,0.00001,'Random',-1,'AUTO');
+/*!40000 ALTER TABLE `XRT_Hyperparameters` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2019-04-25 16:39:38

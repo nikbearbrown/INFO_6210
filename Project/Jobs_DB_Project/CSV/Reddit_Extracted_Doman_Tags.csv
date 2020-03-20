@@ -1,0 +1,6 @@
+Tag_Name,Tag_Occurence_Count,Category_ID
+flights,3,transportoption
+itinerary,2,travelplan
+Miami,2,touristplace
+Beach,2,touristplacetype
+Austin,2,touristplace

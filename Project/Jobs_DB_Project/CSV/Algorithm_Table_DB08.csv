@@ -1,0 +1,7 @@
+Algorithm_ID,Algorithm_Name
+1,GBM
+2,DRF
+3,GLM
+4,XRT
+5,Stacked Ensemble
+6,Deep Learning

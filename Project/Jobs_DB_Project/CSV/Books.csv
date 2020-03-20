@@ -1,0 +1,1441 @@
+Book_id,Title,Author,Rating,Publish_time,Rating_count
+1,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",J.K. Rowling,4.55,2006,1776738
+2,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",J.K. Rowling,4.47,2004,1827045
+3,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",J.K. Rowling,4.45,1997,5011386
+4,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",J.K. Rowling,4.39,2003,6192
+5,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",J.K. Rowling,4.54,2004,1943628
+6,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",J.K. Rowling,4.53,2002,1847250
+7,"The Harry Potter Collection (Harry Potter, #1-6)",J.K. Rowling,4.73,2006,1545
+8,"Harry Potter Boxed Set, Books 1-5 (Harry Potter, #1-5)",J.K. Rowling,4.78,2004,36099
+9,"Unauthorized Harry Potter Book Seven News: ""Half-Blood Prince"" Analysis and Speculation",W. Frederick Zimmerman,3.70,2005,15
+10,"Harry Potter Collection (Harry Potter, #1-6)",J.K. Rowling,4.73,2005,26004
+11,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams,4.21,2017,944212
+12,"The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story (Hitchhiker's Guide to the Galaxy, #1-5)",Douglas Adams,4.38,2005,3513
+13,The Ultimate Hitchhiker's Guide to the Galaxy,Douglas Adams,4.38,2002,230147
+14,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams,4.21,2004,3795
+15,The Hitchhiker's Guide to Lean: Lessons from the Road,Jamie Flinchbaugh,3.73,,46
+16,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams,4.21,2005,1126
+17,"The Hitchhiker's Guide to the Galaxy: Quandary Phase (Hitchhiker's Guide: Radio Play, #4)",Douglas Adams,4.34,2005,531
+18,The Ultimate Hitchhiker's Guide (Hitchhiker's Guide to the Galaxy #1-5),Douglas Adams,4.38,1996,2693
+19,"The Hitchhiker's Guide to the Galaxy: Quintessential Phase (Hitchhiker's Guide: Radio Play, #5)",Douglas Adams,4.39,2006,8
+21,A Short History of Nearly Everything,Bill Bryson,4.19,2004,203872
+22,Bill Bryson's African Diary,Bill Bryson,3.41,2002,6587
+23,Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right,Bill Bryson,3.87,2004,1940
+24,In a Sunburned Country,Bill Bryson,4.06,2001,62611
+25,I'm a Stranger Here Myself: Notes on Returning to America after Twenty Years Away,Bill Bryson,3.89,2000,45746
+26,The Lost Continent: Travels in Small Town America,Bill Bryson,3.83,1990,41788
+27,Neither Here nor There: Travels in Europe,Bill Bryson,3.88,1993,43894
+28,Notes from a Small Island,Bill Bryson,3.91,1997,70886
+29,The Mother Tongue: English and How It Got That Way,Bill Bryson,3.95,1991,25132
+30,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,4.59,2012,93887
+31,"The Lord of the Rings (The Lord of the Rings, #1-3)",J.R.R. Tolkien,4.48,2004,1584
+32,"The Lord of the Rings (The Lord of the Rings, #1-3)",J.R.R. Tolkien,4.48,,2811
+33,"The Lord of the Rings (The Lord of the Rings, #1-3)",J.R.R. Tolkien,4.48,2005,407498
+34,"The Fellowship of the Ring (The Lord of the Rings, #1)",J.R.R. Tolkien,4.34,2003,1863808
+35,"The Lord of the Rings (The Lord of the Rings, #1-3)",J.R.R. Tolkien,4.48,2002,1592
+36,The Lord of the Rings: Weapons and Warfare,Chris   Smith,4.53,2003,18921
+37,The Lord of the Rings: Complete Visual Companion,Jude Fisher,4.49,2004,317
+38,The Lord of the Rings Box Set,J.R.R. Tolkien,4.48,2001,211
+39,The Lord of the Rings,J.R.R. Tolkien,4.48,,264
+40,"Cooking with Fernet Branca (Gerald Samper, #1)",James Hamilton-Paterson,3.61,2005,1130
+45,Agile Web Development with Rails: A Pragmatic Guide,Dave Thomas,3.89,2005,1151
+46,Ruby Quickly: Ruby and Rails for the Real World,Mark   Watson,2.33,2006,3
+48,The Bucaneers,Edith Wharton,3.89,1995,106
+49,Bucaneer,Luther Butler,3.00,,3
+50,Hatchet,Gary Paulsen,3.69,2000,236384
+51,"Hatchet: A Guide for Using ""Hatchet"" in the Classroom",Donna Ickes,3.97,1994,31
+52,El hacha,Gary Paulsen,3.69,,16
+53,Guts: The True Stories behind Hatchet and the Brian Books,Gary Paulsen,3.86,2001,1819
+54,Molly Hatchet - 5 of the Best,Molly Hatchet,4.00,2003,4
+55,Hatchet Jobs: Writings on Contemporary Fiction,Dale Peck,3.44,2005,97
+56,The Woodsman and His Hatchet: Eighty Years on Back Country Survival,Bud Cheff Sr.,3.38,1996,8
+57,A Changeling for All Seasons,Angela Knight,3.74,2005,161
+58,"Changeling (Changeling, #1)",Delia Sherman,3.60,2006,932
+59,The Changeling Sea,Patricia A. McKillip,4.06,2003,4090
+60,"Changelings (The Twins of Petaybee, #1)",Anne McCaffrey,3.73,2006,13
+61,The Changeling,Zilpha Keatley Snyder,4.16,2004,1121
+63,The Changeling,Kate Horsley,3.54,2005,281
+65,"Shadows in the Starlight (Changeling Detective, #2)",Elaine Cunningham,3.66,2007,30
+66,"The Changeling (Daughters of England, #15)",Philippa Carr,3.98,1990,325
+67,The Known World,Edward P. Jones,3.83,2006,27589
+68,The Known World,Edward P. Jones,3.83,2004,45
+69,The Known World,Edward P. Jones,3.83,2004,19
+70,I Wish I Had Known That!: World's Greatest Money & Time Saving Baby Secrets Revealed!,Nicole Rae Painter,3.50,,2
+71,"Traders, Guns & Money: Knowns and Unknowns in the Dazzling World of Derivatives",Satyajit Das,3.83,2006,1268
+72,Artesia: Adventures in the Known World,Mark Smylie,4.07,2005,44
+73,The Known World,Edward P. Jones,3.83,2003,11
+74,"The John McPhee Reader (John McPhee Reader, #1)",John McPhee,4.44,1982,525
+75,Uncommon Carriers,John McPhee,3.94,2006,1460
+76,Heirs of General Practice,John McPhee,4.15,1986,234
+77,The Control of Nature,John McPhee,4.24,1990,3088
+78,Annals of the Former World,John McPhee,4.33,1999,2744
+79,Coming into the Country,John McPhee,4.22,1991,5090
+80,La Place de la Concorde Suisse,John McPhee,3.90,1994,627
+81,Giving Good Weight,John McPhee,4.21,1994,508
+82,"The Second John McPhee Reader (John McPhee Reader, #2)",John McPhee,4.33,1996,4
+83,Rising from the Plains,John McPhee,4.22,,1177
+84,Heidi,Loretta Krupinski,4.40,1996,15
+85,The Heidi Chronicles,Wendy Wasserstein,3.75,2002,1215
+86,The Heidi Chronicles: Uncommon Women and Others & Isn't It Romantic,Wendy Wasserstein,3.83,1991,2591
+87,Pandering,Heidi Fleiss,3.49,2003,73
+88,Love Your Handwriting (Creating Keepsakes),Heidi Swapp,3.59,2005,85
+89,"Active Literacy Across the Curriculum: Strategies for Reading, Writing, Speaking, and Listening",Heidi Hayes Jacobs,3.71,2006,24
+90,Simply Beautiful Beaded Jewelry,Heidi Boyd,3.66,2006,57
+91,Always Enough: God's Miraculous Provision Among the Poorest Children on Earth,Heidi Baker,4.44,2003,760
+92,Mapping the Big Picture: Integrating Curriculum & Assessment K-12,Heidi Hayes Jacobs,3.53,1997,60
+93,Heidi,Johanna Spyri,3.97,2002,147140
+94,Getting Results with Curriculum Mapping,Heidi Hayes Jacobs,3.11,2005,46
+95,"Cinnamon and Roses (Rose Trilogy, #1)",Heidi Betts,3.78,2000,55
+96,There's Always Enough: The Miraculous Move of God in Mozambique,Rolland Baker,4.44,2003,30
+97,The Birthdays,Heidi Pitlor,2.84,,62
+98,What to Expect the First Year (What to Expect),Heidi Murkoff,3.87,2003,11130
+99,The Player's Handbook: The Ultimate Guide on Dating and Relationships,Heidi Fleiss,3.77,2004,31
+100,Simply Beautiful Beading: 53 Quick and Easy Projects,Heidi Boyd,3.75,2004,76
+101,Chasing Jordan,Heidi W. Boehringer,3.42,2005,33
+102,Seven-Year Seduction,Heidi Betts,3.57,2006,68
+103,"God Emperor of Dune (Dune Chronicles, #4)",Frank Herbert,3.82,1987,2539
+104,"Dune (Dune Chronicles, #1)",Frank Herbert,4.20,2005,3344
+105,Chapterhouse: Dune (Dune Chronicles #6),Frank Herbert,3.89,1987,36385
+106,Dune Messiah (Dune Chronicles #2),Frank Herbert,3.86,1987,87438
+107,Dreamer of Dune: The Biography of Frank Herbert,Brian Herbert,3.98,2004,690
+108,The Secrets of Frank Herbert's Dune,James Van Hise,3.47,2000,36
+109,"Heretics of Dune (Dune Chronicles, #5)",Frank Herbert,3.84,1984,242
+110,The Road to Dune (Dune Universe),Frank Herbert,3.85,2006,4155
+111,"Dios emperador de Dune (Dune Chronicles, #4)",Frank Herbert,3.82,,92
+112,Children of Dune (Dune Chronicles #3),Frank Herbert,3.91,1987,77887
+113,"Dune (Dune Chronicles, #1)",Frank Herbert,4.20,,32
+114,"Dune Trilogy Box Set (Dune Chronicles, #1-3)",Frank Herbert,4.36,1978,19
+115,Worlds Beyond Dune Box,Frank Herbert,3.50,1980,4
+116,The Dune Encyclopedia,Willis Everett McNelly,4.08,,33
+117,Heretics of Dune (Dune Chronicles #5),Frank Herbert,3.84,1987,42162
+118,The Battles of Dune,Felix  Salten,4.18,1994,368
+119,The Lord of the Rings: The Art of The Fellowship of the Ring,Gary Russell,4.59,,24520
+120,The Trust: The Private and Powerful Family behind the New York Times,Susan E. Tifft,3.93,,2
+121,The Patriarch: The Rise and Fall of the Bingham Dynasty,Susan E. Tifft,3.50,1993,6
+122,"The Power of One (The Power of One, #1)",Bryce Courtenay,4.34,1996,61207
+123,"The Power of One (The Power of One, #1)",Bryce Courtenay,4.34,2005,38
+124,Lose Weight with The Power of One: A Motivational Journey to Nutritional Sanity,Stephen   Moss,4.00,,6
+125,The Power of One: Daisy Bates and the Little Rock Nine,Dennis Brindell Fradin,4.38,2004,29
+126,"The Power of One (The Power of One, #1)",Bryce Courtenay,4.34,2004,16
+127,"Powers Unlimited One: A Sourcebook for Heroes Unlimited (Heroes Unlimited, #1)",Carmen Bellaire,4.36,2003,11
+128,The Power of One Christlike Life,Francis Frangipane,4.18,2000,30
+129,"The Power of One: One Person, One Rule, One Month",John C. Maxwell,4.00,2004,12
+130,Power of an Hour: Business and Life Mastery in One Hour a Week,Dave Lakhani,3.26,2006,141
+131,"The Power of One: The Solo Play for Playwrights, Actors, and Directors",Louis E. Catron,3.45,2000,8
+132,"How to Buy, Sell & Profit on eBay: Kick-Start Your Home-Based Business in Just Thirty Days",Adam Ginsberg,3.38,2005,65
+133,eBay for Dummies,Marsha Collier,3.47,2006,89
+134,eBay PowerSeller Secrets: Insider Tips from eBay's Most Successful Sellers,Debra Schepp,3.51,2004,34
+135,What to Sell on ebay and Where to Get It: The Definitive Guide to Product Sourcing for eBay and Beyond,Chris Malta,3.50,2006,20
+136,Titanium eBay: A Tactical Guide to Becoming a Millionaire PowerSeller,Skip McGrath,3.78,,17
+137,Starting an eBay Business for Dummies,Marsha Collier,3.45,2004,46
+138,eBay: Top 100 Simplified Tips & Tricks,Julia Wilkinson,4.11,2006,7
+139,ebay Timesaving Techniques for Dummies,Marsha Collier,3.29,2004,17
+140,eBay Business All-in-One Desk Reference for Dummies,Marsha Collier,3.73,2005,14
+141,Ruby Cookbook,Lucas Carlson,3.77,2006,150
+142,Ruby Ann's Down Home Trailer Park Cookbook,Ruby Ann Boxcar,4.00,2005,45
+143,Ruby Ann's Down Home Trailer Park Holiday Cookbook,Ruby Ann Boxcar,3.88,2002,16
+144,Ruby Ann's Down Home Trailer Park BBQin' Cookbook,Ruby Ann Boxcar,4.00,2005,11
+145,Ruby Cookbook,Colin Steele,4.33,2001,3
+146,Ruby's Low-Fat Soul Food Cookbook,Ruby Banks-Payne,4.67,1996,3
+147,Rails Cookbook: Recipes for Rapid Web Development with Ruby,Rob Orsini,3.59,2007,46
+148,"Ruby Slippers Cookbook: Life, Culture, Family & Food after Katrina",Amy Cyrex Sins,4.22,,9
+149,The Red Hot Cookbook: Create a Culinary Inferno with Flaming Good Recipes from Around the World,Ruby Le Bois,2.50,2000,2
+151,Anna Karenina,Leo Tolstoy,4.03,2004,14739
+152,Anna Karenina,Leo Tolstoy,4.03,2002,109092
+153,Anna Karenina,Leo Tolstoy,4.03,2003,2660
+154,CliffsNotes on Tolstoy's Anna Karenina,Marianne Sturman,3.67,1965,11
+155,Anna Karenina,Leo Tolstoy,4.03,2003,9084
+156,Anna Karenina,Leo Tolstoy,4.03,2004,430
+157,Anna Karenina,Leo Tolstoy,4.03,2004,303
+158,Anna Karenina,Leo Tolstoy,4.03,2004,221
+159,Dinner with Anna Karenina,Gloria Goldreich,2.97,2006,376
+160,Tolstoy: Anna Karenina,Anthony Thorlby,4.18,1987,1162
+161,The Dream Life of Sukhanov,Olga Grushin,3.87,,57
+162,Untouchable,Mulk Raj Anand,3.68,1990,2781
+163,The Untouchable,John Banville,3.96,1998,1940
+164,The Untouchables,Eliot Ness,3.87,1996,524
+165,Untouchables: My Family's Triumphant Journey Out of the Caste System in Modern India,Narendra Jadhav,3.83,2005,279
+166,Dalit: The Black Untouchables of India,V.T. Rajshekar,4.00,1995,6
+167,"The Untouchables: Subordination, Poverty and the State in Modern India (Contemporary South Asia, #4)",Oliver Mendelsohn,2.50,2006,2
+168,Growing Up Untouchable in India: A Dalit Autobiography,Vasant Moon,3.62,2000,13
+170,The Book of Evidence,Peter Achinstein,3.75,2003,8
+171,The Evidence-Based Social Work Skills Book,Barry R. Cournoyer,2.71,2003,7
+172,Surgery: Basic Science and Clinical Evidence,Jeffrey A. Norton,3.20,,3
+174,"The Book of Evidence (The Freddie Montgomery Trilogy, #1)",John Banville,3.73,1991,13
+175,A Challenge to the Critics: Scholarly Evidences of the Book of Mormon,Diane E. Wirth,3.78,,9
+176,Little Known Evidences of the Book of Mormon,Brenton G. Yorgason,3.67,,45
+177,"A Wrinkle in Time: A Guide for Using ""A Wrinkle in Time"" in the Classroom",John Carratello,3.93,1991,14
+178,A Wrinkle in Time by Madeleine L'Engle: Study Guide,Teri Shagoury,4.15,,33
+179,A Wrinkle in Time: LitPlan Teacher Pack,Mary B. Collins,3.44,,2
+180,Wrinkles in Time,George Smoot,3.95,1994,862
+181,A Wrinkle in Time: With Related Readings (A Wrinkle in Time Quintet #1),Madeleine L'Engle,4.04,2002,33
+182,Literature Circle Guide: A Wrinkle in Time,Tara MacCarthy,3.33,2002,12
+183,Un raccourci dans le temps,Madeleine L'Engle,4.04,1997,22
+184,Empress in the Wrinkle of Time: The Knight-King Chronicle,Valerie Metcalf Estoye,3.50,2000,2
+185,Access to Literature: A Wrinkle in Time,LinguiSystems,3.62,1993,8
+186,Wrinkles in Time: Imprint of Creation,George Smoot,3.95,,32
+188,Madeleine L'Engle: Author of a Wrinkle in Time (People in Focus),Doreen Gonzales,4.27,1991,59
+189,A Wrinkle in Time: A Reading Guide,Manuela Soares,3.00,2003,4
+190,"A Wrinkle in Time (A Wrinkle in Time Quintet, #1)",Madeleine L'Engle,4.04,,268
+191,Literature Connections Sourcebook: A Wrinkle in Time and Related Readings,McDougal Littell,3.90,,10
+192,A Wrinkle in Time: L-I-T Guide,Charlotte S. Jaffe,3.85,1997,47
+193,"A Literature Guide to ""A Wrinkle in Time"" by Madeleine L'Engle",Raymond E. Jones,2.75,,4
+194,"A Wrinkle in Time (A Wrinkle in Time Quintet, #1)",Madeleine L'Engle,4.04,1994,31
+195,Decision & Responsibility: A Wrinkle in Time,H. Ganse Little,4.00,1974,6
+196,The Silver Sword,Laura Brierley,4.12,,17
+197,A Wrinkle in Time: Teacher Guide,Anne Troy,4.00,,10
+198,A Wrinkle in Time: Teaching Unit,James      Scott,4.00,1997,7
+200,A Wrinkle in Time: Student Packet,"Novel Units, Inc.",4.17,,6
+201,Una arruga en el tiempo – A Wrinkle in Time,Madeleine L'Engle,4.04,1984,3
+202,The Long Shadow of Little Rock: A Memoir,Daisy Bates,4.06,1987,125
+203,The Long Shadow of Temperament,Jerome Kagan,4.21,2004,12
+204,"The Long Shadow (The Morland Dynasty, #6)",Cynthia Harrod-Eagles,4.10,1994,332
+205,"A Long Shadow (Inspector Ian Rutledge, #8)",Charles Todd,4.10,2006,2650
+206,Vicksburg's Long Shadow: The Civil War Legacy of Race and Remembrance,Christopher Waldrep,3.33,2005,9
+207,Long Way Round: Chasing Shadows Across the World,Ewan McGregor,3.93,2005,329
+208,"A Shadow in Summer (Long Price Quartet, #1)",Daniel Abraham,3.59,,8831
+209,The Long Shadow,Clois G. Long,4.00,1993,2
+210,"Long Shadows: Truth, Lies and History",Erna Paris,4.21,,5
+212,The Collected Memoirs of Charles Willeford: I Was Looking for a Street/Something About a Soldier,Charles Willeford,4.00,,12
+213,New Hope for the Dead,Charles Willeford,3.93,2004,700
+214,Sideswipe: A Hoke Moseley Novel,Charles Willeford,4.05,2005,620
+215,The Way We Die Now,Charles Willeford,4.06,2005,546
+216,Miami Blues,Charles Willeford,3.97,2004,2436
+217,Charles Willeford Omnibus: Pick Up/Burnt Orange Heresy/Cockfighter,Charles Willeford,4.31,,31
+218,The Woman Chaser,Charles Willeford,3.96,1960,435
+219,The Machine in Ward Eleven,Charles Willeford,3.56,2001,109
+221,Wild Wives,Charles Willeford,3.71,2009,307
+222,The Shark-Infested Custard,Charles Willeford,3.85,2005,438
+224,The Black Mass of Brother Springer,Charles Willeford,4.04,2003,122
+226,Comedy after Postmodernism: Rereading Comedy from Edward Lear to Charles Willeford,Kirby Olson,3.00,2001,3
+228,Cockfighter,Charles Willeford,4.11,2005,905
+229,Sideswipe,Charles Willeford,4.05,1988,18
+230,The Burnt Orange Heresy (Vintage Crime/Black Lizard),Charles Willeford,3.92,1990,88
+231,I am Charlotte Simmons,Tom Wolfe,3.40,2005,19738
+232,I am Charlotte Simmons,Tom Wolfe,3.40,,8
+234,The Complete Verse and Other Nonsense,Edward Lear,4.17,2002,877
+236,The Complete Nonsense of Edward Lear,Edward Lear,4.05,1940,341
+237,Poetry for Young People: Edward Lear,Edward Lear,3.83,2001,57
+238,Later Letters of Edward Lear to Chichester Fortescue (Select Bibliographies Reprint Ser.)),Edward Lear,5.00,,0
+239,An Edward Lear Alphabet,Edward Lear,3.36,1999,34
+240,Edward Lear's Nonsense Verse,Edward Lear,3.65,1999,0
+241,A Was Once an Apple Pie,Edward Lear,3.35,2005,159
+242,The Owl and the Pussycat,Edward Lear,4.20,1996,69
+243,The Pobble Who Has No Toes (Edward Lear's Little Books of Nonsense),Edward Lear,4.66,1986,35
+244,The Puffin Book Of Nonsense Verse,Quentin Blake,4.05,1996,66
+245,Henry Miller on Writing,Henry Miller,4.23,1964,881
+246,The Colossus of Maroussi,Henry Miller,3.98,1975,2287
+247,Quiet Days in Clichy,Henry Miller,3.70,1994,3054
+248,Big Sur and the Oranges of Hieronymus Bosch,Henry Miller,4.00,1957,2261
+249,Tropic of Cancer,Henry Miller,3.71,1994,47686
+250,Tropic of Capricorn,Henry Miller,3.85,1994,12541
+251,"Nexus (The Rosy Crucifixion, #3)",Henry Miller,4.09,1994,3075
+252,"Sexus (The Rosy Crucifixion, #1)",Henry Miller,4.05,1994,6680
+253,The Air-Conditioned Nightmare,Henry Miller,3.84,1970,2492
+254,The Time of the Assassins:  a Study of Rimbaud,Henry Miller,3.96,1962,748
+255,Public Places-Urban Spaces: The Dimensions of Urban Design,Matthew Carmona,4.11,2003,77
+256,Behavior in Public Places,Erving Goffman,4.11,1966,178
+257,Haunted Places in America: A Guide to Spooked and Spooky Public Places in the United States,Charles A. Coulombe,3.29,2004,14
+258,"Public Places: My Life in the Theater, with Peter O'Toole and Beyond",Sian Phillips,3.88,2004,31
+259,Together Alone: Personal Relationships in Public Places,Calvin Morrill,3.12,2005,8
+260,Squares: A Public Place Design Guide for Urbanists,Mark C. Childs,3.50,,2
+261,Just in Time! Pastoral Prayers in Public Places,F. Belton Joyner Jr.,3.00,2006,3
+262,Pike Place Public Market Seafood Cookbook,Braiden Rex-Johnson,3.73,2005,20
+263,Art for Public Places: Critical Essays,Malcolm Miles,3.00,1989,1
+264,The Portrait of a Lady,Henry James,3.77,2003,57116
+265,The Portrait of a Lady,Janet McAlpin,3.43,,7
+266,The Portrait of a Lady (The Classic Collection),Henry James,3.77,2006,20
+267,Portrait of the Blue Lady: The Character of Melancholy,Lyn Cowan,3.86,2004,7
+268,The Portrait of a Lady,Henry James,3.77,1999,34
+269,The Portrait of a Lady,Henry James,3.77,2004,361
+270,The Portrait of a Lady,Henry James,3.77,2001,132
+271,New Essays on 'The Portrait of a Lady',Joel Porte,2.00,2014,1
+272,Portrait of a Lady,Henry James,3.77,,31
+273,The Portrait of a Lady,Henry James,3.77,1996,2
+274,The Portrait of a Lady,Henry James,3.77,,17
+275,The Lover,Marguerite Duras,3.75,1998,20136
+276,Hiroshima Mon Amour,Marguerite Duras,3.92,,4
+277,Writing,Marguerite Duras,3.75,1999,660
+278,The War,Marguerite Duras,3.85,1994,858
+279,Craniosacral Therapy II: Beyond the Dura,John E. Upledger,4.25,1990,40
+280,The Ravishing of Lol Stein,Marguerite Duras,3.69,1986,1764
+281,"Destroy, She Said",Marguerite Duras,3.70,1994,487
+282,L'Amour,Marguerite Duras,3.37,,109
+283,L'Amant de la Chine du Nord,Marguerite Duras,3.92,1991,262
+284,A Treasury of Kahlil Gibran,Kahlil Gibran,4.42,1976,217
+285,Love Letters,Kahlil Gibran,3.58,1999,200
+286,The Prophet,Kahlil Gibran,4.23,1995,748
+288,Kahlil Gibran: His Life and World,Jean Gibran,4.24,1998,31
+289,The Beloved: Reflections on the Path of the Heart,Kahlil Gibran,4.17,1998,303
+290,Jesus the Son of Man,Kahlil Gibran,3.99,1995,1202
+291,The Broken Wings,Kahlil Gibran,3.93,2003,5845
+292,Sand and Foam,Kahlil Gibran,4.09,2011,2744
+293,The Wisdom Of Kahlil Gibran,Kahlil Gibran,4.22,,4
+295,Treasure Island,Robert Louis Stevenson,3.82,2001,283823
+296,Treasure Island,Robert Louis Stevenson,3.82,2004,356
+297,Treasure Island,Robert Louis Stevenson,3.82,2005,5850
+298,Treasure Island,Robert Louis Stevenson,3.82,2003,98
+299,Treasure Island,Robert Louis Stevenson,3.82,2002,53
+300,Treasure Island,Robert Louis Stevenson,3.82,2005,14
+301,Treasure Island,Robert Louis Stevenson,3.82,2005,32
+302,Treasure Island (Great Illustrated Classics),Deidre S. Laiken,4.02,2006,78
+303,Cliffs Notes on Stevenson's Treasure Island and Kidnapped,O.L. Mishk,4.00,1974,2
+304,Daniel Deronda,George Eliot,3.82,2002,18535
+305,George Eliot and Judaism: An Attempt to Appreciate 'Daniel Deronda',David Kaufmann,3.00,2005,1
+306,Daniel Deronda Notebooks,George Eliot,3.50,1996,0
+307,Daniel Deronda: A Conversation,Henry James,4.50,,4
+309,"Daniel Deronda, V1",George Eliot,4.24,2003,3
+310,Jazz: The First 100 Years (with Audio CD),Henry  Martin,3.89,,4
+311,Essential Jazz: The First 100 Years (with CD-ROM),Henry  Martin,4.36,,2
+312,Flight: 100 Years of Aviation,R.G. Grant,4.33,2002,31
+313,100 Years of Lynchings,Ralph Ginzburg,4.58,1996,71
+314,If You Lived 100 Years Ago,Ann McGovern,3.90,1999,112
+315,Camp Cooking: 100 Years The National Museum of Forest Service History,National Museum of Forest Service History,4.25,2004,36
+317,El Siglo del Espiritu Santo,Vinson Synan,3.71,2006,2
+318,The Next 100 Years: Predictions to the Nations and the Church of the 21st Century,Dennis Cramer,3.75,2004,8
+319,Disney: The First 100 Years,Dave   Smith,3.93,2003,9
+320,One Hundred Years of Solitude,Gabriel García Márquez,4.05,2003,511184
+321,Cliffs Notes on Garcia Marquez' 100 Hundred Years of Solitude,Carl Senna,4.14,,46
+322,Cien años de soledad,Gabriel García Márquez,4.05,,882
+323,Masterwork Studies Series: 100 Years of Solitude,Regina Janes,4.04,1991,182
+324,Cien años de soledad,Gabriel García Márquez,4.05,1990,30
+325,Cien años de soledad,Gabriel García Márquez,4.05,2000,69
+326,One Hundred Years of Solitude,Gabriel García Márquez,4.05,1998,91
+327,Why Zebras Don't Get Ulcers,Robert M. Sapolsky,4.15,2004,5075
+328,Chess for Zebras,Jonathan Rowson,4.40,2003,57
+329,What If the Zebras Lost Their Stripes?,John Reitano,4.15,1998,57
+330,On Beyond Zebra!,Dr. Seuss,4.04,1955,2602
+331,Ziggy the Zebra,Libby Ellis,3.67,2000,9
+332,The Wedding Clause,Debbie Raleigh,3.60,2005,74
+333,The Zebra Wall,Kevin Henkes,3.44,2005,191
+334,"""A"" Is for Zebra",Mark Shulman,3.68,2006,46
+335,Lots and Lots of Zebra Stripes,Stephen R. Swinburne,3.53,2002,27
+336,Why Zebras Don't Get Ulcers,Robert M. Sapolksy,4.15,1995,51
+337,El perfume: Historia de un asesino,Patrick Süskind,4.01,2002,3714
+338,Jitterbug Perfume,Tom Robbins,4.24,2003,3960
+339,"Perfumes, Splashes  Colognes: Discovering and Crafting Your Personal Fragrances",Nancy M. Booth,3.57,1997,53
+340,Wonderful World of Collecting Perfume Bottles: Identification & Value Guide,Jane Flanagan,3.89,2006,8
+341,Perfume Dreams: Reflections on the Vietnamese Diaspora,Andrew Lam,3.93,2005,192
+342,Essence and Alchemy: A Book of Perfume,Mandy Aftel,4.06,2001,37
+343,Perfume: The Story of a Murderer,Patrick Süskind,4.01,1987,192341
+344,Scents & Sensibilities: Creating Solid Perfumes for Well-Being,Mandy Aftel,3.80,,56
+345,Perfume: The Art And Science of Scent,Cathy Newman,3.82,,1
+346,The Perfume Guide,Susan Irvine,3.92,,12
+347,Off the Main Sequence: The Other Science Fiction Stories of Robert A. Heinlein,Robert A. Heinlein,4.05,2005,218
+348,The Door Into Summer,Robert A. Heinlein,4.00,1997,15884
+349,The Moon is a Harsh Mistress,Robert A. Heinlein,4.17,1997,3428
+350,Stranger in a Strange Land,Robert A. Heinlein,3.91,1991,229042
+351,Starman Jones,Robert A. Heinlein,3.83,,6039
+352,The Notebooks of Lazarus Long,Robert A. Heinlein,4.06,,3111
+353,Time Enough for Love,Robert A. Heinlein,3.96,1988,26357
+354,To Sail Beyond the Sunset,Robert A. Heinlein,3.87,1988,9854
+355,Job: A Comedy of Justice,Robert A. Heinlein,3.77,1985,15009
+356,Time for the Stars,Robert A. Heinlein,3.96,2006,6404
+357,"The Long Dark Tea-Time of the Soul (Dirk Gently, #2)",Douglas Adams,4.05,1991,62293
+358,Dirk Gently's Holistic Detective Agency (Dirk Gently #1),Douglas Adams,3.97,1987,1016
+359,"The Salmon of Doubt (Dirk Gently, #3)",Douglas Adams,3.92,2005,20803
+360,"Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)",Douglas Adams,3.97,2000,72729
+361,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",Douglas Adams,4.20,1995,2809
+362,Wish You Were Here: The Official Biography of Douglas Adams,Nick  Webb,4.13,2005,2346
+363,"The Long Dark Tea-Time of the Soul (Dirk Gently, #2)",Douglas Adams,4.05,2006,8
+364,"The Long Dark Tea-Time of the Soul (Dirk Gently, #2)",Douglas Adams,4.05,1993,1
+365,Dirk Gently's Holistic Detective Agency (Dirk Gently #1),Douglas Adams,3.97,1991,93381
+366,Velvet: A Novel of Suspense,Alec Kalla,2.20,1993,3
+367,Douglas Adams's Starship Titanic,Terry Jones,3.59,1998,807
+369,Douglas Adams Starship Titanic: The Official Strategy Guide,Neil Richards,3.70,,49
+371,The Salmon of Doubt,Douglas Adams,3.92,2003,215
+372,The Salmon of Doubt: Hitchhiking the Galaxy One Last Time,Douglas Adams,3.92,2006,24
+373,The Salmon of Doubt: Hitchhiking the Galaxy One Last Time,Douglas Adams,3.92,2004,4
+374,Salmon Doubts,Adam Sacks,3.25,2004,134
+375,Salmon of Doubt,Douglas Adams,3.92,2003,1
+376,The Salmon Of Doubt,Douglas Adams,3.92,,1
+377,Salmon of Doubt: Hitchhiking the Galaxy One Last Time,Douglas Adams,3.92,2003,4
+378,The Phantom Tollbooth,Norton Juster,4.22,1996,190555
+379,A Guide for Using the Phantom Tollbooth in the Classroom,Kathleen L. Bulloch,3.89,1994,9
+380,A Colorful Symphony: Full Score,Robert Xavier Rodríguez,0.00,1997,0
+381,La Caseta Magica (the Phantom Tollbooth),Norton Juster,4.22,2001,1
+382,The Phantom Tollbooth: A Children's Play in Two Acts,Susan Nanus,4.05,2011,85
+383,The Phantom Tollbooth,Norton Juster,4.22,,9
+384,A Literature Guide [To] The Phantom Tollbooth Written By Norton Juster; Illustrated By Jules Feiffer,Barbara Moross,0.00,,0
+385,On Bullshit,Harry G. Frankfurt,3.55,2005,7909
+386,Another Bullshit Night in Suck City,Nick Flynn,3.78,2005,8713
+387,100 Bullshit Jobs...And How to Get Them,Stanley Bing,3.11,2006,137
+388,The Business of Bullshit,Graham Edmonds,3.27,2006,15
+389,Bullshit Artist: The 9/11 Leadership Myth,Ron Schalow,4.50,2006,4
+390,Your Call Is Important to Us: The Truth About Bullshit,Laura Penny,3.42,2006,248
+391,Dictionary of Bullshit,Nick  Webb,3.17,2006,28
+392,"Bullets, Badges, and Bullshit",Phil T. O'Brien,0.00,2006,0
+393,"Hello, Lied the Agent: And Other Bullshit You Hear as a Hollywood TV Writer",Ian Gurvitz,3.37,2006,46
+394,Lincoln at Gettysburg: The Words That Remade America,Garry Wills,4.13,1993,110
+395,Lincoln's Gettysburg Address in Translation,Abraham Lincoln,4.52,1972,3
+396,A. Lincoln'S Gettysburg Addres,Barbara Jane Feinburg,3.00,2000,2
+397,The Gettysburg Address,Abraham Lincoln,4.52,1998,4621
+398,The Battle of Gettysburg and Lincoln's Gettyburg Address,Carin T. Ford,3.60,2004,5
+399,Underworld,Don DeLillo,3.92,1998,1398
+400,Libra,Don DeLillo,3.98,1991,10750
+401,Don DeLillo's White Noise (Bloom's Modern Critical Interpretations),Harold Bloom,3.54,2002,24
+402,Mao II,Don DeLillo,3.68,1992,7599
+403,Americana,Don DeLillo,3.44,1989,343
+404,Running Dog,Don DeLillo,3.42,1989,1208
+405,Ratner's Star,Don DeLillo,3.50,1989,100
+406,Cosmopolis,Don DeLillo,3.22,2004,436
+407,Great Jones Street,Don DeLillo,3.47,1994,2255
+408,The Names,Don DeLillo,3.65,1989,2847
+409,Against the Day,Thomas Pynchon,4.11,2006,4842
+410,V.,Thomas Pynchon,3.97,2005,1296
+411,The Crying of Lot 49,Thomas Pynchon,3.70,1999,2080
+412,Gravity's Rainbow,Thomas Pynchon,4.03,2000,742
+413,Mason & Dixon,Thomas Pynchon,4.05,2004,7308
+414,Vineland,Thomas Pynchon,3.67,1997,632
+415,Gravity's Rainbow,Thomas Pynchon,4.03,2006,26288
+416,Slow Learner: Early Stories,Thomas Pynchon,3.48,1985,311
+417,Thomas Pynchon (Bloom's Modern Critical Views),Harold Bloom,3.50,2003,15
+418,Been Down So Long it Looks Like Up to Me,Richard Fariña,3.81,1996,2220
+419,Vintage Didion,Joan Didion,4.11,2004,360
+420,The Year of Magical Thinking,Joan Didion,3.87,2005,2320
+421,The White Album,Joan Didion,4.19,1990,8900
+422,A Book of Common Prayer,Joan Didion,3.81,1995,2558
+423,Where I Was From,Joan Didion,3.86,2004,2379
+424,Slouching Towards Bethlehem,Joan Didion,4.23,1990,20342
+425,Democracy,Joan Didion,3.82,1995,1772
+426,We Tell Ourselves Stories in Order to Live: Collected Nonfiction,Joan Didion,4.49,2006,1384
+427,Miami,Joan Didion,3.70,1998,873
+428,Play It as It Lays,Joan Didion,3.87,2005,19238
+429,Amazons: An Intimate Memoir by the First Woman Ever to Play in the National Hockey League,Cleo Birdwell,3.61,1980,21
+430,Amazons,Cleo Birdwell,3.61,1981,1
+431,The New York Trilogy,Paul Auster,3.92,2006,36814
+432,"City of Glass (The New York Trilogy, #1)",Paul Auster,3.80,1987,10748
+433,The New York Trilogy: City of Glass / Ghosts / The Locked Room,Paul Auster,3.92,,300
+434,"Ghosts (The New York Trilogy, #2)",Paul Auster,3.66,1987,3152
+435,"The Locked Room (The New York Trilogy, #3)",Paul Auster,3.90,1986,2573
+436,La trilogía de Nueva York,Paul Auster,3.92,1996,717
+438,"New York Trilogy: New York Underground, Trapped, Love and Sex",Paul Hallasy,0.00,2000,0
+439,"New York Dreams (Virex Trilogy, #3)",Eric Brown,3.85,2004,29
+440,"New York Nights (Virex Trilogy, #1)",Eric Brown,3.51,,48
+442,New York Trilogy   Whodunit?,Anne Holzapfel,0.00,,0
+443,New York Blues (Virex Trilogy),Eric Brown,3.79,,2
+444,Pyramids of Montauk: Explorations in Consciousness,Peter Moon,3.91,1995,64
+445,"All My Tomorrows (The Orphan Trains Trilogy, #2)",Al Lacy,3.97,2003,145
+446,The Brooklyn Follies,Paul Auster,3.82,2006,16333
+447,Moon Palace,Paul Auster,3.99,1990,13032
+448,A Tomb for Anatole: Poetry,Stéphane Mallarmé,4.44,2005,95
+449,Timbuktu,Paul Auster,3.67,2000,8667
+450,Neon Lit: Paul Auster's City of Glass,Paul Karasik,3.92,1994,109
+451,True Tales of American Life,Paul Auster,3.87,,339
+452,The Invention of Solitude: A Memoir,Paul Auster,3.81,1988,146
+453,The Music of Chance,Paul Auster,3.89,1991,342
+454,Travels in the Scriptorium,Paul Auster,3.22,2007,6215
+455,In the Country of Last Things,Paul Auster,3.90,1988,398
+456,Leviathan,Paul Auster,3.95,1993,10519
+457,Auggie Wren's Christmas Story,Paul Auster,3.85,2004,1026
+458,Oracle Night,Paul Auster,3.78,2003,232
+459,The Random House Book of 20th Century French Poetry,Paul Auster,4.55,1984,158
+460,Paul Auster's New York - Promo: Mak.of Amer,Paul Auster,3.87,1997,47
+461,The Inner Life of Martin Frost,Paul Auster,3.33,2006,164
+462,Disappearances,Paul Auster,3.19,1989,58
+463,The Red Notebook: True Stories,Paul Auster,3.77,2002,2185
+464,Collected Poems,Paul Auster,3.59,2004,11
+465,Paul Auster and Postmodern Quest: On the Road to Nowhere,Chippy M.L. Den Irvine,3.00,2002,1
+466,Timbuktu / Leviathan / Moon Palace,Paul Auster,4.41,2002,17
+467,El libro de las ilusiones,Paul Auster,3.90,,98
+468,An Art of Desire: Reading Paul Auster,Bernd Herzogenrath,3.75,1999,4
+469,Paul Auster (Bloom's Modern Critical Views),Harold Bloom,3.78,2003,9
+470,"The Art of Hunger: Essays, Prefaces, Interviews, The Red Notebook",Paul Auster,3.84,1997,397
+471,World that is the Book: Paul Auster�s Fiction,Aliki Varvogli,3.50,2001,0
+472,Why Write?,Paul Auster,3.77,,118
+473,Beyond the Red Notebook,Dennis Barone,4.00,1995,9
+474,Paul Auster (French Edition),F. Gavillon,4.00,,3
+475,Collapse: How Societies Choose to Fail or Succeed,Jared Diamond,3.92,2005,45655
+476,The Coming Economic Collapse: How You Can Thrive When Oil Costs $200 a Barrel,Stephen Leeb,3.35,,196
+477,The Collapse of Complex Societies,Joseph A. Tainter,4.12,1990,590
+478,Bowling Alone: The Collapse and Revival of American Community,Robert D. Putnam,3.76,2001,4014
+479,The Collapse of Evolution,Scott M. Huse,4.08,1997,56
+480,Collapse of Burning Buildings: A Guide to Fireground Safety,Vincent Dunn,4.75,1988,4
+481,The Collapse of the Common Good: How America's Lawsuit Culture Undermines Our Freedom,Philip K. Howard,3.81,2002,50
+482,"Armageddon Averted: The Soviet Collapse, 1970-2000",Stephen Kotkin,3.71,2003,300
+484,Reinventing the Enemy's Language: Contemporary Native Women's Writings of North America,Joy Harjo,4.39,1998,229
+485,The Languages of Native North America,Marianne Mithun,4.47,2009,29
+487,Searching for Lost City: On the Trail of America's Native Languages,Elizabeth Seay,3.86,2003,6
+488,Indian Sign Language,William Tomkins,3.68,1969,32
+489,Along The Clipper Way,Francis Chichester,3.93,,24
+490,Along The Clipper Way,Francis Chichester,3.93,1974,1
+491,"Life And Adventures Of John Nicol, Mariner",John Nicol,3.97,,2
+492,The Fantastic Inventions of Nikola Tesla,Nikola Tesla,4.03,2014,207
+493,My Inventions,Nikola Tesla,4.02,2006,2015
+494,Wizard: The Life and Times of Nikola Tesla: Biography of a Genius,Marc Seifer,3.76,2001,2304
+495,"Colorado Springs Notes, 1899-1900",Brotherhood of Life,4.00,2001,7
+496,The Lost Journals of Nikola Tesla: HAARP - Chemtrails and the Secret of Alternative 4,Tim R. Swartz,3.92,2011,29
+497,Nikola Tesla: A Spark of Genius,Carol Dommermuth-Costa,3.95,1994,92
+498,Tesla Papers,Nikola Tesla,4.12,2015,90
+499,21st Century Mysteries: Nikola Tesla: Federal Documents and References (CD-ROM),Unknown Author 500,5.00,2006,1
+500,Problem of Increasing Human Energy,Nikola Tesla,4.22,,90
+501,The Tesla Rotating Magnetic Field,Thomas Commerford Martin,4.00,,1
+502,Art Invention House,Michael Webb,3.62,2005,8
+503,How Invention Begins: Echoes of Old Voices in the Rise of New Machines,John H. Lienhard,3.73,2006,13
+504,The Invention of Peace: Reflections on War and International Order,Michael Eliot Howard,3.68,2001,73
+505,The Invention of Tradition,Eric Hobsbawm,3.96,1992,712
+506,The Story of Inventions,Frank Puterbaugh Bachman,3.76,1992,36
+507,Amazing Leonardo da Vinci Inventions: You Can Build Yourself,Maxine Anderson,3.85,2006,80
+508,The Complete Idiot's Guide to Cashing in On Your Inventions,Richard C. Levy,4.00,,5
+509,The Invention of Love,Tom Stoppard,4.00,1998,1517
+510,Sliding Into Home,Dori Hillestad Butler,3.88,2005,75
+511,Boys of Summer,Julie Elizabeth Leto,3.77,2006,456
+512,"When Johnny Came Sliding Home: The Post-Civil War Baseball Boom, 1865-1870",William J. Ryczek,4.67,2006,0
+513,Sliding for Home,Frank Moher,1.00,,1
+514,sliding home,Ray Holan,5.00,2005,1
+515,Programming Ruby: The Pragmatic Programmers' Guide,Dave Thomas,4.06,2004,1437
+516,Programming Ruby: The Pragmatic Programmer's Guide,Dave Thomas,4.06,2000,25
+517,Best of Ruby Quiz Volume One,James Edward Gray II,3.42,2006,26
+518,From Java to Ruby,Bruce Tate,3.12,2006,26
+519,Rails Recipes,Chad Fowler,3.54,2006,268
+520,Learn to Program,Chris  Pine,4.10,2006,363
+521,"No Fluff, Just Stuff Anthology",Neal Ford,3.44,2006,16
+522,English-Cayuga/Cayuga-English Dictionary,Frances Froman,0.00,2002,0
+523,Golding's Lord of the Flies (Cliffs Notes),Maureen Kelly,3.83,2000,61
+524,Lord of the Flies,William Golding,3.65,2005,304
+525,Lord of the Flies,William Golding,3.65,2003,1055
+526,Lord of the Flies,William Golding,3.65,1987,586
+527,Cliffs Notes on Golding's Lord of the Flies,Maureen Kelly,3.83,,9
+528,Lord of the Flies (SparkNotes Literature Guides),SparkNotes,3.55,2002,19
+529,Lord of the Flies Activity Pack,James      Scott,0.00,,0
+530,Lord of the Flies,William Golding,3.65,1999,138
+531,A War Like No Other: How the Athenians & Spartans Fought the Peloponnesian War,Victor Davis Hanson,4.09,2006,1444
+532,Jack: A Life Like No Other,Geoffrey Perret,3.84,2001,135
+533,Like No Other,Robert Mercer-Nairne,3.33,,3
+534,We Were Not Like Other People,Ephraim Sevela,4.08,,1
+535,Brandy Station: A Battle Like None Other,Richard E. Crouch,3.00,,1
+536,The Lovely Bones,Alice Sebold,3.78,2006,17764
+537,The Lovely Bones,Alice Sebold,3.78,2003,6102
+538,The Lovely Bones,Alice Sebold,3.78,2004,360
+539,"Lovely in Her Bones (Elizabeth MacPherson, #2)",Sharyn McCrumb,3.80,1990,1291
+542,How to Invest in Self-Storage,Scott Duffy,4.33,,5
+543,USB Mass Storage: Designing and Programming Devices and Embedded Hosts,Jan Axelson,3.40,2006,3
+544,Storage Area Networks For Dummies,Christopher Poelker,3.77,,30
+545,Storage Network Performance Analysis,Huseyin Simitci,4.00,2003,13
+546,Complete Home Storge,Barbara Braasch,3.10,2003,10
+547,Taunton's Home Storage Idea Book (Taunton Home Idea Books),Joanne Kellar Bouknight,3.60,,7
+548,Storage Area Network Essentials: A Complete Guide to Understanding and Implementing Sans,Richard    Barker,3.71,2001,5
+549,Perfect Order: 101 Simple Storage Solutions,Elizabeth Hilliard,3.60,,5
+550,Country Living Stylish Storage: Simple Ways to Contain Your Clutter,Paige Gilchrist,3.00,2002,1
+551,Simple Handmade Storage: 23 Step-By-Step Weekend Projects,Philip Haxell,3.00,2004,6
+552,Simple Storage Solutions,Elizabeth Hilliard,0.00,,0
+553,Storage (Chic Simple) (Chic Simple Components),Jennifer Lisle,2.83,1994,6
+554,Simple Handmade Storage,Philip Haxell,3.67,,3
+555,"The Modern Gentleman: A Guide to Essential Manners, Savvy and Vice",Phineas Mollod,3.79,2002,353
+556,The Chap Manifesto: Revolutionary Etiquette for the Modern Gentleman,Gustav Temple,3.99,2001,72
+557,The Compleat Gentleman: The Modern Man's Guide to Chivalry,Brad Miner,3.52,2004,137
+558,The Last Gentleman (Modern Library),Walker Percy,3.89,1998,29
+559,The Compleat Gentleman: The Modern Man's Guide to Chivalry (Audiofy Digital Audiobook Chips),Brad Miner,3.52,,1
+560,The Compleat Gentleman: The Modern Man's Guide to Chivalry,Brad Miner,3.52,2004,2
+561,The Word of a Gentleman: Meditations for Modern Man,Richard C. Halverson,3.00,1983,1
+562,"The Colored Gentleman, a Product of Modern Civilization",Dennis Imbert,0.00,,0
+563,CSS Mastery: Advanced Web Standards Solutions,Andy Budd,4.12,2006,905
+564,Head First HTML with CSS & XHTML,Elisabeth Robson,4.13,2005,1179
+565,The Zen of CSS Design: Visual Enlightenment for the Web,Dave Shea,3.98,2005,731
+566,Stylin' with CSS: A Designer's Guide,Charles Wyke-Smith,3.76,2005,109
+567,CSS Pocket Reference,Eric A. Meyer,3.90,2004,232
+568,The CSS Anthology,Rachel Andrew,3.86,2004,38
+569,HTML Utopia,Rachel Andrew,3.26,2006,43
+570,"HTML, XHTML, and CSS (Visual Quickstart Guide)",Elizabeth Castro,3.79,2006,525
+571,Eric Meyer on CSS: Mastering the Language of Web Design with Cascading Style Sheets,Eric A. Meyer,4.13,2002,267
+572,"1,000 Places to See in the U.S.A. & Canada Before You Die",Patricia Schultz,4.04,,313
+573,1000 Cornish Place Names (Tor Mark Paperbacks),Jolyan Holmes,0.00,,0
+574,1000 Cornish Place Names Explained,Julyan Holmes,0.00,,0
+575,Michelin's Charming Places to Stay in France 2003: 1000 Hotels & Guesthouses for Less Than 80 Euros,Michelin,3.17,2003,0
+576,1000 Record Covers,Michael Ochs,3.81,2005,248
+578,Paul Huf: record covers,Unknown Author 579,0.00,1999,0
+579,Virgin All-time Top 1000 Albums,Colin Larkin,3.58,,4
+580,Top 1000 Albums of All Time,Colin Larkin,3.33,,3
+581,100 Albums That Changed Music: And 500 Songs You Need to Hear,Sean Egan,3.57,2006,0
+582,1000 Families,Uwe Ommer,4.13,2002,11
+583,"1000 Questions, 1000 Réponses",Alain Grée,4.00,,1
+584,Words of Life: A Religious and Inspirational Album Containing Over 1000 Quotat,Charles L. Wallis,0.00,,0
+585,The Art of Rock: Posters from Presley to Punk,Paul Grushkin,4.46,1999,82
+586,Art of Modern Rock: The Poster Explosion,Paul Grushkin,4.11,2004,1145
+587,Ambiguous Images: Gender and Rock Art,Kelley Hays-Gilpin,3.90,2003,7
+588,Roadside Guide to Indian Ruins & Rock Art of the Southwest,Gordon Sullivan,4.12,2005,8
+589,A Field Guide to Rock Art Symbols of the Greater Southwest,Alex Patterson,4.12,1992,50
+590,Guide to Rock Art of the Utah Region: Sites with Public Access,Dennis Slifer,3.90,2000,10
+591,The Rock Art of Texas Indians,William W. Newcomb,4.00,1996,8
+592,Rock Art Savvy: The Responsible Visitor's Guide to Public Sites of the Southwest,Ronald D. Sanders,3.50,,2
+593,The Archaeology of Rock-Art,Christopher Chippindale,4.27,1999,11
+594,African Rock Art: Paintings and Engravings on Stone,David Coulson,5.00,2001,3
+595,Flash to the Core: An Interactive Sketchbook by Joshua Davis,Joshua Davis,4.19,2002,27
+597,Killing Yourself to Live: 85% of a True Story,Chuck Klosterman,3.85,2006,23763
+598,Killing Yourself To Live,Chuck Klosterman,3.85,,25
+599,"Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto",Chuck Klosterman,3.75,2004,57871
+600,"Sex, Drugs and DNA: Science's Taboos Confronted",Michael Stebbins,3.65,2006,109
+601,"Sex, Drugs & Economics: An Unconventional Introduction to Economics",Diane Coyle,3.53,2004,82
+602,"Sex, Drugs, Rock and Roll",Eric Bogosian,3.85,2008,264
+603,"Sex, Drugs, Gambling, and Chocolate: A Workbook for Overcoming Addictions",A. Thomas Horvath,3.96,2003,26
+604,"Reefer Madness: Sex, Drugs, and Cheap Labor in the American Black Market",Eric Schlosser,3.77,,124
+605,"Life and Def: Sex, Drugs, Money, + God",Russell Simmons,3.83,2002,317
+606,The Vice Guide to Sex and Drugs and Rock and Roll,Suroosh Alvi,4.05,2003,537
+607,Corporate Vices: What's Gone Wrong with Business?,Charles Cohen,2.25,2002,4
+608,Grand Theft Auto: Vice City Official Strategy Guide (Bradygames Signature Guides),Tim Bogenn,4.12,,40
+609,Grand Theft Auto: Vice City Official Strategy Guide for PC,Tim Bogenn,4.12,2003,3
+610,Grand Theft Auto: Vice City Stories Official Strategy Guide,Brady Games,4.47,2006,15
+611,The Faking of the Vice-President: A Guide to Becoming a Superfluous Leader,Rich Mintzer,0.00,1992,0
+612,"An ABC of Vice: An Insatiable Women's Guide, Alphabetized",Nicole Hollander,4.60,2003,10
+613,On Moral Character: A Practical Guide to Aristotle's Virtues and Vices,Jody Palmour,0.00,,0
+614,Decadent health: A survival guide for elegant people with vice,Mark David Baer,0.00,,0
+615,The Vice-Busting Diet: A 12-Week Plan to Break Your Worst Food Habits and Change Your Life Forever,Julia Griggs Havey,3.29,,27
+616,Vice & Virtue in Everyday Life: Introductory Readings in Ethics,Christina Hoff Sommers,3.78,2006,48
+617,Vice Cream: Over 70 Sinfully Delicious Dairy-Free Delights,Jeff Rogers,3.84,2004,97
+618,Vice Dos and Don'ts: 10 Years of VICE Magazine's Street Fashion Critiques,Suroosh Alvi,4.19,,616
+619,"Vice (V, #8)",Jane Feather,3.49,1996,443
+620,"Small Vices (Spenser, #24)",Robert B. Parker,3.98,1998,3776
+621,The Automatic Millionaire: A Powerful One-Step Plan to Live and Finish Rich,David Bach,3.91,2005,11126
+622,The Automatic Millionaire Homeowner: A Powerful Plan to Finish Rich in Real Estate,David Bach,3.83,2006,1090
+623,The Automatic Millionaire Workbook: A Personalized Plan to Live and Finish Rich. . . Automatically,David Bach,3.72,2005,86
+624,The Automatic Millionaire Homeowner,David Bach,3.83,,7
+625,The Automatic Millionaire: A Powerful One Step Plan To Live And Finish Rich,David Bach,3.91,,1
+626,The Automatic Millionaire Home Study Course,David Bach,4.40,,10
+627,The Automatic Millionaire Workbook,David Bach,3.72,2005,3
+628,The Automatic Millionaire,David Bach,3.91,,1
+629,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,3.76,2006,147297
+630,The Mouse and the Motorcycle (Read-Aloud Edition),Beverly Cleary,3.91,2006,4
+631,The Essential Guide to Motorcycle Maintenance,Mark Zimmerman,3.85,2004,103
+632,The Motorcycle Diaries: Notes on a Latin American Journey,Ernesto Che Guevara,3.79,,511
+633,The Complete Idiot's Guide to Motorcycles,Darwin Holmstrom,3.67,2005,7
+634,Motorcycle Owner's Manual,Hugo  Wilson,3.69,1997,45
+635,Motorcycle Journeys Through the Southwest,Martin C. Berke,4.50,,2
+636,How to Paint Your Motorcycle,JoAnn Bortles,4.00,2005,4
+637,How to Restore Your Motorcycle,Mark Zimmerman,3.69,2000,16
+638,Motorcycle Journeys Through The Appalachians - 2nd Edition (Motorcycle Journeys),Dale Coyner,3.12,,8
+639,Once Upon a Cool Motorcycle Dude,Kevin O'Malley,4.10,2005,1578
+640,"Life Is a Road, the Soul Is a Motorcycle",Daniel B. Meyer,3.67,2003,18
+641,Motorcycle Touring: Everything You Need to Know,Gregory W. Frazier,3.43,2005,21
+642,Guidebook to Zen and the Art of Motorcycle Maintenance,Ronald L. DiSanto,3.70,1990,263
+643,Motorcycle Basics Techbook,John Harold Haynes,3.90,2002,31
+644,"How to Ride a Motorcycle: A Rider's Guide to Strategy, Safety, and Skill Development",Pat Hahn,3.55,2005,11
+645,Motorcycle Camping Made Easy,Bob Woofter,3.52,2002,17
+646,Motorcycle Journeys Through New England,Marty Berke,4.14,2003,7
+647,No Logo,Naomi Klein,3.87,,20022
+648,Dos Logos,Robert Klanten,3.97,,105
+649,Logo Design Workbook: A Hands-On Guide to Creating Logos,Sean Adams,3.86,2006,223
+650,"LOGO Lounge: 2,000 International Identities by Leading Designers",Catharine M. Fishel,3.97,2004,25
+651,Letterhead and Logo Design 9,Mine Design,4.17,2005,30
+652,Los Logos: A Selected LOGO Collection,Nicholas Bourquin,3.93,2002,96
+653,The Big Book of Logos 3,David E. Carter,4.10,2004,10
+654,Great Short Works,Leo Tolstoy,4.30,2004,2086
+655,The Death of Ivan Ilych And Other Stories,Leo Tolstoy,4.09,2003,6566
+656,War and Peace,Leo Tolstoy,4.11,1998,181649
+657,Tolstoy Lied: A Love Story,Rachel Kadish,3.40,2006,65
+658,The Kingdom of God Is Within You,Leo Tolstoy,4.13,2006,2084
+659,Walk in the Light & Twenty-Three Tales,Leo Tolstoy,4.14,2003,254
+660,The Poet of Tolstoy Park,Sonny Brewer,3.89,,25
+661,"Hunters Of Dune (Dune Chronicles, #7)",Brian Herbert,3.63,2006,61
+662,Atlas Shrugged,Ayn Rand,3.68,1999,295582
+663,For the New Intellectual: The Philosophy of Ayn Rand,Ayn Rand,3.68,1963,2561
+664,The Fountainhead,Ayn Rand,3.85,2005,1808
+665,The Virtue of Selfishness: A New Concept of Egoism,Ayn Rand,3.48,1964,10594
+666,Ayn Rand Answers: The Best of Her Q & A,Robert Mayhew,4.18,2005,537
+667,Anthem,Ayn Rand,3.62,1999,100110
+668,We the Living,Ayn Rand,3.89,1996,21680
+669,Capitalism: The Unknown Ideal,Ayn Rand,3.88,1986,3250
+670,Letters of Ayn Rand,Ayn Rand,3.97,1997,16
+671,"Philosophy, Who Needs It / Ayn Rand: In",Ayn Rand,3.87,1988,18
+672,Sailing for Dummies,J.J. Isler,3.85,2006,112
+673,The Complete Sailor: Learning the Art of Sailing,David Seidman,4.27,1995,125
+674,Sailing Fundamentals,Gary Jobson,3.88,2005,147
+675,Sailing from Byzantium: How a Lost Empire Shaped the World,Colin  Wells,3.85,2006,528
+676,Sailing Alone Around the Room: New and Selected Poems,Billy Collins,4.23,2002,11475
+677,Learning to Sail: The Annapolis Sailing School Guide for Youlearning to Sail: The Annapolis Sailing School Guide for Young Sailors of All Ages Ng Sailors of All Ages,Diane Goodman,4.03,1994,35
+678,The Greatest Sailing Stories Ever Told: Twenty-Seven Unforgettable Stories,Christopher Caswell,3.70,,45
+679,"Sailing Smart: Winning Techniques, Tactics, And Strategies",Buddy Melges,4.15,1987,25
+680,The Handbook Of Sailing,Bob Bond,3.94,1992,60
+681,"Natural Cures ""They"" Don't Want You to Know about",Kevin Trudeau,3.07,2004,1516
+682,More Natural Cures Revealed,Kevin Trudeau,3.38,,344
+683,Natural Capitalism,Paul Hawken,4.00,2000,1413
+684,Biology: A Guide to the Natural World,David Krogh,3.05,2005,0
+685,The Natural,Bernard Malamud,3.63,2003,8053
+686,"Natural Speaker, The (5th Edition) (MySpeechKit Series)",Randy Fujishin,3.41,,8
+687,"Natural Hormone Balance for Women: Look Younger, Feel Stronger, and Live Life with Exuberance",Uzzi Reiss,4.06,2002,104
+688,Natural Resource Conservation: Management for a Sustainable Future,Daniel D. Chiras,3.30,2004,5
+689,Natural Disasters [with Online Learning Center Access Code],Patrick L. Abbott,3.51,,1
+690,The End of Print,David Carson,4.04,1995,33
+691,"Trek David Carson, Recent Werk",David Carson,4.23,2004,53
+692,David Carson 2ndsight,Lewis Blackwell,4.06,1997,2
+693,The Book of Probes,Marshall McLuhan,4.11,2003,42
+694,Fotografiks - David Carson,David Carson,3.91,,32
+695,Crossing into Medicine Country: A Journey in Native American Healing,David    Carson,3.49,,5
+696,Rockin' Down the Dial: The Detroit Sound of Radio (From Jack the Bellboy to the Big 8),David Carson,4.17,2000,6
+697,Ortlos: Architecture of the Net.Works,Ivan Redi,4.33,2005,3
+698,Digging to America,Anne Tyler,3.54,,15929
+699,"America: A Concise History, Volume 2: Since 1865",James A. Henretta,3.78,2005,43
+700,Rereading America: Cultural Contexts for Critical Thinking and Writing,Gary Colombo,3.74,2004,43
+701,"Government in America: People, Politics, and Policy",George C. Edwards III,3.33,1997,1
+702,Modern Latin America,Thomas E. Skidmore,3.58,2004,204
+703,The Plot Against America,Philip Roth,3.72,2005,27899
+704,Covenant with Black America,Tavis Smiley,3.73,2006,293
+705,Democracy in America,Alexis de Tocqueville,4.00,2003,7
+706,America (The Book): A Citizen's Guide to Democracy Inaction,Jon Stewart,4.02,,76851
+707,Naked Pictures of Famous People,Jon Stewart,3.59,1999,8376
+708,Kierkegaard's Relations to Hegel Reconsidered,Jon  Stewart,4.17,2014,1
+709,Econometrics,Jon      Stewart,3.50,,5
+710,"Swiss Graphic Design: The Origins and Growth of an International Style, 1920-1965",Richard Hollis,4.37,2006,74
+711,Swiss Design 2002: Netzwerke / Ra(c)Seaux / Networks,Ruedi Baur,2.00,2003,1
+712,Benzin: Young Swiss Graphic Design,Thomas Bruggisser,4.00,2001,6
+713,Swiss Design 2004,Bundesamt fur Kultur,0.00,2004,0
+714,Swiss Design 2003: Desir Design,Swiss Federal Office of Culture,0.00,,0
+715,The Art of Structural Design: A Swiss Legacy,David P. Billington,4.00,2003,2
+716,Swiss Graphic Design,Hendrik Hellige,3.75,2000,20
+717,Charted Swiss Folk Designs,Elvira Parolini-Ruffini,2.00,1978,1
+718,Swiss Book: Visual Designs of Swiss Hospitality,T. Ishikawa,0.00,,0
+719,Swiss Federal Design Grants 2006,Bundesamt fur Kultur,0.00,2007,0
+720,Guitar Chord Encyclopedia: 36 Chords in Each Key,Steve Hall,3.64,1993,10
+721,"Incredible Chord Finder: Easy-to-Use Guide to Over 1,100 Guitar Chords",Songbook,3.77,1986,6
+722,Guitar Case Chord Book in Full Color - Compact Music Guides Series,Music Sales Corporation,4.00,2002,1
+723,Chord Workbook for Guitar Volume One,Bruce Arnold,4.00,2001,1
+724,Guitar Chord Bible,Phil Capone,4.19,2009,66
+725,"The Guitar Chord Wheel Book: Over 22,000 Chords!",Hal Leonard Publishing Company,3.86,1993,7
+726,Red Hot Chili Peppers,Hal Leonard Publishing Company,4.00,2005,4
+727,Jazz Guitar Chord Solos,Ron Berman,3.88,,8
+728,Mel Bays Guitar Chords,Mel Bay,4.40,1993,15
+729,"The Ultimate Guitar Chord Big Book: Over 100,000 Chords!",Don Latarski,0.00,1998,0
+730,"Mel Bay's Complete Book of Guitar Chords, Scales and Arpeggios",William Bay,3.87,,15
+731,Mel Bay's Guide to Guitar Chord Progression,Mike Christiansen,0.00,1998,0
+732,Mel Bay's Deluxe Encyclopedia of Guitar Chords,William Bay,4.50,1971,14
+733,Jazz Guitar Chord System,Scott Henderson,4.67,1999,3
+734,Chord Progressions for Guitar: 101 Patterns for All Styles from Folk to Funk!,Tom Kolb,3.95,,19
+735,The First Stage Guitar Chord Chart: Learn How to Play the Most Commonly Played Guitar Chords!,Chris Lopez,3.18,2006,17
+736,Jazz Guitar Chord Workout,Corey Christiansen,0.00,2004,0
+737,"Picture Chord Encyclopedia: Photos and Diagrams for 2,600 Guitar Chords!",Hal Leonard Publishing Company,4.36,2000,11
+738,Rhythm Guitar Chord System,Mel Bay,4.25,,2
+740,The Beatles Guitar Chord Songbook: A-I (Guitar Chord Songbooks),The Beatles,4.25,2003,7
+741,The Compact Rock Guitar Chord Reference,Len Vogler,0.00,1999,0
+742,Jazz Guitar Chord Melodies,Towey Dan,3.00,,1
+743,The Guitar Three-Chord Songbook: Play 50 Rock Hits with Only 3 Easy Chords,Songbook,3.50,2002,8
+744,The Advanced Guitar Case Chord Book: Compact Reference Library,Askold Buk,3.33,1992,3
+746,Guitar Chord Guru: The Chord Book - Your Guide for Success!,Karl Aranjo,4.23,2000,13
+747,Left-Hand Guitar Chord Chart,William Bay,4.20,2002,5
+748,Jazz Guitar Chord Bible Complete (Jazz Masters),Warren Nunes,3.60,,4
+749,Children's Songs: Guitar Chord Songbook,Hal Leonard Publishing Company,5.00,2002,1
+750,Guitar Chord Songbook: Classic Rock,Hal Leonard Publishing Company,4.00,2005,4
+751,Guitar Chords for Beginners,Jim McNamara,0.00,1986,0
+752,The Guitar Chord Deck,Ed Lozano,5.00,1999,1
+753,Joe Pass Guitar Chords,Joe Pass,4.50,1986,11
+754,Guitar Picture Chords in Color,Ed Lozano,5.00,2001,2
+755,Guitar Case Chord Book (Guitar),Peter Pickow,4.39,1992,6
+756,Captain Henry Morgan,Oriental Institute,0.00,1946,0
+757,"Guia Para La Lectura de ""Cien Anos de Soledad""",Ma. Eulalia Montaner,2.00,,1
+758,"Mo huan xian shi zhu yi da shi, Jiaxiya Ma'erkesi (Er shi shi ji wai guo wen xue ping lun cong shu) (Mandarin Chinese Edition)",Zhongyi Chen,0.00,,0
+759,Collected Stories,Gabriel García Márquez,4.19,2008,5861
+760,Memories of My Melancholy Whores,Gabriel García Márquez,3.59,2006,35072
+761,El otoño del patriarca,Gabriel García Márquez,3.84,,542
+762,Crónica de una muerte anunciada,Gabriel García Márquez,3.95,2003,6175
+763,Cien años de soledad,Gabriel García Márquez,4.05,2006,125
+764,Del amor y otros demonios,Gabriel García Márquez,3.98,2006,3356
+765,Living to Tell the Tale,Gabriel García Márquez,3.97,2004,378
+766,Memoria de mis putas tristes,Gabriel García Márquez,3.59,2004,4159
+767,Rumores de Mar,Luis Mateo Díez,4.00,,1
+768,Gabriel García Márquez: Mit Selbstzeugnissen Und Bilddokumenten,Dagmar Ploetz,5.00,,1
+769,Gabriel Garcia Marquez,Raymond L. Williams,3.80,1984,9
+770,The Presence of Hemingway in the Short Fiction of Gabriel Garcia Marquez,Harley D. Oberhelman,3.50,1994,4
+771,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Brian Greene,4.06,,32716
+772,Science and Sensibility: The Elegant Logic of the Universe,Keith J. Laidler,3.71,2004,14
+773,The ELEGANT UNIVERSE S.S.,Brian Greene,4.06,2000,6
+774,Buddhism Pure and Simple,Master Hsing Yun,4.33,2001,21
+775,Pure and Simple: The Extraordinary Teachings of a Thai Buddhist Laywoman,Upasika Kee Nanayon,4.28,2005,27
+776,Buddhism Plain and Simple,Steve Hagen,4.10,1998,4458
+777,Buddhism Is Not What You Think: Finding Freedom Beyond Beliefs,Steve Hagen,4.10,2009,753
+778,Buddhism: A New Approach,Steve    Clarke,2.00,2005,1
+779,"Unhypnosis: How to Wake Up, Start Over, and Create the Life You're Meant to Live",Steve Taubman,4.00,,8
+780,The Path to Buddha: A Tibetan Pilgrimage,Steve McCurry,4.13,2003,27
+781,The Shaolin Way: 10 Modern Secrets of Survival from a Shaolin Grandmaster,Steve DeMasco,3.23,2005,47
+782,"Meditation, Compassion & Lovingkindness: An Approach to Vipassana Practice",Steve Weissman,3.33,1996,3
+783,Now Zen,Charlotte Joko Beck,4.17,1995,18
+786,The Rough Guide to London,Rob Humphreys,3.96,2003,9
+787,The Mini Rough Guide to London,Rob Humphreys,3.75,2006,1
+788,The Rough Guide to London Restaurants 2004 6,Charles Campion,3.96,2003,0
+789,The Rough Guide to Walks in London and Southeast England,Helena Smith,4.08,2003,7
+790,Rough Guide Directions: London,Rob Humphreys,3.75,2004,4
+791,The Rough Guide 11s Arsenal (Rough Guide 11s S.),Damian Hall,4.00,,1
+792,London: City Guide (Lonely Planet City Guide),Lonely Planet,4.00,2006,38
+793,Best of London (Lonely Planet Best Of),Lonely Planet,4.20,2004,8
+794,London,Lonely Planet,4.00,2002,7
+796,Lonely Planet Londres,Lonely Planet,4.00,2004,0
+797,Lonely Planet Londres,Lonely Planet,4.00,2006,0
+798,Out to Eat London 2001 (Lonely Planet),Lonely Planet,0.00,2000,0
+799,Out to Eat London 2002 (Lonely Planet Out to Eat),Lonely Planet,0.00,2001,0
+800,Lonely Planet Londres,Lonely Planet,4.00,,0
+802,Lonely Planet Londres,Lonely Planet,4.00,2003,0
+803,Lo mejor de Londres (Lonely Planet Best Of),Lonely Planet,4.20,2005,0
+804,Lonely Planet: Londra,Steve Fallon,0.00,,0
+805,"Thai Massage Manual: Natural Therapy for Flexibility, Relaxation, and Energy Balance",Maria Mercati,4.05,2005,20
+806,Encyclopedia of Thai Massage,C. Pierce Salguero,4.24,2004,52
+807,Thai Massage: Sacred Body Work,Ananda  Apfelbaum,4.29,2004,24
+808,The Thai Massage Workbook,Kay Rynerson,4.00,,2
+809,The Art Of Traditional Thai Massage,Asokananda,4.00,,10
+810,Thai Yoga Massage: A Dynamic Therapy for Physical Well-Being and Spiritual Energy,Kam Thye Chow,3.88,2004,30
+811,Thai Massage,Nicky  Smith,3.40,2005,5
+812,Nuad Thai: Traditional Thai Massage,Max Chia,3.67,2005,3
+813,Thai Massage: A Traditional Medical Technique,Richard Gold,4.00,2006,12
+814,Scents (Chic Simple),Janine King,0.00,,0
+815,"Three Nights in August: Strategy, Heartbreak, and Joy Inside the Mind of a Manager",H.G. Bissinger,3.87,2006,6087
+816,Cryptonomicon,Neal Stephenson,4.25,2002,75758
+817,"Le Code Enigma (Cryptonomicon, #1)",Neal Stephenson,4.03,2001,39
+818,Cryptonomicon,Neal Stephenson,4.25,,138
+819,Cryptonomicon,Neal Stephenson,4.25,2000,853
+820,"Golgotha (Cryptonomicon, #3)",Neal Stephenson,4.13,,6
+821,"Le Réseau Kinakuta (Cryptonomicon, #2)",Neal Stephenson,4.12,2001,6
+822,"The Confusion (The Baroque Cycle, #2)",Neal Stephenson,4.24,2005,17969
+823,"Quicksilver (The Baroque Cycle, #1)",Neal Stephenson,3.92,2004,28640
+824,The Cobweb,Neal Stephenson,3.60,2005,2291
+825,Zodiac,Neal Stephenson,3.70,,13827
+826,The Big U,Neal Stephenson,3.25,2001,4373
+827,"The Diamond Age: Or, A Young Lady's Illustrated Primer",Neal Stephenson,4.19,2000,64451
+828,Interface,Neal Stephenson,3.66,2005,4325
+829,"Odalisque (The Baroque Cycle, Vol. 1, Book 3)",Neal Stephenson,4.19,2006,1386
+830,Snow Crash,Neal Stephenson,4.03,2000,184061
+831,Snow Crash,Neal Stephenson,4.03,,187
+832,Snow Crash: The Official Strategy Guide,Melissa Tyler,0.00,,0
+833,"Crash Course: Gross Anatomy (Crash Course Games for Brains, An Interactice Reference Book)",Susan Ring,5.00,,2
+834,"Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments, Volume II: The Endgame",Dan Harrington,4.26,2005,1202
+835,"Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments, Volume I: Strategic Play",Dan Harrington,4.23,2004,1703
+836,The Good Eye,Dan    Harrington,0.00,2006,0
+837,Angelfish,Dan    Harrington,0.00,2006,0
+839,A Level Ict For Edexcel,Mary Reid,0.00,,0
+840,The Design of Everyday Things,Donald A. Norman,4.19,2002,13217
+841,Emotional Design: Why We Love (or Hate) Everyday Things,Donald A. Norman,3.92,2005,3119
+842,The Psychology of Everyday Things,Donald A. Norman,4.19,1988,244
+843,Doing Things with Things: The Design and Use of Everyday Objects,Alan Costall,3.00,2006,3
+844,Emotional Design: Why We Love (Or Hate) Everyday Things,Donald A. Norman,3.92,,25
+845,Wire,D. Rozensztroch,4.00,1994,2
+846,Wild Things: The Material Culture of Everyday Life,Judith Attfield,3.67,2000,12
+847,9/11 Descent Into Tyranny: The New World Order's Dark Plans to Turn Earth Into a Prison Planet,Alex E. Jones,3.67,2002,54
+848,No Price Too High: A Pentecostal Preacher Becomes Catholic - The Inspirational Story of Alex Jones as Told to Diane Hanson,Alex C. Jones,4.30,2006,43
+850,Creative Thought Remedies,Alex Jones,3.33,1986,3
+851,Noise,Alex Jones,0.00,1998,0
+852,The Syndicate: Volumes 1 & 2,Jules Jones,3.71,,28
+853,Seven Mansions of Color,Alex Jones,3.86,1983,7
+854,A More Perfect Way,Alex C. Jones,0.00,2002,0
+855,Fields of Gold,Alex Jones,0.00,2005,0
+856,The Trust: The Private and Powerful Family Behind The New York Times,Susan E. Tifft,3.93,2000,25
+857,Web Standards Solutions: The Markup and Style Handbook (Pioneering Series),Dan Cederholm,4.08,,265
+858,Afro American Artists: A Bio-Bibliographical Directory,Theresa Cederholm,5.00,,1
+859,CSS Cookbook,Christopher Schmitt,3.87,2004,37
+860,Justitiemord: Fallet Keith Cederholm,Jan Guillou,0.00,,0
+861,Rosamin: En Pige Af Folket Fortæller,Rosa Cederholm,0.00,,0
+862,I Slagbjörnens Spår Berättelser Från Norrlandska Vildmarker Och Småländska Storskogar,Stig Cederholm,0.00,,0
+863,How to Build a Real Estate Empire: Wisdom from the Best in the Business,John  Hamilton,3.48,2005,23
+864,The Alchemist,Paulo Coelho,3.83,2006,701
+865,The Alchemist,Paulo Coelho,3.83,1993,1410332
+866,"Fullmetal Alchemist, Vol. 9 (Fullmetal Alchemist, #9)",Hiromu Arakawa,4.57,2006,7914
+867,Secrets of the Alchemist Dar (A Treasure's Trove),Michael Stadther,3.71,,33
+868,"Fullmetal Alchemist, Vol. 3 (Fullmetal Alchemist, #3)",Hiromu Arakawa,4.56,2005,12721
+869,"Fullmetal Alchemist, Vol. 8 (Fullmetal Alchemist, #8)",Hiromu Arakawa,4.57,2006,8152
+870,"Fullmetal Alchemist, Vol. 1 (Fullmetal Alchemist, #1)",Hiromu Arakawa,4.49,2005,97995
+871,"Fullmetal Alchemist, Vol. 4 (Fullmetal Alchemist, #4)",Hiromu Arakawa,4.55,2005,9089
+872,The Illustrated Alchemist: A Fable about Following Your Dream,Paulo Coelho,3.83,1998,213
+873,"Fullmetal Alchemist, Vol. 2 (Fullmetal Alchemist, #2)",Hiromu Arakawa,4.53,2005,12940
+874,The Kite Runner,Khaled Hosseini,4.27,,1204
+876,Bookclub in a Box Discusses Khaled Hosseini's Novel The Kite Runner,Marilyn Herbert,4.18,2006,149
+877,Cambridge Wizard Student Guide The Kite Runner (Cambridge Wizard English Student Guides),Sue  Sherman,3.88,2006,8
+878,Una semana de invierno,Marcia Willett,3.94,,4
+879,The Kite Runner: Experiments in Poetry,Henry Rivers,0.00,,0
+880,Pompeii,Robert   Harris,3.80,2005,23904
+881,Pompeii...Buried Alive!,Edith Kunhardt Davis,3.96,1987,2187
+882,"Pompeii: The History, Life and Art of the Buried City",Marisa Ranieri Panetta,4.55,2010,29
+883,Pompeii: Lost and Found,Mary Pope Osborne,3.70,2006,98
+884,Pompeii: Monuments Past and Present,Alfonso De Franciscis,4.12,2000,8
+885,A. D. 62: Pompeii,Rebecca East,3.31,2003,116
+886,Pompeii: The Day a City Died,Robert Étienne,3.54,,7
+887,Pompeii: Public and Private Life,Paul Zanker,3.33,1999,64
+888,The Last Days of Pompeii,Edward Bulwer-Lytton,3.61,2002,1050
+889,Escape From Pompeii,Christina Balit,4.17,,56
+890,Of Mice and Men,John Steinbeck,3.85,2002,1542277
+891,Cliffsnotes on Steinbeck's of Mice and Men,Susan VanKirk,3.93,2000,30
+892,Of Mice and Men,John Steinbeck,3.85,2003,178
+893,Of Mice and Men,John Steinbeck,3.85,1983,77
+894,Of Mice and Men (SparkNotes Literature Guide),SparkNotes,3.36,2002,1
+895,Of Mice and Men,John Steinbeck,3.85,1982,33
+896,Of Mice and Men,John Steinbeck,3.85,1982,164
+897,Of Mice And Men:  A Unit Plan,Mary B. Collins,5.00,,1
+898,Literature Guide: Of Mice and Men,Kristen Bowers,3.00,,2
+899,Of Mice and Men,John Steinbeck,3.85,2001,1899
+900,The Game: Penetrating the Secret Society of Pickup Artists,Neil Strauss,3.73,2005,17663
+901,"Ender's Game (Ender's Saga, #1)",Orson Scott Card,4.30,2002,6824
+902,The Westing Game,Ellen Raskin,4.03,2004,123767
+903,"The Egypt Game (Game, #1)",Zilpha Keatley Snyder,3.81,2009,27735
+904,The Game Maker's Apprentice: Game Development for Beginners,Jacob Habgood,4.00,,112
+905,The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance,W. Timothy Gallwey,4.24,1997,4218
+906,"Game of Shadows: Barry Bonds, BALCO, and the Steroids Scandal that Rocked Professional Sports",Mark Fainaru-Wada,3.78,,4443
+907,The City Game,Pete Axthelm,4.06,1998,3
+908,Jim Cramer's Real Money: Sane Investing in an Insane World,James J. Cramer,3.66,2005,1533
+909,"Jim Cramer's Mad Money: Watch TV, Get Rich",James J. Cramer,3.47,2006,684
+910,Trading with the Enemy: Seduction and Betrayal on Jim Cramer's Wall Street,Nicholas W. Maier,3.70,2002,81
+911,The Forewarned Investor: Don't Get Fooled Again by Corporate Fraud,Brett S. Messing,3.33,2006,6
+912,"Rich Dad, Poor Dad",Robert T. Kiyosaki,3.98,,141
+913,Rich Dad Poor Dad Classics - Boxed Set,Robert T. Kiyosaki,3.98,2001,108
+914,"Rich Dad, Poor Dad 2: Cash Flow Quadrant - Rich Dad's Guide to Financial Freedom",Robert T. Kiyosaki,4.07,,652
+915,"A Lonely Resurrection (John Rain, #2)",Barry Eisler,4.09,2013,4890
+916,And a Hard Rain Fell,John Ketwig,4.13,2004,537
+918,Hard Rain,Tim Riley,3.44,1993,4
+919,Hard Rain,Janwillem van de Wetering,3.97,2003,198
+920,Hard Rain,Peter Abrahams,3.62,1989,5
+921,Hard Rain: History of the Browning Machine Guns,Frank Iannamico,5.00,,1
+922,Hard Rain: Our Head Long Collision with Nature,Mark Ryall Edwards,4.14,,4
+923,Hard rain,Matthew W. Mallen,4.00,,2
+924,Hard Rain (Code Red #16),Darlene Scalera,4.44,2004,17
+925,"A Clean Kill in Tokyo (John Rain, #1)",Barry Eisler,3.95,2002,8434
+926,Whatever the Weather: When the Rain Falls (Whatever the Weather),Mary Lonsdale,2.67,,3
+927,The Rain Falls Like Rain: Poems,David Helwig,0.00,,0
+928,The Rain Falls Like Rain: Poems,David Helwig,0.00,,0
+929,Memoirs of a Geisha,Arthur Golden,4.09,2005,126242
+930,Memoirs of a Geisha,Arthur Golden,4.09,2005,1304453
+931,Memoirs of a Geisha,Arthur Golden,4.09,,1985
+932,Memoirs of a Geisha: A Portrait of the Film,David        James,4.09,2005,137
+933,Memoirs of a Geisha,Arthur Golden,4.09,1998,3512
+935,Geisha of Gion,Mineko Iwasaki,3.92,,1214
+936,Memoirs Of A Geisha,Arthur Golden,4.09,2006,21
+937,Memoirs of a Geisha,Arthur Golden,4.09,2006,1769
+938,How to Make Anyone Fall in Love with You,Leil Lowndes,3.61,1997,846
+939,How To Get Laid: The Rules On How To Succeed With Women And How To Make Anyone Fall In Love With You,Michael James,3.00,2000,2
+940,Self-Help Pak: Love Tactics/How to Make Anyone Fall in Love with You,Thomas McKnight,0.00,,0
+941,Love As A Foreign Language #5,J. Torres,3.71,2006,7
+942,Los 5 Lenguajes Del Amor De Los Ninos / The Five Languages Of Love For Children,Gary Chapman,4.21,,24
+943,Marriage Special Package- 2 books- Five Love Languages/Fight Fair,Gary Chapman,4.30,2003,40
+944,Jungle Love,Margaret Johnson,3.33,2002,53
+946,Jungle Love,Margaret Johnson,3.33,,0
+947,First Impressions,Nora Roberts,3.73,,29
+948,Building Literacy with Love: A Guide for Teachers and Caregivers of Children Birth Through Age 5,betty S. Bardige,3.46,2004,13
+949,One World?,Catherine Allan,0.00,,0
+951,The Five Love Languages: Men's Edition: How to Express Heartfelt Commitment to Your Mate,Gary Chapman,4.24,2004,793
+952,The Five Love Languages of Children,Gary Chapman,4.21,1997,10382
+953,"Cinco Lenguajes del Amor Para Solteros, Los: Five Love Languages for Singles",Gary Chapman,4.18,2006,12
+954,The Five Love Languages of Teenagers,Gary Chapman,4.11,2001,110
+955,The Five Love Languages Faux Leather Bound Journal and Paperback Book Set (Amazon.com Exclusive),Gary Chapman,4.62,2005,16
+956,The Five Love Languages: Men's Edition: How to Express Heartfelt Commitment to Your Mate,Gary Chapman,4.24,2005,49
+957,Five Love Languages Journal: How To Express Heartfelt Commitment To Your Mate,Gary Chapman,4.23,2005,4
+958,The Five Love Languages,Gary Chapman,4.23,,11
+959,Los Cinco Lenguajes Del Amor/the Five Languages of Love,Gary Chapman,4.23,2004,10
+960,"Angels & Demons  (Robert Langdon, #1)",Dan Brown,3.87,2006,2118361
+961,Angels and Demons: What Do We Really Know About Them?,Peter Kreeft,4.09,1995,287
+962,"Angels, Demons & Gods of the New Millenium: Musings on Modern Magick",Lon Milo DuQuette,4.06,1997,145
+963,Angels and Demons in Art,Rosa Giorgi,4.12,2005,72
+964,Secrets of Angels and Demons,Dan Burstein,3.41,2006,4
+965,"Ángeles y demonios (Robert Langdon, #1)",Dan Brown,3.87,2005,192
+966,Angeles & Demonios,Dan Brown,3.87,2005,67
+967,"Angel Customers & Demon Customers: Discover Which is Which, and Turbo-Charge Your Stock",Larry Selden,3.36,2003,20
+968,"The Da Vinci Code (Robert Langdon, #2)",Dan Brown,3.80,2006,1501488
+969,"The Da Vinci Code (Robert Langdon, #2)",Dan Brown,3.80,2006,1089
+970,Fodor's Guide to The Da Vinci Code: On the Trail of the Bestselling Novel,Jennifer Paull,3.57,2006,37
+971,The Truth Behind the Da Vinci Code: A Challenging Response to the Bestselling Novel,Richard Abanes,3.26,,70
+972,"Da Vinci Code (Robert Langdon, #2)",Dan Brown,3.80,2005,311
+973,"Who Can Crack the Leonardo Da Vinci Code? (Museum of Adventures, #1)",Thomas Brezina,3.57,2005,25
+974,The Da Vinci Code: Fact or Fiction?,Hank Hanegraaff,3.67,2004,143
+975,Deception Point,Dan Brown,3.68,2006,4770
+976,Deception Point,Dan Brown,3.68,2002,479292
+977,Deception Point,Dan Brown,3.68,2002,2971
+978,"Point Deception (Cape Perdido, #1)",Marcia Muller,3.69,2002,611
+979,Deception Point,Dan Brown,3.68,2004,120
+980,Deception Point,Dan Brown,3.68,2005,57
+981,حقيقة الخديعة,Dan Brown,3.68,2005,38
+982,Deception Point,Dan Brown,3.68,2006,35
+983,Deception Point,Dan Brown,3.68,2006,78
+984,"A Killing Rain (Louis Kincaid, #6)",P.J. Parrish,4.02,,1
+985,A Killing Rain: The Global Threat of Acid Precipitation,Thomas F. Pawlick,3.00,1984,1
+986,A Killing Rain and Other Stories,Reid Laurence,0.00,,0
+987,"A Killing Rain (Louis Kincaid, #6)",P.J. Parrish,4.02,2005,418
+988,"Winner Take All (John Rain, #3)",Barry Eisler,4.13,2004,4564
+989,There Wasn't Any Rain or Storm,Howard Major,0.00,,0
+990,A Storm Without Rain: A Novel in Time,Jan Adkins,3.96,2004,23
+991,"Eye of the Storm (Hudson, #3)",V.C. Andrews,3.81,2002,32
+992,Fire in the Rain...Singer in the Storm: An Autobiography,Holly Near,3.75,,19
+993,Storm in a Rain Barrel,Anne Mather,3.14,1991,1
+994,What Every Investor Needs to Know about Accounting Fraud,Jeff Madura,3.45,2003,11
+995,What Every Fidelity Investor Needs to Know,James Lowell,4.00,2006,3
+996,What Every Real Estate Investor Needs to Know about Cash Flow... And 36 Other Key Financial Measures,Frank Gallinelli,4.02,,407
+997,The Real Estate Investor's Tax Guide,Vernon Hoven,0.00,1995,0
+998,The Millionaire Next Door: The Surprising Secrets of America's Wealthy,Thomas J. Stanley,4.01,1998,48430
+999,The Millionaire Next Door: The Surprising Secrets of Americas Wealthy,Thomas J. Stanley,4.01,1999,31
+1000,Millionaire Women Next Door: The Many Journeys of Successful American Businesswomen,Thomas J. Stanley,3.84,2004,475
+1001,Millionaire Women Next Door: The Many Journeys of Successful American Businesswomen,Thomas J. Stanley,3.84,2005,13
+1002,Retire Dollar $Mart,Jim Miller,0.00,,0
+1003,The Millionaire Next Door: The Surprising Secrets of America's Wealthy,Thomas J. Stanley,4.01,1998,10
+1004,Think and Grow Rich,Napoleon Hill,4.17,2001,24
+1005,Think and Grow Rich: The Landmark Bestseller Now Revised and Updated for the 21st Century,Napoleon Hill,4.17,2005,87982
+1006,Think and Grow Rich!,Napoleon Hill,4.17,2004,271
+1007,Think and Grow Rich,Napoleon Hill,4.17,2004,43
+1008,Think and Grow Rich,Napoleon Hill,4.17,2005,5
+1009,The Think and Grow Rich Action Pack,Napoleon Hill,4.17,1988,48
+1010,Think and Grow Rich,Napoleon Hill,4.17,,2
+1011,Think and Grow Rich,Napoleon Hill,4.17,2005,15
+1013,Think and Grow Rich: Instant Motivator,Napoleon Hill,4.17,2003,8
+1014,Pragmatic Version Control: Using Subversion (The Pragmatic Starter Kit Series),Mike   Mason,3.54,2006,157
+1015,Version Control with Subversion,Ben Collins-Sussman,3.61,2004,90
+1016,Practical Subversion,Garrett Rooney,3.71,2004,6
+1017,Control and Subversion: Gender Relations  in Tajikistan,Colette Harris,4.25,2004,8
+1018,Bodies of Subversion: A Secret History of Women and Tattoo,Margot Mifflin,4.00,,126
+1019,Politics of Subversion,Antonio Negri,3.27,2005,23
+1020,Dreams of Subversion in Medieval Jewish Art and Literature,Marc Michael Epstein,3.67,1997,6
+1021,Recovering Subversion: FEMINIST POLITICS BEYOND THE LAW,Nivedita Menon,4.27,2004,0
+1022,Read My Lips: Sexual Subversion and the End of Gender,Riki Anne Wilchins,3.94,2005,232
+1023,101 Ways to Massively Increase the Value of Your Real Estate without Spending Much Money,Dolf de Roos,3.71,,31
+1024,Real Estate Riches: How to Become Rich Using Your Banker's Money,Dolf de Roos,4.03,2004,27
+1025,The Insider's Guide to 52 Homes in 52 Weeks: Acquire Your Real Estate Fortune Today,Dolf de Roos,3.91,2006,35
+1026,Real Estate Riches (Rich Dad's Advisors (Audio)) [ABRIDGED] (Rich Dad's Advisors (Audio)),Dolf de Roos,4.03,2006,2
+1027,The Insider's Guide to Tax-Free Real Estate Investments: Retire Rich Using Your IRA,Diane Kennedy,2.67,2006,6
+1028,Extraordinary Profits From Ordinary Properties,Dolf de Roos,3.00,,1
+1029,The New Zealand Investor's Guide To Making Money In Residential Real Estate,Jan Somers,4.00,,2
+1030,Real Estate Riches: How to Become Rich Using Your Banker's Money,Dolf de Roos,4.03,2001,3312
+1031,"Trump: Think Like a Billionaire: Everything You Need to Know About Success, Real Estate, and Life",Donald J. Trump,3.61,2005,1306
+1032,Trump: The Art of the Deal,Donald J. Trump,3.65,2004,9886
+1033,Trump Strategies for Real Estate: Billionaire Lessons for the Small Investor,George H. Ross,4.05,2006,423
+1034,Trump University Real Estate 101: Building Wealth with Real Estate Investments,Gary W. Eldred,3.58,2006,142
+1035,Trump: How to Get Rich,Donald J. Trump,3.37,2004,1852
+1036,Trump: The Way to the Top: The Best Business Advice I Ever Received,Donald J. Trump,3.38,2004,279
+1037,Trump,Donald J. Trump,3.57,1997,0
+1038,Trump: Surviving at the Top,Donald J. Trump,3.41,1990,115
+1039,How to Build a Fortune [With CD-ROM with Workbook and Trump Cards and DVD],Donald J. Trump,3.38,,21
+1040,Real Estate Goldmine: How to get Rich Investing in Pre-Foreclosures (Audio Business Course),Donald J. Trump,3.24,,21
+1041,Trump: The Best Real Estate Advice I Ever Received: 100 Top Experts Share Their Strategies,Donald J. Trump,3.56,2006,132
+1042,Three Master Secrets of Real Estate Success [With CD-ROM with Workbook and Trump Cards],Donald J. Trump,3.41,,22
+1043,I Ain't Scared of You: Bernie Mac on How Life Is,Bernie Mac,4.08,2003,71
+1044,Maybe You Never Cry Again,Bernie Mac,4.21,2004,252
+1045,Bernie Mac,Joanne Mattern,5.00,2006,2
+1046,Love Medicine and Miracles CD-ROM for Windows & Mac,Bernie S. Siegel,4.24,,0
+1047,The Beginner's Guide to Real Estate Investing,Gary W. Eldred,3.66,2004,43
+1048,The Art of Deals and Dreams: The Complete Beginner's Guide to Intelligent Real Estate Investing.,Carlos Redmond,0.00,,0
+1049,Jump Start: A Beginner's Guide to Basic Real Estate Investing,Hasani K Bakari,0.00,,0
+1050,Riches in Real Estate: A Beginner's Guide to Group Investing,Robert  Irwin,0.00,,0
+1051,Investing Without Losing: The Beginner's Guide to Real Estate Tax Lien and Tax Deed Auctions,Don Sausa,5.00,2006,1
+1052,The Richest Man in Babylon,George S. Clason,4.24,2008,56446
+1053,The Richest Man in Babylon,George S. Clason,4.24,2005,72
+1054,Richest Man In Babylon For Today,Fred Siegel,3.82,2004,50
+1055,The Richest Man in Babylon: 2the Success Secrets of the Ancients,George S. Clason,4.24,1989,1
+1056,The Richest Man in Babylon: The Success Secrets of the Ancients,George S. Clason,4.24,1955,1
+1057,The Richest Man in Babylon,Robert B. Goodman,4.16,,44
+1058,The Richest Man In Babylon,George S. Clason,4.24,,3
+1059,Shibumi,Trevanian,4.22,2005,8261
+1060,Shibumi and the Kitemaker,Mercer Mayer,4.00,2003,7
+1061,Trevanian: Four Complete Novels: The Eiger Sanction / The Loo Sanction / The Main / Shibumi,Trevanian,4.34,1984,100
+1062,Shibumi,Trevanian,4.22,2005,9
+1063,Shibumi,Trevanian,4.22,,17
+1064,Shibumi,Trevanian,4.22,2005,18
+1065,Shibumi,Trevanian,4.22,2005,1
+1066,Shibumi,Trevanian,4.22,,6
+1067,1776,David McCullough,4.06,2006,143533
+1068,1776,Peter  Stone,4.20,1976,1192
+1069,"The Fate of Empire, 1776-2000 (A History of Britain, #3)",Simon Schama,4.07,2003,6
+1070,"The Highland Scots of North Carolina, 1732-1776",Duane Meyer,3.86,1987,25
+1071,"The 1776 Quilt: Heartache, Heritage, and Happiness",Pam Holland,4.67,2007,6
+1072,Voices from Colonial America: Delaware 1638-1776,National Geographic Kids,0.00,2006,0
+1073,"The Crescent Obscured: The United States and the Muslim World, 1776-1815",Robert J. Allison,3.66,2000,29
+1074,If You Were There in 1776,Barbara Brenner,3.81,1994,21
+1075,Gap Creek,Robert Morgan,3.72,2001,128
+1077,Gap Creek,Robert Morgan,3.72,,277
+1078,"The Good Earth (House of Earth, #1)",Pearl S. Buck,3.97,2009,187426
+1079,For the Good of the Earth and Sun: Teaching Poetry,Georgia Heard,4.22,1989,67
+1080,The Good Earth (Cliffs Notes),Stephen Veo Huntley,4.00,1974,8
+1081,The Eco-Foods Guide: What's Good for the Earth is Good for You!,Cynthia Barstow,2.78,2002,9
+1083,The Good Earth,Pearl S. Buck,3.97,,46
+1084,From the Good Earth: A Celebration of Growing Food Around the World,Michael Ableman,4.18,1993,5
+1085,Good Earth,Pearl S. Buck,3.97,,123
+1086,Walk Gently This Good Earth,Margaret Craven,3.50,,0
+1088,The Purpose-Driven Life,Rick Warren,3.91,,170
+1089,Daily Inspiration for the Purpose Driven Life: Scriptures and Reflections from the 40 Days of Purpose,Rick Warren,4.39,2004,12
+1090,Purpose Driven Life - For Commuters: What on Earth Am I Here For?,Rick Warren,3.91,2005,25
+1091,Purpose Driven Life Journal: What on Earth Am I Here For?,Rick Warren,4.22,2002,708
+1093,Purpose Driven Life,Rick Warren,3.91,2002,17
+1095,A Catholic Perspective on the Purpose Driven Life,Joseph M. Champlin,3.64,2006,14
+1096,Daily Inspiration for the Purpose Driven Life,Rick Warren,4.39,2004,12
+1097,Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser,3.73,2005,183301
+1098,Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser,3.73,,36
+1099,Fast Food Nation: What The All-American Meal is Doing to the World,Eric Schlosser,3.73,2002,759
+1100,Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser,3.73,2006,105
+1101,Fast Food/ Fast Food Nation (Actualidad),Eric Schlosser,3.73,,2
+1102,Fast Food Nation: What the All-American Meal Is Doing to the World,Eric Schlosser,3.73,,14
+1103,Snow Flower and the Secret Fan,Lisa See,4.06,2006,291235
+1104,Do You Want to Know a Secret? the Story of the Official George Harrison Fan Club,Pat Kinzer Mancuso,5.00,2005,4
+1106,Secrets of the Super [Football] Athletes: Tips for Fans and Players,Abbot Solomon,0.00,1982,0
+1107,Grandma's Little Secrets,Fan B. Smith,0.00,,0
+1108,All Men Have Secrets,Tom Gallagher,3.80,1995,30
+1109,Kakyō Shōhō No Hiden: Chūgoku Koten No Chie,Kazuo Matsumoto,0.00,,0
+1110,The Broker,John Grisham,3.77,2006,67448
+1111,The Power Broker: Robert Moses and the Fall of New York,Robert A. Caro,4.49,1975,8424
+1112,The Complete Idiot's Guide to Success as a Mortgage Broker,Daniel S. Kahn,2.50,,3
+1113,21 Things I Wish My Broker Had Told Me: Practical Advice for New Real Estate Professionals,Frank Cook,3.54,,60
+1114,So You Want to Be a Mortgage Broker,Ameen Kamadia,1.00,,1
+1115,Body Brokers: Inside America's Underground Trade in Human Remains,Annie Cheney,3.77,2006,199
+1116,"The Devil's Broker: Seeking Gold, God, and Glory in Fourteenth- Century Italy",Frances Stonor Saunders,3.94,2006,145
+1117,"The Power Broker: A Novel (Christian Gillette, #3)",Stephen W. Frey,3.72,2006,27
+1118,Broker to Broker: Management Lessons from America's Most Successful Real Estate Companies,Robert Freedman,3.62,2005,5
+1119,The Rational Guide to SQL Server 2005 Service Broker (Rational Guides),Roger Wolter,3.50,,6
+1120,Body For Life: 12 Weeks to Mental and Physical Strength,Bill Phillips,3.72,1999,3687
+1121,Body for Life for Women: A Woman's Plan for Physical and Mental Transformation,Pamela Peeke,3.59,,380
+1122,Body for Life Success Journal,Bill Phillips,4.04,2002,145
+1123,"Eating for Life: Your Guide to Great Health, Fat Loss and Increased Energy!",Bill Phillips,3.94,2003,752
+1124,"Body for Life for Women: 12 Weeks to a Firm, Fit, Fabulous Body at Any Age",Pamela Peeke,3.59,,55
+1125,Body Life: The Book That Inspired a Return to the Church's Real Meaning and Mission,Ray C. Stedman,4.08,1995,34
+1126,"One Body, One Life: Six Weeks to the New You",Gregory Joujon-Roche,3.60,2006,10
+1127,Body Piercing Saved My Life: Inside the Phenomenon of Christian Rock,Andrew Beaujon,3.63,2006,263
+1128,Life in His Body,David Finnell,3.50,,8
+1129,"Bill Phillips Body For Life Two-Book Set (Body For Life, Body for Life Success Journal)",Bill Phillips,4.33,,12
+1130,The Warren Buffett Way,Robert G. Hagstrom,4.10,2005,195
+1131,The Warren Buffett Portfolio: Mastering the Power of the Focus Investment Strategy,Robert G. Hagstrom,4.09,2000,33
+1132,Buffettology: The Previously Unexplained Techniques That Have Made Warren Buffett the World's Most Famous Investor,Mary Buffett,3.90,1999,1667
+1133,Trade Like Warren Buffett,James Altucher,3.59,2005,64
+1134,Warren Buffett Speaks: Wit and Wisdom from the World's Greatest Investor,Janet Lowe,3.87,1997,32
+1135,How to Think Like Benjamin Graham and Invest Like Warren Buffett,Lawrence A. Cunningham,3.61,2002,152
+1136,J. K. Lasser's Pick Stocks Like Warren Buffett,Warren Boroson,3.22,2001,6
+1137,Warren Buffett Wealth: Principles and Practical Methods Used by the World's Greatest Investor,Robert P. Miles,4.02,2004,39
+1138,The Warren Buffett CEO: Secrets from the Berkshire Hathaway Managers,Robert P. Miles,3.97,2003,34
+1139,"The Real Warren Buffett: Managing Capital, Leading People",James O'Loughlin,3.92,2004,77
+1140,Of Permanent Value: The Story of Warren Buffett,Andrew Kilpatrick,3.93,,8
+1141,Warren Buffett:: Master of the Market,Jay Steele,3.56,1999,8
+1142,The Winning Investment Habits of Warren Buffett & George Soros,Mark Tier,3.94,2006,219
+1143,Warren Buffett: The Good Guy of Wall Street,Andrew Kilpatrick,3.88,1995,8
+1144,Warren Buffett: An Illustrated Biography of the World's Most Successful Investor,Ayano Morio,3.67,2004,66
+1145,A Weekend with Warren Buffett: And Other Shareholder Meeting Adventures,Randy Cepuch,3.71,2007,44
+1146,Warren Buffett Speaks: Wit and Wisdom of the World's Greatest Investor,Janet Lowe,3.87,1997,8
+1147,"Of Permanent Value: The Story of Warren Buffett, 1998 Edition",Andrew Kilpatrick,3.93,,5
+1148,Los Ensayos De Warren Buffett,Warren Buffett,4.38,,1
+1149,Die Essays Von Warren Buffett,Warren Buffett,4.38,,1
+1150,The Buffettology Workbook: Value Investing The Warren Buffett Way,Mary Buffett,3.90,2001,25
+1151,Warren Buffett (Business Masterminds),Robert Heller,3.56,,37
+1152,Warren Buffett,Robert G. Hagstrom,4.03,2003,31
+1153,The Midas Touch: The Strategies That Have Made Warren Buffett America's Pre-Eminent Investor,John Train,3.64,1987,3
+1154,101 Reasons to Own the World's Greatest Investment: Warren Buffett's Berkshire Hathaway,Robert P. Miles,3.50,2003,16
+1155,Buffett: The Making of an American Capitalist,Roger Lowenstein,4.25,1996,7388
+1156,Of Permanent Value: The Story of Warren Buffet,Andrew Kilpatrick,3.93,,3
+1157,"Of Permanent Value: The Story of Warren Buffett, Updated and Expanded Edition",Andrew Kilpatrick,3.93,,99
+1158,Investimentos: Os Segredos De George Soros E Warren Buffett,Mark Tier,3.94,,6
+1159,"Of Permanent Value: The Story of Warren Buffett/More in '04, California Edition",Andrew Kilpatrick,3.93,,2
+1160,Damn Right!: Behind the Scenes with Berkshire Hathaway Billionaire Charlie Munger,Janet Lowe,4.10,2003,853
+1161,Of Permanent Value : The Story of Warren Buffett/Monster Millennium Edition,Andrew Kilpatrick,3.93,,3
+1162,Monkey Business: Swinging Through the Wall Street Jungle,John Rolfe,3.90,2001,3483
+1163,Monkey Business,Wallace Edwards,4.20,2004,115
+1164,Monkey Business: True Story of the Scopes Trial,Marvin N. Olasky,3.17,2005,23
+1165,"Mice, Morals, & Monkey Business",Christopher Wormell,3.43,2005,9
+1166,"Hank the Cowdog and Monkey Business (Hank the Cowdog, #14)",John R. Erickson,4.09,1998,486
+1167,"Junie B. Jones and a Little Monkey Business (Junie B. Jones, #2)",Barbara Park,3.97,1993,9980
+1168,Monkey Business: Are Yor Controlling Events or Are Events Controlling You?,William Oncken III,4.17,,12
+1169,Monkey Business,Sarah Mlynowski,3.65,2004,3087
+1170,Monkey Business,J. Otto Seibold,3.79,1995,39
+1171,Liar's Poker,Michael   Lewis,4.16,1990,22525
+1172,Liar's Poker,Michael   Lewis,4.16,,505
+1173,Liar's Poker,Michael   Lewis,4.16,1989,105
+1174,Liars Poker: A Winning Strategy,John Archer,3.86,,29
+1175,"Liar's Poker: The Great Powers, Yugoslavia and the Wars of the Future",Michel Collon,4.57,,7
+1176,Liars Poker Rising Through The Wreckage/International Edition,Michael   Lewis,4.16,,70
+1177,Liar's Poker: A Harry Garnish Mystery,Frank McConnell,3.31,1993,13
+1178,Weight Watchers Simply the Best Italian: More than 250 Classic Recipes from the Kitchens of Italy,Weight Watchers,3.68,,18
+1179,"Simply Italian: 100 Easy-To-Make, Zesty, Satisfying Favorites",Ruth Glick,5.00,1999,1
+1180,Simply Bruschetta: Garlic Toast the Italian Way,Vittorio Pellegrino,4.00,2001,3
+1181,"Simply Italian: Easy Recipes That Are Quick to Prepare, Low in Calories, and Kind to Your Budget",Valentina Harris,4.00,1997,1
+1182,Simply Italian More Than Quick and Easy,Gina Puliciano,0.00,,0
+1183,"Simply Italian: Easy Recipes That Are Quick to Prepare, Low in Calories, and Kind to Your Budget",Valentina Harris,4.00,,0
+1184,Simply Italian,Sophie Braimbridge,3.89,2002,0
+1185,"Cucina Fresca: Italian Food, Simply Prepared",Laplace Viana,4.19,2001,25
+1186,Simply Pasta & Italian,Helen Walters,5.00,,1
+1187,"Simply Sauté: Fast, Easy, and Healthy Italian Cooking -- All in One Pan",Silvia Bianco,4.33,2003,3
+1188,Risotto: 30 Simply Delicious Vegetarian Recipes from an Italian Kitchen,Ursula Ferrigno,4.08,2001,8
+1189,Simply Tuscan: Recipes for a Well-Lived Life,Pino Luongo,3.56,2000,16
+1190,Simply Sicilian: Family Recipes,Carol Cappelline Schulte,0.00,2005,0
+1191,Giada's Family Dinners,Giada De Laurentiis,3.96,2006,13178
+1192,Everyday Italian: 125 Simple and Delicious Recipes,Giada De Laurentiis,3.96,2005,34982
+1193,Everyday Pasta,Giada De Laurentiis,4.08,2007,8416
+1194,Alex & Penny in Egypt,Giada Francia,0.00,2007,0
+1195,Alex & Penny Ballooning over Italy,Giada Francia,3.00,2007,1
+1196,Tyler's Ultimate: Brilliant Simple Food to Make Any Time,Tyler Florence,4.12,2006,3330
+1197,Tyler Florence's Real Kitchen: An Indespensible Guide for Anybody Who Likes to Cook,Tyler Florence,4.05,2003,1236
+1198,Eat This Book: Cooking with Global Fresh Flavors,Tyler Florence,3.92,2004,239
+1199,Semi-Homemade: Cooking 2,Sandra Lee,3.59,,115
+1200,Developmental Psychology,Florence Laura Goodenough,0.00,,0
+1201,Developmental Psychology,Florence Laura Goodenough,0.00,,0
+1202,"Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics, #1)",Steven D. Levitt,3.94,2006,538576
+1203,Freakonomics: A Rogue Economist Explores The Hidden Side Of Everything,Steven D. Levitt,3.94,,619
+1204,Freakonomics: Un economista políticamente incorrecto explora el lado oculto de lo que nos afecta,Steven D. Levitt,3.94,2006,162
+1205,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,Steven D. Levitt,3.94,2006,607
+1206,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,Steven D. Levitt,3.94,2006,81
+1207,Freakonomics  - O Estranho Mundo da Economia,Steven D. Levitt,3.94,,64
+1208,The Semi-Complete Guide to Sort of Being a Gentleman,Brock LaBorde,4.50,2005,2
+1209,Gentleman's Guide to Grooming and Style,Bernhard Roetzel,4.14,2001,71
+1210,Gentleman's Guide to Grooming and Style,Bernhard Roetzel,4.14,,12
+1211,Gentleman's Guide to Toasting,Dave Fulmer,3.00,1990,8
+1212,The Gentleman's Guide to Passages South: The Thornless Path Toward Windward,Bruce Van Sant,4.09,1995,10
+1213,Gentleman's GD.to Etiquette,Clinton T. Greenleaf III,2.88,1997,6
+1214,Gentleman's Guide To Professional Appearance,Clinton T. Greenleaf III,4.20,2000,10
+1215,A Well-Dressed Gentleman's Pocket Guide,Oscar Lenius,3.47,2006,31
+1216,Miracle Collapse: The 1969 Chicago Cubs,Doug Feldmann,3.33,2006,19
+1217,Collapse,Jared Diamond,3.92,2005,16
+1218,"The Last Assassin (John Rain, #5)",Barry Eisler,4.24,2006,158
+1219,"Sicario (John Rain, #1)",Barry Eisler,3.95,2005,13
+1220,"Blood From Blood (John Rain, #2)",Barry Eisler,4.09,,16
+1221,La Chute de John R.,Barry Eisler,3.95,2003,0
+1224,"One Last Kill (John Rain, #4)",Barry Eisler,4.20,,9
+1225,Chuva Forte,Barry Eisler,4.13,2005,0
+1226,Life of Pi,Yann Martel,3.89,2004,4109
+1227,Vida de Pi,Yann Martel,3.89,2003,49
+1228,Life of Pi,Yann Martel,3.89,2007,108
+1229,Life of Pi,Yann Martel,3.89,2002,435
+1230,L'Histoire de Pi,Yann Martel,3.89,2005,158
+1231,Keys to Investing in Real Estate,Jack P. Friedman,2.00,2005,4
+1232,"The Shadow of the Wind (The Cemetery of Forgotten Books,  #1)",Carlos Ruiz Zafón,4.25,2005,279453
+1233,The Shadow of the Wind,Carlos Ruiz Zafón,4.25,2005,40
+1234,Shadows and Wind: A View of Modern Vietnam,Robert Templer,3.57,1999,94
+1235,"La sombra del viento (El cementerio de los libros olvidados, #1)",Carlos Ruiz Zafón,4.25,2001,588
+1236,In the Shadow of the Wind,Anne Hébert,3.67,1994,9
+1237,Shadows on the Wind,Rita Gallagher,2.50,1995,2
+1238,Freedom's Shadow,Marlo Schalesky,3.64,2001,14
+1239,Shadows and Wind,Bob Templer,3.00,,1
+1240,Against Shadows and Winds,N.E. Thompson,0.00,,0
+1241,A Million Little Pieces,James Frey,3.62,2005,188241
+1242,A Million Little Pieces of Feces,Python Bonkers,3.51,2006,41
+1243,A Million Little Lies,James Pinocchio,3.40,2006,189
+1244,Sandpaper Sisters,Michele McKnight Baker,4.00,2005,2
+1245,A Million Little Pieces of Close to Home: A Close to Home Collection,John McPherson,4.00,2006,11
+1246,The Leadership Challenge,James M. Kouzes,4.04,2003,865
+1247,Leadership and Self-Deception: Getting Out of the Box,The Arbinger Institute,4.11,2000,93
+1248,The 21 Irrefutable Laws of Leadership Workbook: Follow Them and People Will Follow You,John C. Maxwell,4.29,2002,231
+1249,Primal Leadership: Learning to Lead with Emotional Intelligence,Daniel Goleman,3.95,2004,349
+1250,Leadership: Theory and Practice,Peter G. Northouse,3.80,2006,792
+1251,Leadership Is an Art,Max DePree,3.99,2004,4287
+1252,Lincoln on Leadership: Executive Strategies for Tough Times,Donald T. Phillips,4.12,1993,4365
+1253,Leadership 101: What Every Leader Needs to Know,John C. Maxwell,4.15,2002,3555
+1254,The Leadership Pipeline: How to Build the Leadership-Powered Company,Ram Charan,3.91,2000,487
+1255,Leadership in Organizations,Gary Yukl,3.66,2005,52
+1256,Complete Giuliani Studies,David Grimes,4.00,1995,2
+1257,Grand Illusion: The Untold Story of Rudy Giuliani and 9/11,Wayne Barrett,3.71,2006,23
+1258,120 Studies for Right Hand Development,Mauro Giuliani,4.33,1983,14
+1259,Leadership Through the Ages: A Collection of Favorite Quotations,Rudolph W. Giuliani,3.92,,9
+1260,Mauro Giuliani: Virtuoso Guitarist and Composer,Thomas F. Heck,4.33,,0
+1261,Rudy Giuliani: Emperor of the City,Andrew Kirtzman,3.46,2001,31
+1262,"The Prince of the City: Giuliani, New York, and the Genius of American Life",Fred Siegel,3.60,2005,15
+1263,America's Mayor: The Hidden History of Rudy Giuliani's New York,Robert Polner,3.50,2005,3
+1264,Rudy! An Investigative Biography Of Rudolph Giuliani,Wayne Barrett,3.60,2000,5
+1265,Leadership,Rudolph W. Giuliani,3.72,2002,1659
+1266,Leadership Through the Ages: A Collection of Favorite Quotations,Rudolph W. Giuliani,3.92,2003,1
+1267,A Day in the Life of a Mayor: Featuring New York City Mayor Rudy Giuliani,Liza N. Burby,0.00,2001,0
+1268,"Faces Of Ground Zero: Portraits Of The Heroes Of September 11, 2001",Rudolph W. Giuliani,4.56,,1
+1269,"Music Minus One Guitar: Giuliani Guitar Quintet in A major, op. 65 (Book & CD)",Mauro Giuliani,0.00,,0
+1270,"Mauro Giuliani: Guitar Concerto No. 1 in A Major, Op. 30 [With 2 CDs]",Mauro Giuliani,0.00,,0
+1271,Assessment in Special Education: A Practical Approach,George A. Giuliani,3.31,2001,1
+1272,Rudolph Giuliani,Wil Mara,5.00,2003,0
+1273,Leadership,Rudolph W. Giuliani,3.72,,32
+1274,"Men Are from Mars, Women Are from Venus",John Gray,3.53,2012,119534
+1275,"Men Are from Mars, Women Are from Venus: A Practical Guide for Improving Communication and Getting What You Want in Relationships",John Gray,3.53,2010,5
+1276,Mars and Venus Book of Days: 365 Inspriations to Enrich Your Relationships,John Gray,3.53,1998,14
+1277,"Men are from Mars, Women are from Venus",John Gray,3.53,,970
+1278,Freddy and the Men from Mars,Walter R. Brooks,4.21,2002,179
+1279,"Men Are from Mars, Women Are from Venus: Secrets of Passion/Audio Cassette",John Gray,4.00,,0
+1280,"Men Are From Mars, Women Are From Venus: A Practical Guide For Improving Communication and Getting What You Want",John Gray,3.53,,90
+1281,"Men are From Mars, Women are From Venus Low Price CD",John Gray,3.53,2007,37
+1282,"Children Are from Heaven: How to Have Strong, Confident Children",John Gray,3.85,1999,27
+1283,Investing in REITs: Real Estate Investment Trusts,Ralph L. Block,3.63,2006,67
+1284,Playing the REITs Game: Asia's New Real Estate Investment Trusts,Dominic Whiting,2.50,2007,6
+1285,The essential REIT: A guide to profitable investing in Real Estate Investment Trusts,Ralph L. Block,4.50,,2
+1286,Real Estate Securities: The Reit Investment Handbook,Peter Madlem,0.00,1994,0
+1287,Online Investing Hacks: 100 Industrial-Strength Tips & Tools,Bonnie Biafore,3.08,2004,12
+1288,J.K. Lasser Pro Real Estate Investment Trusts: New Strategies for Portfolio Management,Richard Imperiale,0.00,2002,0
+1289,How to Talk to Women,Ron Louis,5.00,2002,5
+1290,How to Succeed with Women,Ron  Louis,3.76,1998,77
+1291,Sex Lover's Book of Lists,Ron Louis,4.00,2001,5
+1292,Kiowa Trail,Louis L'Amour,3.89,2006,10
+1293,How to Succeed with Men,David Copeland,3.00,2000,11
+1294,How to Survive the IRS: My Battles Against Goliath,Michael Louis Minns,3.60,2001,5
+1295,"The Clan of the Cave Bear (Earth's Children, #1)",Jean M. Auel,4.02,2002,181212
+1296,"The Clan of the Cave Bear (Earth's Children, #1)",Jean M. Auel,4.02,1980,430
+1297,"The Clan of the Cave Bear, Part 1 of 2 (Earth's Children, #1)",Jean M. Auel,4.43,,574
+1298,"The Clan of the Cave Bear, Part 2 of 2 (Earth's Children, #1)",Jean M. Auel,4.59,,0
+1300,The Bad Guys Won!,Jeff Pearlman,4.01,2005,3014
+1301,Moneyball: The Art of Winning an Unfair Game,Michael   Lewis,4.25,2004,69799
+1302,Juiced Official Strategy Guide,Doug Walsh,0.00,2005,0
+1303,The 48 Laws of Power,Robert Greene,4.19,2000,42990
+1304,The Exp 48 Laws of Power,Robert Greene,4.19,2005,1
+1305,Gates of Fire: An Epic Novel of the Battle of Thermopylae,Steven Pressfield,4.40,2005,18877
+1306,Gates Of Fire,Steven Pressfield,4.40,2000,287
+1307,"Fire Sea (The Death Gate Cycle, #3)",Margaret Weis,4.05,1992,15172
+1308,Gates of Fire: An Epic Novel of the Battle of Thermopylae,Steven Pressfield,4.40,,5
+1309,"Memory of Fire (The World Gates, #1)",Holly Lisle,3.64,2002,444
+1310,Fire at Eden's Gate: Tom McCall and the Oregon Story,Brent Walth,4.36,2003,8
+1311,Through Gates of Fire: A Journey into World Disorder,Martin  Bell,3.69,2004,14
+1312,The Gate of Fire (Oath Of Empire Book Two),Thomas Harlan,3.55,,133
+1313,Gates of Fire,Elwyn M. Chamberlain,4.22,1993,37
+1314,Fire in the Gates,Thurman C. Petty Jr.,4.40,,0
+1315,The Afghan Campaign,Steven Pressfield,3.94,2006,2677
+1316,The Virtues of War: A Novel of Alexander the Great,Steven Pressfield,3.95,2005,3668
+1317,Tides of War,Steven Pressfield,3.88,2001,3083
+1318,Last of the Amazons,Steven Pressfield,3.73,2003,1974
+1319,The War of Art: Break Through the Blocks & Win Your Inner Creative Battles,Steven Pressfield,4.04,2003,37267
+1320,Gita on the Green,Stephen J. Rosen,3.81,2002,14
+1321,"CONQUISTA DE ALEJANDRO MAGNO,",Steven Pressfield,3.95,2006,0
+1322,Blood Stripes: The Grunt's View of the War in Iraq,David J. Danelo,3.89,2006,75
+1323,Phaedrus,Plato,3.91,2002,1
+1324,Phaedrus,Plato,3.91,2003,105
+1325,Symposium/Phaedrus,Plato,3.95,2001,34
+1326,Phaedrus and Letters VII and VIII,Plato,4.06,1973,186
+1327,Phaedrus,Plato,3.91,2003,25
+1328,Phaedrus,Plato,3.91,2005,192
+1329,Plato's Erotic Dialogues: Symposium/Phaedrus (Ancient Greek Philosophy),Plato,3.95,1993,45
+1330,Euthyphro. Apology. Crito. Phaedo. Phaedrus.,Plato,4.34,1971,867
+1331,Babrius and Phaedrus (Loeb Classical Library #436),Babrius,4.13,1965,15
+1332,"Parmenides/Philebus/Symposium/Phaedrus/Alcibiades 1-2/Hipparchus/Amatores (Platonis Opera, #2)",Plato,4.88,1957,16
+1333,The Rhetoric of Morality and Philosophy: Plato's Gorgias and Phaedrus,Seth Benardete,4.64,1991,10
+1334,Lysis/Phaedrus/Symposium: Plato on Homosexuality,Plato,4.47,1991,14
+1335,Listening to the Cicadas: A Study of Plato's Phaedrus,G.R.F. Ferrari,3.43,2002,7
+1336,Plato's Phaedrus: The Philosophy of Love,Graeme Nicholson,4.25,1999,4
+1337,Enthusiasm and Divine Madness,Josef Pieper,4.41,1999,22
+1338,On Love: Lysis/Symposium/Phaedrus/Alcibiades/Selections from Republic & Laws,Plato,4.07,2006,136
+1339,"Loving and Dying: A Reading of Plato's Phaedo, Symposium, and Phaedrus",Richard Gotshalk,4.67,2001,3
+1340,Telling Tales on Caesar: Roman Stories from Phaedrus,Phaedrus,3.67,2001,3
+1341,The Fables of Phaedrus,Phaedrus,3.52,1992,45
+1342,Gorgias/Phaedrus (Agora),Plato,4.47,1998,13
+1343,Fables from Phaedrus,Phaedrus,3.52,,0
+1344,"Plato's ""Phaedrus"": A Defense of a Philosophic Art of Writing",Ronna Burger,3.00,,3
+1345,Phaedrus,Plato,3.91,,0
+1346,Phaedrus-Kommentar,Eberhard Oberg,0.00,2000,0
+1347,"Rhetoric and Reality in Plato's ""Phaedrus""",David A.   White,3.50,1993,2
+1348,"The Platonism of Marsilio Ficino: A Study of His Phaedrus Commentary, Its Sources and Genesis",Michael Allen,0.00,1984,0
+1349,Phaedrus,Plato,3.91,2006,18
+1350,Phaedrus. Fabeln. (Lernmaterialien),Harald Triebnig,5.00,,1
+1351,Statesman,Plato,3.86,1999,19
+1352,Cratylus,Plato,3.63,,413
+1353,Gorgias,Plato,3.93,1998,48
+1354,Gorgias,Plato,3.93,2004,6527
+1355,Gorgias,Plato,3.93,1989,36
+1356,Lysis/Symposium/Gorgias,Plato,4.36,1975,335
+1357,Gorgias,Plato,3.93,1990,8
+1358,Gorgias: Encomium of Helen,Gorgias of Leontini,3.65,1991,92
+1359,"Gorgias, Sophist, and Artist",Scott Consigny,3.00,2001,1
+1360,Gorgias and the New Sophistic Rhetoric,Bruce McComiskey,3.50,2002,2
+1361,A Friendly Companion to Plato's Gorgias,George Kimball Plochmann,0.00,1987,0
+1362,The Histories,Herodotus,3.97,2003,30109
+1363,The Histories,Herodotus,3.97,1954,214
+1364,The History (Great Minds),Herodotus,3.97,1992,2
+1365,The Histories,Herodotus,3.97,1998,253
+1366,The Histories,Herodotus,3.97,1970,126
+1367,The Histories,Herodotus,3.97,1992,37
+1368,The Histories,Herodotus,3.97,1997,119
+1369,The History,Herodotus,3.97,1987,33
+1370,The Persian War (Translations from Greek & Roman Authors),Herodotus,4.06,,358
+1371,The Iliad,Homer,3.84,1999,257093
+1372,The Iliad,Homer,3.84,1961,2437
+1373,Iliad,Homer,3.84,1997,894
+1374,The Iliad,Homer,3.84,2004,599
+1375,The Iliad/The Odyssey,Homer,4.03,1999,50552
+1376,The Iliad,Homer,3.84,2003,1752
+1377,The Iliad,Homer,3.84,1999,141
+1378,The Essential Iliad,Homer,3.94,2000,157
+1379,An Iliad,Alessandro Baricco,3.61,,1185
+1380,The Iliad,Homer,3.84,2006,37
+1381,The Odyssey,Homer,3.73,2006,696773
+1382,The Odyssey,Homer,3.73,1998,1514
+1383,The Odyssey,Homer,3.73,1999,1071
+1384,The Odyssey,Homer,3.73,2003,2189
+1385,African American Odyssey,Debra Newman Ham,0.00,2000,0
+1386,Cliffs Notes on Homer's The Odyssey,Stanley P. Baldwin,3.47,2000,30
+1387,The Odyssey,Homer,3.73,1999,240
+1388,Odyssey,Homer,3.73,2000,869
+1389,"Mathematics: A Practical Odyssey (with CengageNOW, Personal Tutor, and Student Book Companion Site Printed Access Card)",David B. Johnson,3.07,,1
+1390,Earth Odyssey: Around the World in Search of Our Environmental Future,Mark Hertsgaard,4.22,1999,248
+1391,"Aeneid: Selections from Books 1, 2, 4, 6, 10, 12",Virgil,4.33,2004,64
+1392,Aeneid: Books I-VI,Virgil,4.13,,990
+1393,Vergil Vocabulary Cards for AP Selections,Dennis De Young,0.00,,0
+1394,"Vergil's Aeneid, 10 & 12: Pallas & Turnus (Latin Edition) (Bks. 10) (Bks. 10 & 12)",Virgil,3.83,1999,12
+1395,"Aeneid: Hero, War, Humanity",Virgil,4.09,2005,23
+1396,Herding Dogs: Progressive Training,Vergil S. Holland,3.86,1994,56
+1397,Vergil: A Legamus Transitional Reader,Thomas J. Sienkewicz,3.71,2004,7
+1398,Latin (Vergil),Jack Rudman,0.00,2014,0
+1399,Vergil's Aeneid: Books I-VI,Virgil,4.13,1998,165
+1401,Midwest Eclogue,David Baker,3.76,2005,8
+1402,Eclogues. Georgics. Aeneid: Books 1-6,Virgil,4.30,1999,331
+1403,City Eclogue,Ed Roberson,4.19,2006,64
+1404,Eclogues and Georgics,Virgil,3.83,2005,14
+1405,The Eclogues and The Georgics,Virgil,3.83,1999,197
+1406,<I>Eclogues</I> and  <I>Georgics</I> of Virgil,Virgil,3.83,1990,1
+1407,The Eclogues of Virgil: A Translation,Virgil,3.89,1999,13
+1408,"Paul Kirk's Championship Barbecue Sauces: 175 Make-Your-Own Sauces, Marinades, Dry Rubs, Wet Rubs, Mops and Salsas",Paul  Kirk,4.00,1997,54
+1409,The Dry Danube: A Hitler Forgery,Paul West,3.92,2000,12
+1410,"Lacrimal Gland, Tear Film, and Dry Eye Syndromes: Basic Science and Clinical Relevance",David A. Sullivan,0.00,1994,0
+1411,Old Dry Frye,Paul Brett Johnson,4.15,2001,16
+1412,Power Publicity for Dry Cleaners,Paul Hartunian,3.00,,1
+1413,Dry Water,Paul B. Vitta,0.00,,0
+1414,The Riverside Shakespeare,William Shakespeare,4.54,1997,3545
+1415,World of Shakespeare: The Complete Plays and Sonnets of William Shakespeare (38 Volume Library),William Shakespeare,4.81,,47
+1416,The Norton Shakespeare,William Shakespeare,4.57,,1086
+1417,The Complete Pelican Shakespeare,William Shakespeare,4.58,2002,532
+1418,Complete Works of William Shakespeare,William Shakespeare,4.49,,329
+1419,The Complete Works,William Shakespeare,4.49,1991,58
+1420,Hamlet,William Shakespeare,4.01,2005,538896
+1421,The Oxford Shakespeare: The Complete Works,William Shakespeare,4.62,2005,444
+1422,"Shakespeare Set Free: Teaching Romeo & Juliet, Macbeth & Midsumr Night'",William Shakespeare,4.24,1993,96
+1423,The Compleat Works of Wllm Shkspr (abridged),Reduced Shakespeare Company,4.47,1994,7502
+1424,The Pilgrimage: A Contemporary Quest for Ancient Wisdom,Paulo Coelho,3.64,1995,838
+1425,The Valkyries,Paulo Coelho,3.30,1996,662
+1426,Warrior of the Light,Paulo Coelho,3.69,2004,20043
+1427,The Zahir,Paulo Coelho,3.57,2006,53339
+1428,By the River Piedra I Sat Down and Wept,Paulo Coelho,3.57,2006,64726
+1429,The Fifth Mountain,Paulo Coelho,3.62,2000,750
+1430,Eleven Minutes,Paulo Coelho,3.69,2003,107277
+1431,Veronika Decides to Die,Paulo Coelho,3.69,2006,117597
+1432,Hamlet,William Shakespeare,4.01,2003,22263
+1433,Hamlet,William Shakespeare,4.01,2001,1475
+1434,Hamlet,William Shakespeare,4.01,2004,780
+1436,"Hamlet: An Authoritative Text, Intellectual Backgrounds, Extracts from the Sources, Essays in Criticism (Norton Critical Edition)",William Shakespeare,4.01,1992,441
+1437,Cliffs Notes on Shakespeare's Hamlet,Carla Lynn Stockton,3.73,2000,61
+1438,Shakespeare's Hamlet,William Shakespeare,4.06,2000,83
+1439,Hamlet's Mill: An Essay Investigating  the Origins of Human Knowledge & Its Transmission Through Myth,Giorgio De Santillana,4.27,2015,410
+1440,History of the Peloponnesian War: Bk. 1-2,Thucydides,4.25,1919,142
+1441,"On Justice, Power and Human Nature: Selections from The History of the Peloponnesian War",Thucydides,3.70,1993,510
+1442,"The Peloponnesian War, Bk. 2",Thucydides,4.17,1989,30
+1443,Thucydides Reader: Annotated Passages from Books I-VIII of the Histories,Thucydides,4.50,2005,2
+1444,History of the Peloponnesian War: Bk. 5-6,Thucydides,4.28,1921,34
+1445,The Peloponnesian War,Thucydides,3.87,1998,146
+1446,"Historiae, Vol. 2",Thucydides,3.93,1993,4
+1447,Thucydides: An Introduction for the Common Reader,Pérez Zagorin,3.89,2005,17
+1448,A Historical Commentary on Thucydides: A Companion to Rex Warner's Penguin Translation,David E. Cartwright,3.50,1997,2
+1449,"The Peloponnesian War: A New Translation, Backgrounds, Interpretations",Thucydides,3.87,1998,21
+1450,Thucydides,Simon Hornblower,3.83,,2
+1451,Thucydides: Book I,E.C. Marchant,3.00,1991,1
+1452,"Thucydides, Hobbes, and the Interpretation of Realism",Laurie M. Johnson,0.00,1993,0
+1453,Once Again for Thucydides,Peter Handke,3.65,1998,38
+1454,Thucydides Book I: A Students' Grammatical Commentary,Howard Don Cameron,3.00,2003,0
+1455,Thucydides: Man's Place in History,H. P. Stahl,0.00,2002,0
+1456,Apologies to Thucydides: Understanding History as Culture and Vice Versa,Marshall Sahlins,4.27,2004,29
+1457,Thucydides,W. Robert Connor,4.42,1987,16
+1458,"The Intellectual Revolution: Selections from Euripides, Thucydides and Plato",Joint Association of Classical Teachers,4.00,1980,8
+1459,"History of the Peloponnesian War, Bk. 7-8",Thucydides,4.24,1923,31
+1460,A Historical Commentary on Thucydides: Volume 1: Introduction and Commentary on Book I,A.W. Gomme,3.00,1963,2
+1461,"Thucydides, Book 6 Commentary",Cynthia W. Shelmerdine,4.50,1989,2
+1462,Euripides I: Alcestis / The Medea / The Heracleidae / Hippolytus,Euripides,4.02,1955,4512
+1463,Euripides V: Electra / The Phoenician Women / The Bacchae,Euripides,4.21,1969,3174
+1464,Euripides: Ten Plays,Euripides,4.15,1998,146
+1465,Euripides IV: Rhesus / The Suppliant Women / Orestes / Iphigenia in Aulis,Euripides,4.21,1968,493
+1466,Grief Lessons: Four Plays by Euripides,Euripides,4.39,2006,497
+1467,Ten Plays,Euripides,4.15,1990,1337
+1468,"Euripides III: Hecuba / Andromache / The Trojan Women / Ion (Complete Greek Tragedies, #7)",Euripides,3.98,1992,476
+1469,Bacchae,Euripides,3.85,2000,179
+1470,Euripides II: The Cyclops / Heracles / Iphigenia in Tauris / Helen,Euripides,4.30,2002,665
+1471,"Three Plays of Euripides: Alcestis, Medea, the Bacchae",Euripides,3.95,,4
+1472,Electra and Other Plays,Euripides,4.06,1999,171
+1473,Medea and Other Plays,Euripides,4.02,2003,8741
+1474,Cyclops. Alcestis. Medea,Euripides,4.18,1994,56
+1475,Medea,Euripides,3.84,2002,198
+1476,The Bacchae and Other Plays,Euripides,4.12,2006,133
+1477,Four Plays: Medea / Hippolytus / Heracles / Bacchae,Euripides,3.97,2002,177
+1478,The Bacchae of Euripides,Euripides,3.85,,3
+1479,Bakkhai,Euripides,3.85,2001,117
+1480,Plays 1: Medea/The Phoenician Women/Bacchae,Euripides,3.71,2000,7
+1481,Elektra,Euripides,3.92,2004,1
+1482,Medea - Literary Touchstone Classic,Euripides,3.84,,118
+1483,The Trojan Women and Other Plays,Euripides,3.89,2001,143
+1484,"Euripides' Bacchae, Focus Classical Library (Focus Classical Library)",Steven Esposito,3.70,1998,61
+1485,Hippolytus,Euripides,3.81,2001,55
+1486,The Trojan Women and Hippolytus,Euripides,3.58,2002,26
+1487,Euripides' Bacchae,Beth Causey,3.85,1995,13
+1488,The Bacchae of Euripides: A Communion Rite,Wole Soyinka,3.86,2004,95
+1489,Orestes and Other Plays,Euripides,4.08,2001,120
+1490,Cyclops,Euripides,3.57,1999,4
+1491,Children of Heracles. Hippolytus. Andromache. Hecuba,Euripides,4.23,1995,26
+1492,The Trojan Women: A Play by Euripides Translated from the Greek Into English and Adapted in Response to Aristophanes' and Aristotle's Cr,Howard Rubenstein,3.00,,2
+1493,Bacchae (Plays of Euripides),Euripides,3.85,2011,13
+1494,Alcestis,Euripides,3.81,1990,1559
+1495,"Suppliant Women, Electra, Heracles",Euripides,4.46,1998,28
+1496,Iphigenia in Aulis,Euripides,4.01,1997,2371
+1497,Three Great Plays: Medea / Hippolytus / Helen,Euripides,3.76,1958,15
+1498,Helen,Euripides,3.66,2007,3
+1499,Medea,Euripides,3.84,2006,302

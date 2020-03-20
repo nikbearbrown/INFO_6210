@@ -1,0 +1,257 @@
+tag,misjuded,misspelled
+football,TRUE,football
+football,TRUE,footballs
+football,TRUE,footfall
+football,TRUE,foot ball
+UCL,FALSE,CL
+UCL,FALSE,U CL
+ISL,TRUE,IS
+ISL,TRUE,ISLE
+ISL,TRUE,ILL
+ISL,TRUE,ISM
+ISL,TRUE,IS L
+ISL,TRUE,ISL
+ISL,TRUE,ISA
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL ,FALSE,UCLA
+UCL ,FALSE,UNCLE
+UCL ,FALSE,EUCLID
+UCL ,FALSE,NUCLEI
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+MAR,TRUE,RAM
+MAR,TRUE,MAR
+MAR,TRUE,MA
+MAR,TRUE,OMAR
+MAR,TRUE,MARE
+MAR,TRUE,MARS
+MAR,TRUE,MART
+MAR,TRUE,MARL
+MAR,TRUE,MARK
+MAR,TRUE,ARM
+MAR,TRUE,EAR
+MAR,TRUE,TAR
+MAR,TRUE,OAR
+MAR,TRUE,CAR
+MAR,TRUE,GAR
+GER,TRUE,REG
+GER,TRUE,GER
+GER,TRUE,GR
+GER,TRUE,AGER
+GER,TRUE,GOER
+GER,TRUE,GEAR
+GER,TRUE,GERM
+GER,TRUE,ERG
+GER,TRUE,MER
+GER,TRUE,PER
+GER,TRUE,HER
+GER,TRUE,FER
+GER,TRUE,DER
+GER,TRUE,BER
+GER,TRUE,KER
+RUS,FALSE,ROES
+RUS,FALSE,US
+RUS,FALSE,RS
+RUS,FALSE,GRUS
+RUS,FALSE,RUES
+RUS,FALSE,RUNS
+RUS,FALSE,RUTS
+RUS,FALSE,RUGS
+RUS,FALSE,RUMS
+RUS,FALSE,RUBS
+RUS,FALSE,RUSE
+RUS,FALSE,RUST
+RUS,FALSE,RUSH
+RUS,FALSE,RUSK
+RUS,FALSE,NUS
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+portugal,FALSE,Portugal
+ENG,TRUE,NEG
+ENG,TRUE,ENG
+ENG,TRUE,EN
+ENG,TRUE,DENG
+ENG,TRUE,GEN
+ENG,TRUE,ERG
+ENG,TRUE,EGG
+ENG,TRUE,ENS
+ENG,TRUE,ENC
+ENG,TRUE,END
+ENG,TRUE,EN G
+O'Shea,TRUE,O'Shea
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+Bruno,TRUE,Brno
+Bruno,TRUE,Bruno
+Bruno,TRUE,Brunt
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+portugal,FALSE,Portugal
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+Genoa goalkeeper,FALSE,Goalkeeper
+Genoa goalkeeper,FALSE,Goalkeeping
+Genoa goalkeeper,FALSE,Groundskeepers
+Genoa goalkeeper,FALSE,Saloonkeeper
+UCL,FALSE,CL
+UCL,FALSE,U CL
+Genoa goalkeeper ,FALSE,Goalkeeper
+Genoa goalkeeper ,FALSE,Goalkeeping
+Genoa goalkeeper ,FALSE,Groundskeepers
+Genoa goalkeeper ,FALSE,Saloonkeeper
+Genoa goalkeeper ,FALSE,Goalkeeper
+Genoa goalkeeper ,FALSE,Goalkeeping
+Genoa goalkeeper ,FALSE,Groundskeepers
+Genoa goalkeeper ,FALSE,Saloonkeeper
+Bentley,TRUE,Bentley
+Bentley,TRUE,Bentleys
+Bentley,TRUE,Bentlee
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+Barcelona,TRUE,Barcelona
+UCL,FALSE,CL
+UCL,FALSE,U CL
+Neymar,FALSE,Moneymaker
+Neymar,FALSE,Neysa
+Neymar,FALSE,Journeyman
+Neymar,FALSE,Nearby
+UCL,FALSE,CL
+UCL,FALSE,U CL
+Neymar,FALSE,Moneymaker
+Neymar,FALSE,Neysa
+Neymar,FALSE,Journeyman
+Neymar,FALSE,Nearby
+Neymar,FALSE,Moneymaker
+Neymar,FALSE,Neysa
+Neymar,FALSE,Journeyman
+Neymar,FALSE,Nearby
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+UCL,FALSE,CL
+UCL,FALSE,U CL
+Neymar,FALSE,Moneymaker
+Neymar,FALSE,Neysa
+Neymar,FALSE,Journeyman
+Neymar,FALSE,Nearby
+UCL,FALSE,CL
+UCL,FALSE,U CL
+Neymar,FALSE,Moneymaker
+Neymar,FALSE,Neysa
+Neymar,FALSE,Journeyman
+Neymar,FALSE,Nearby
+UCL,FALSE,CL
+UCL,FALSE,U CL
+Neymar,FALSE,Moneymaker
+Neymar,FALSE,Neysa
+Neymar,FALSE,Journeyman
+Neymar,FALSE,Nearby
+football,TRUE,football
+football,TRUE,footballs
+football,TRUE,footfall
+football,TRUE,foot ball
+book,TRUE,book
+book,TRUE,boo
+book,TRUE,brook
+book,TRUE,books
+book,TRUE,nook
+book,TRUE,rook
+book,TRUE,took
+book,TRUE,look
+book,TRUE,cook
+book,TRUE,gook
+book,TRUE,hook
+book,TRUE,kook
+book,TRUE,Cook
+book,TRUE,bock
+book,TRUE,boos
+table,TRUE,able
+table,TRUE,tale
+table,TRUE,stable
+table,TRUE,tables
+table,TRUE,tablet
+table,TRUE,tabled
+table,TRUE,sable
+table,TRUE,cable
+table,TRUE,gable
+table,TRUE,fable
+table,TRUE,Gable
+table,TRUE,Mable
+table,TRUE,tabla
+table,TRUE,t able
+fly,TRUE,fl
+fly,TRUE,flay
+fly,TRUE,sly
+fly,TRUE,ply
+fly,TRUE,Ely
+fly,TRUE,Sly
+fly,TRUE,Cly
+fly,TRUE,fey
+fly,TRUE,fay
+fly,TRUE,fry
+fly,TRUE,fwy
+fly,TRUE,flt
+fly,TRUE,flu
+fly,TRUE,fl y

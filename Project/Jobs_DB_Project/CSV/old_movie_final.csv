@@ -1,0 +1,1001 @@
+old_movie_id,movie_title,director_name,main_actor,genre_id
+1,On the Road ,Walter Salles,Kristen Stewart,3
+3,Enchanted ,Kevin Lima,Jeff Bennett,4
+4,"Dancer, Texas Pop. 81 ",Tim McCanlies,Ethan Embry,6
+5,TMNT ,Kevin Munroe,Chris Evans,3
+6,Sunshine ,Danny Boyle,Chris Evans,7
+7,Videodrome ,David Cronenberg,Debbie Harry,12
+8,Alvin and the Chipmunks: The Squeakquel ,Betty Thomas,Amy Poehler,17
+9,UnDivided ,Sam Martin,Sam Adams,18
+10,Universal Soldier: The Return ,Mic Rodgers,Michael Jai White,7
+11,Panic Room ,David Fincher,Kristen Stewart,8
+12,Taken 3 ,Olivier Megaton,Liam Neeson,8
+13,Sideways ,Alexander Payne,Virginia Madsen,3
+14,The Game of Their Lives ,David Anspaugh,Gerard Butler,1
+15,Poultrygeist: Night of the Chicken Dead ,Lloyd Kaufman,John Karyus,6
+16,Antitrust ,Peter Howitt,Tyler Labine,2
+17,Victor Frankenstein ,Paul McGuigan,Daniel Radcliffe,8
+18,Sinister 2 ,Ciarán Foy,Laila Haley,5
+19,Megamind ,Tom McGrath,J.K. Simmons,17
+20,High Fidelity ,Stephen Frears,Drake Bell,1
+21,Secondhand Lions ,Tim McCanlies,Haley Joel Osment,6
+23,Gigli ,Martin Brest,Todd Giebenhain,4
+24,Dance Flick ,Damien Dante Wayans,Damon Wayans Jr.,6
+25,Kiss the Girls ,Gary Fleder,Morgan Freeman,10
+26,Independence Day ,Roland Emmerich,Will Smith,2
+27,Doogal ,Dave Borthwick,Jimmy Fallon,13
+28,A Dog of Flanders ,Kevin Brodie,Bruce McGill,13
+29,Against the Wild ,Richard Boddington,Natasha Henstridge,13
+30,Cloverfield ,Matt Reeves,Mike Vogel,2
+31,The Secret Life of Walter Mitty ,Ben Stiller,Adam Scott,3
+32,I Think I Love My Wife ,Chris Rock,Steve Buscemi,1
+33,The Country Bears ,Peter Hastings,Haley Joel Osment,6
+34,Queen of the Mountains ,Sadyk Sher-Niyaz,Elina Abai Kyzy,14
+35,"Welcome Home, Roscoe Jenkins ",Malcolm D. Lee,Mo'Nique,4
+36,In the Shadow of the Moon ,David Sington,John F. Kennedy,15
+37,All the King's Men ,Steven Zaillian,Kate Winslet,8
+38,Chasing Papi ,Linda Mendoza,Carlos Ponce,4
+39,Meteor ,Ronald Neame,Martin Landau,1
+40,Treasure Planet ,Ron Clements,Joseph Gordon-Levitt,3
+41,Total Recall ,Paul Verhoeven,Ronny Cox,2
+42,Ravenous ,Antonia Bird,Jeremy Davies,11
+43,John Q ,Nick Cassavetes,Denzel Washington,8
+45,The Five-Year Engagement ,Nicholas Stoller,Alison Brie,6
+46,The Nutcracker ,Emile Ardolino,Darci Kistler,13
+47,Alien ,Ridley Scott,Tom Skerritt,12
+48,Hannibal Rising ,Peter Webber,Li Gong,10
+49,Automata ,Gabe Ibáñez,Birgitte Hjort Sørensen,8
+50,Galaxy Quest ,Dean Parisot,Alan Rickman,6
+51,Wall Street: Money Never Sleeps ,Oliver Stone,Frank Langella,1
+53,Must Love Dogs ,Gary David Goldberg,Stockard Channing,4
+54,Ernest & Celestine ,Stéphane Aubier,Mackenzie Foy,6
+55,Glee: The 3D Concert Movie ,Kevin Tancharoen,Lea Michele,18
+56,Wonder Boys ,Curtis Hanson,Robert Downey Jr.,1
+57,Legal Eagles ,Ivan Reitman,Brian Dennehy,4
+58,Red Lights ,Rodrigo Cortés,Robert De Niro,8
+59,Aquamarine ,Elizabeth Allen Rosenbaum,Tammin Sursok,6
+60,Hocus Pocus ,Kenny Ortega,Vinessa Shaw,11
+61,Déjà Vu ,Henry Jaglom,Vanessa Redgrave,4
+62,The Blind Side ,John Lee Hancock,Catherine Dyer,1
+63,Speed Racer ,Lana Wachowski,Scott Porter,2
+64,The Importance of Being Earnest ,Oliver Parker,Colin Firth,6
+65,Get on Up ,Tate Taylor,Tika Sumpter,1
+66,Commando ,Mark L. Lester,Bill Duke,8
+67,Loaded Weapon 1 ,Gene Quintano,Jon Lovitz,2
+68,The Gallows ,Travis Cluff,Pfeifer Brown,8
+69,Die Another Day ,Lee Tamahori,Toby Stephens,2
+70,The Apartment ,Billy Wilder,Fred MacMurray,4
+71,Confessions of a Dangerous Mind ,George Clooney,Dick Clark,4
+72,Twister ,Jan de Bont,Philip Seymour Hoffman,2
+73,Gentlemen Broncos ,Jared Hess,Jizelle Jade,7
+74,Devil's Due ,Matt Bettinelli-Olpin,Zach Gilford,12
+75,The Player             ,,Nick Wechsler,2
+76,Tower Heist ,Brett Ratner,Matthew Broderick,10
+77,Night of the Living Dead ,George A. Romero,Judith O'Dea,12
+78,Faith Connections ,Pan Nalin,Bhole Baba,1
+79,Funny Games ,Michael Haneke,Naomi Watts,12
+80,Waterworld ,Kevin Reynolds,Jeanne Tripplehorn,8
+81,Chernobyl Diaries ,Bradley Parker,Jesse McCartney,5
+82,The Prince and Me ,Martha Coolidge,Devin Ratray,6
+83,Monkeybone ,Henry Selick,Brendan Fraser,17
+84,The Expendables 3 ,Patrick Hughes,Jason Statham,2
+85,Peaceful Warrior ,Victor Salva,Scott Mechlowicz,1
+86,Central Intelligence ,Rawson Marshall Thurber,Dwayne Johnson,2
+87,The Bone Collector ,Phillip Noyce,Denzel Washington,8
+88,Rogue             ,,Cole Hauser,2
+89,Haywire ,Steven Soderbergh,Channing Tatum,2
+90,Mad Max Beyond Thunderdome ,George Miller,Tina Turner,7
+91,Hugo ,Martin Scorsese,Chloë Grace Moretz,3
+92,Dragon Hunters ,Guillaume Ivernel,Rob Paulsen,11
+93,Outlander             ,,Tobias Menzies,4
+94,"I Love You, Beth Cooper ",Chris Columbus,Alan Ruck,4
+95,Kill List ,Ben Wheatley,MyAnna Buring,10
+96,Johnny English ,Peter Howitt,Kevin McNally,6
+97,Smokin' Aces ,Joe Carnahan,Ryan Reynolds,10
+98,Killing Zoe ,Roger Avary,Eric Stoltz,10
+99,Bully ,Larry Clark,Kelli Garner,10
+100,Flight of the Phoenix ,John Moore,Dennis Quaid,8
+101,Sin City: A Dame to Kill For ,Frank Miller,Joseph Gordon-Levitt,8
+102,Fantastic 4: Rise of the Silver Surfer ,Tim Story,Chris Evans,7
+103,Shine a Light ,Martin Scorsese,Mick Jagger,14
+104,Frances Ha ,Noah Baumbach,Greta Gerwig,1
+105,Ice Age: Continental Drift ,Steve Martino,Peter Dinklage,17
+106,Teenage Mutant Ninja Turtles III ,Stuart Gillard,Paige Turco,3
+107,Road to Perdition ,Sam Mendes,Tom Hanks,10
+108,The Twilight Saga: Breaking Dawn - Part 2 ,Bill Condon,Robert Pattinson,1
+109,Get Carter ,Stephen Kay,Sylvester Stallone,8
+110,Capricorn One ,Peter Hyams,David Huddleston,8
+111,Life             ,,Adam Arkin,10
+112,Mortal Kombat: Annihilation ,John R. Leonetti,Brian Thompson,8
+113,The Next Three Days ,Paul Haggis,Olivia Wilde,1
+114,Boogeyman ,Stephen Kay,Barry Watson,12
+115,Boiler Room ,Ben Younger,Vin Diesel,8
+116,Furry Vengeance ,Roger Kumble,Brendan Fraser,13
+117,Eternal Sunshine of the Spotless Mind ,Michel Gondry,Kate Winslet,7
+118,The General's Daughter ,Simon West,Daniel von Bargen,5
+119,Antz ,Eric Darnell,Sylvester Stallone,13
+120,Live-In Maid ,Jorge Gaggero,Norma Aleandro,1
+121,Blackthorn ,Mateo Gil,Sam Shepard,2
+122,The Haunting of Molly Hartley ,Mickey Liddell,Jessica Lowndes,12
+123,The Big Short ,Adam McKay,Ryan Gosling,15
+124,Redbelt ,David Mamet,Alice Braga,1
+125,Baby's Day Out ,Patrick Read Johnson,Joe Mantegna,13
+126,The Players Club ,Ice Cube,Bernie Mac,6
+127,Alvin and the Chipmunks: The Road Chip ,Walt Becker,Bella Thorne,11
+128,A Dangerous Method ,David Cronenberg,Michael Fassbender,8
+129,Bodyguards and Assassins ,Teddy Chan,Bingbing Fan,15
+131,Jack the Giant Slayer ,Bryan Singer,Eddie Marsan,3
+132,In & Out ,Frank Oz,Tom Selleck,6
+133,Knowing ,Alex Proyas,Nicolas Cage,1
+134,Aloha ,Cameron Crowe,Emma Stone,1
+135,Punisher: War Zone ,Lexi Alexander,Julie Benz,10
+136,The Perfect Man ,Mark Rosman,Ben Feldman,4
+138,Spotlight ,Tom McCarthy,Billy Crudup,15
+139,Hoot ,Wil Shriner,Logan Lerman,13
+141,Australia ,Baz Luhrmann,Essie Davis,1
+142,The Adventures of Rocky & Bullwinkle ,Des McAnuff,Robert De Niro,11
+144,Timeline ,Richard Donner,Paul Walker,3
+145,The Possession ,Ole Bornedal,Kyra Sedgwick,8
+146,Dope ,Rick Famuyiwa,Kimberly Elise,10
+147,Eye for an Eye ,John Schlesinger,Joe Mantegna,10
+148,Penguins of Madagascar ,Eric Darnell,Benedict Cumberbatch,3
+149,A Lonely Place to Die ,Julian Gilbey,Ed Speleers,2
+150,Hit and Run ,David Palmer,Bradley Cooper,6
+151,L'auberge espagnole ,Cédric Klapisch,Romain Duris,1
+153,Striptease ,Andrew Bergman,Demi Moore,6
+154,The Cave ,Bruce Hunt,Eddie Cibrian,3
+155,Heaven Is for Real ,Randall Wallace,Jacob Vargas,14
+156,Parker ,Taylor Hackford,Jason Statham,10
+157,Small Apartments ,Jonas Åkerlund,Noel Gugliemi,10
+158,City Hall ,Harold Becker,Al Pacino,8
+159,Orphan ,Jaume Collet-Serra,Jimmy Bennett,8
+160,Henry V ,Kenneth Branagh,Brian Blessed,14
+161,Shrek 2 ,Andrew Adamson,Rupert Everett,13
+162,Austin Powers: The Spy Who Shagged Me ,Jay Roach,Muse Watson,10
+163,The Santa Clause ,John Pasquin,Judge Reinhold,1
+164,Spun ,Jonas Åkerlund,Patrick Fugit,10
+165,12 Monkeys             ,,Amanda Schull,7
+166,There Will Be Blood ,Paul Thomas Anderson,Jim Meskimen,1
+167,Olympus Has Fallen ,Antoine Fuqua,Gerard Butler,2
+168,Legend of the Guardians: The Owls of Ga'Hoole ,Zack Snyder,Abbie Cornish,2
+169,Dear Wendy ,Thomas Vinterberg,Michael Angarano,1
+170,My Super Ex-Girlfriend ,Ivan Reitman,Rainn Wilson,7
+171,Little Black Book ,Nick Hurran,Holly Hunter,1
+172,Nacho Libre ,Jared Hess,Ana de la Reguera,13
+173,Rock of Ages ,Adam Shankman,James Martin Kelly,6
+174,She Done Him Wrong ,Lowell Sherman,Mae West,9
+175,Buried ,Rodrigo Cortés,Ryan Reynolds,8
+176,The Edge ,Lee Tamahori,Anthony Hopkins,2
+177,Superman Returns ,Bryan Singer,Kevin Spacey,7
+178,Space Cowboys ,Clint Eastwood,Clint Eastwood,3
+179,The Torture Chamber of Dr. Sadism ,Harald Reinl,Christopher Lee,12
+180,Inside Job ,Charles Ferguson,Matt Damon,10
+181,Winter in Wartime ,Martin Koolhoven,Yorick van Wageningen,1
+182,The Informers ,Gregor Jordan,Austin Nichols,8
+183,Sicario ,Denis Villeneuve,Edgar Arreola,8
+184,Oculus ,Mike Flanagan,James Lafferty,5
+185,500 Days of Summer ,Marc Webb,Joseph Gordon-Levitt,6
+186,Dr. No ,Terence Young,Ursula Andress,2
+187,Trash ,Stephen Daldry,Wagner Moura,1
+188,Final Destination 5 ,Steven Quale,Emma Bell,12
+189,Eat Pray Love ,Ryan Murphy,James Franco,4
+190,2001: A Space Odyssey ,Stanley Kubrick,Keir Dullea,3
+191,Without Limits ,Robert Towne,Billy Burke,1
+192,Duma ,Carroll Ballard,Eamonn Walker,3
+193,The Prince of Tides ,Barbra Streisand,George Carlin,1
+194,Griff the Invisible ,Leon Ford,Maeve Dermody,1
+195,Alive ,Frank Marshall,Illeana Douglas,14
+196,Sleep Tight ,Jaume Balagueró,Luis Tosar,1
+197,Oblivion ,Joseph Kosinski,Morgan Freeman,5
+198,Thank You for Smoking ,Jason Reitman,J.K. Simmons,1
+199,White Chicks ,Keenen Ivory Wayans,Busy Philipps,6
+200,Amen. ,Costa-Gavras,Sebastian Koch,10
+201,Space Chimps ,Kirk De Micco,Cheryl Hines,17
+202,Hannah Montana: The Movie ,Peter Chelsom,Emily Osment,13
+203,The King's Speech ,Tom Hooper,Colin Firth,1
+204,Gun Shy ,Eric Blakeney,Liam Neeson,4
+205,Fast Five ,Justin Lin,Paul Walker,10
+206,Days of Heaven ,Terrence Malick,Sam Shepard,4
+207,Arthur and the Invisibles ,Luc Besson,Mia Farrow,11
+208,My Name Is Bruce ,Bruce Campbell,Ted Raimi,11
+209,Trust the Man ,Bart Freundlich,Billy Crudup,6
+210,Zero Effect ,Jake Kasdan,Kim Dickens,6
+211,Man on a Ledge ,Asger Leth,Robert Clohessy,2
+212,The Brain That Sings ,Amal Al-Agroobi,,18
+213,3 Men and a Baby ,Leonard Nimoy,Tom Selleck,1
+214,Winter's Tale ,Akiva Goldsman,Matt Bomer,1
+215,Kangaroo Jack ,David McNally,Estella Warren,2
+216,Little Shop of Horrors ,Frank Oz,Bill Murray,9
+217,The Legend of Suriyothai ,Chatrichalerm Yukol,Sarunyu Wongkrachang,1
+218,Return to the Blue Lagoon ,William A. Graham,Milla Jovovich,3
+219,The Rock ,Michael Bay,Nicolas Cage,8
+220,Red Dragon ,Brett Ratner,Philip Seymour Hoffman,1
+221,Fantastic Four ,Josh Trank,Tim Blake Nelson,3
+222,House of Sand ,Andrucha Waddington,Fernanda Montenegro,1
+223,Train ,Gideon Raff,Gideon Emery,8
+224,Iron Man ,Jon Favreau,Robert Downey Jr.,2
+225,Hoodwinked Too! Hood vs. Evil ,Mike Disa,Amy Poehler,13
+226,The Road ,John Hillcoat,Viggo Mortensen,3
+227,8 Mile ,Curtis Hanson,Mekhi Phifer,1
+228,Get on the Bus ,Spike Lee,Bernie Mac,1
+229,[Rec] ,Jaume Balagueró,Manuela Velasco,12
+230,Harper ,Jack Smight,Janet Leigh,5
+231,Duel in the Sun ,King Vidor,Joseph Cotten,16
+232,Chain Letter ,Deon Taylor,Matt Cohen,8
+233,Mary Poppins ,Robert Stevenson,Ed Wynn,6
+234,The Interpreter ,Sydney Pollack,Curtiss Cook,5
+235,Rang De Basanti ,Rakeysh Omprakash Mehra,Anupam Kher,15
+236,Transporter 2 ,Louis Leterrier,Jason Statham,2
+237,A Walk Among the Tombstones ,Scott Frank,Liam Neeson,10
+239,Arthur             ,,Bruce Dinsmore,6
+240,Paranormal Activity 2 ,Tod Williams,Sprague Grayden,12
+241,The Martian ,Ridley Scott,Matt Damon,7
+242,White Squall ,Ridley Scott,Jeff Bridges,3
+243,Random Hearts ,Sydney Pollack,Harrison Ford,1
+245,Home for the Holidays ,Jodie Foster,Robert Downey Jr.,4
+246,Enemy at the Gates ,Jean-Jacques Annaud,Bob Hoskins,1
+247,Winnie the Pooh ,Stephen J. Anderson,Craig Ferguson,9
+248,Woo ,Daisy von Scherler Mayer,LL Cool J,6
+249,Spaced Invaders ,Patrick Read Johnson,Ariana Richards,6
+250,In the Name of the King: A Dungeon Siege Tale ,Uwe Boll,Jason Statham,3
+251,The Return of the Pink Panther ,Blake Edwards,Burt Kwouk,10
+252,Another Happy Day ,Sam Levinson,George Kennedy,1
+253,Annie ,Will Gluck,Quvenzhané Wallis,9
+254,Silver Medallist ,Hao Ning,Jack Kao,2
+255,Heartbeeps ,Allan Arkush,Bernadette Peters,7
+256,Fat Albert ,Joel Zwick,Dania Ramirez,6
+257,Gulliver's Travels ,Rob Letterman,James Corden,3
+258,The Words ,Brian Klugman,J.K. Simmons,5
+259,Beverly Hills Chihuahua ,Raja Gosnell,Jamie Lee Curtis,13
+260,Death Sentence ,James Wan,Aisha Tyler,8
+261,I Spy ,Betty Thomas,Gary Cole,6
+262,Breakin' All the Rules ,Daniel Taplitz,Jennifer Esposito,4
+263,The Prophecy ,Gregory Widen,Viggo Mortensen,11
+264,The Santa Clause 2 ,Michael Lembeck,Judge Reinhold,11
+265,The Last King of Scotland ,Kevin Macdonald,David Oyelowo,15
+266,The Black Dahlia ,Brian De Palma,Scarlett Johansson,10
+267,The Black Stallion ,Carroll Ballard,Teri Garr,13
+268,Florence Foster Jenkins ,Stephen Frears,Meryl Streep,14
+269,The Ridges ,Brandon Landers,Robbie Barnes,8
+270,The O.C.             ,,Peter Gallagher,1
+271,The Client ,Joel Schumacher,Bradley Whitford,10
+272,Criminal ,Ariel Vromen,Gary Oldman,2
+273,Rules of Engagement             ,,Bianca Kajlich,4
+274,Benji ,Joe Camp,Frances Bavier,13
+275,The Second Mother ,Anna Muylaert,Alex Huszar,6
+276,Cypher ,Vincenzo Natali,David Hewlett,4
+277,Lolita ,Stanley Kubrick,James Mason,1
+278,Jersey Boys ,Clint Eastwood,Johnny Cannizzaro,9
+279,The Day the Earth Stood Still ,Scott Derrickson,Keanu Reeves,1
+280,Blindness ,Fernando Meirelles,Don McKellar,1
+281,Luminarias ,José Luis Valenzuela,Cheech Marin,6
+283,Madea's Family Reunion ,Tyler Perry,Boris Kodjoe,4
+284,The Prince of Egypt ,Brenda Chapman,Martin Short,14
+285,My Girl ,Howard Zieff,Macaulay Culkin,6
+286,Warlock ,Steve Miner,Julian Sands,2
+287,The Joneses ,Derrick Borte,Demi Moore,6
+288,Safety Not Guaranteed ,Colin Trevorrow,Mary Lynn Rajskub,6
+289,Blackhat ,Michael Mann,Chris Hemsworth,2
+290,The Beach ,Danny Boyle,Leonardo DiCaprio,3
+291,Little Nicholas ,Laurent Tirard,Louise Bourgoin,6
+292,The Island ,Michael Bay,Scarlett Johansson,3
+293,The Work and the Glory II: American Zion ,Sterling Van Wagenen,Emily Podleski,1
+294,V for Vendetta ,James McTeigue,Natalie Portman,8
+295,The Velocity of Gary ,Dan Ireland,Salma Hayek,4
+296,The Italian Job ,F. Gary Gray,Jason Statham,2
+297,Infamous ,Douglas McGrath,Toby Jones,10
+298,Tristram Shandy: A Cock and Bull Story ,Michael Winterbottom,Steve Coogan,6
+299,Dodgeball: A True Underdog Story ,Rawson Marshall Thurber,Gary Cole,6
+300,Stone ,John Curran,Robert De Niro,8
+301,Guardians of the Galaxy ,James Gunn,Bradley Cooper,3
+302,Womb ,Benedek Fliegauf,Eva Green,4
+303,"Hail, Caesar! ",Ethan Coen,Scarlett Johansson,5
+304,Imagine Me & You ,Ol Parker,Celia Imrie,4
+305,You Can't Take It with You ,Frank Capra,Jean Arthur,6
+306,Yeh Jawaani Hai Deewani ,Ayan Mukerji,Ranbir Kapoor,4
+307,"The Good, the Bad, the Weird ",Jee-woon Kim,Kang-ho Song,16
+308,Robots ,Chris Wedge,Jim Broadbent,6
+309,Lady in the Water ,M. Night Shyamalan,Bryce Dallas Howard,11
+310,Don't Say a Word ,Gary Fleder,Oliver Platt,8
+311,Escape from New York ,John Carpenter,Donald Pleasence,2
+312,"Mystery, Alaska ",Jay Roach,Scott Grimes,1
+313,March or Die ,Dick Richards,Catherine Deneuve,4
+314,Homefront ,Gary Fleder,Jason Statham,10
+315,Isn't She Great ,Andrew Bergman,Stockard Channing,14
+316,Lonesome Jim ,Steve Buscemi,Kevin Corrigan,1
+317,The Horse Boy ,Michel Orion Scott,Temple Grandin,18
+318,Neighbors 2: Sorority Rising ,Nicholas Stoller,Chloë Grace Moretz,6
+319,The Hateful Eight ,Quentin Tarantino,Craig Stark,5
+320,Halloween: The Curse of Michael Myers ,Joe Chappelle,Donald Pleasence,12
+321,Kung Fu Panda 2 ,Jennifer Yuh Nelson,Angelina Jolie Pitt,2
+322,Lilo & Stitch ,Dean DeBlois,Tia Carrere,1
+323,Miss March ,Zach Cregger,Hugh M. Hefner,6
+324,A Beginner's Guide to Snuff ,Mitchell Altieri,Kimberley Crossman,8
+325,Summer of Sam ,Spike Lee,Mira Sorvino,10
+326,Snakes on a Plane ,David R. Ellis,Lin Shaye,2
+327,Killer Joe ,William Friedkin,Matthew McConaughey,8
+328,Soul Survivors ,Stephen Carpenter,Melissa Sagemiller,1
+329,Sunday School Musical ,Rachel Goldenberg,Dustin Fitzsimons,9
+330,Cry_Wolf ,Jeff Wadlow,Julian Morris,1
+331,Domino ,Tony Scott,Ian Ziering,10
+332,Happy Feet 2 ,George Miller,Robin Williams,17
+335,Pompeii ,Paul W.S. Anderson,Sasha Roiz,2
+336,East Is East ,Damien O'Donnell,Archie Panjabi,1
+337,Beyond Borders ,Martin Campbell,Angelina Jolie Pitt,4
+338,Ramona and Beezus ,Elizabeth Allen Rosenbaum,Sierra McCormick,13
+339,Undisputed ,Walter Hill,Fisher Stevens,1
+340,Winter Passing ,Adam Rapp,Zooey Deschanel,1
+341,The Express ,Gary Fleder,Dennis Quaid,14
+342,The Wedding Date ,Clare Kilner,Jack Davenport,6
+343,Captain Alatriste: The Spanish Musketeer ,Agustín Díaz Yanes,Viggo Mortensen,8
+344,Woodstock ,Michael Wadleigh,Joe Cocker,15
+345,21 Jump Street ,Phil Lord,Channing Tatum,6
+346,Black November ,Jeta Amata,Akon,1
+347,Heroes             ,,Sendhil Ramamurthy,7
+348,Underworld: Rise of the Lycans ,Patrick Tatopoulos,Craig Parker,2
+349,Shark Tale ,Bibo Bergeron,Robert De Niro,6
+350,Diary of a Wimpy Kid: Dog Days ,David Bowers,Zachary Gordon,13
+351,They ,Robert Harmon,Alexander Gould,8
+352,Hereafter ,Clint Eastwood,Matt Damon,1
+353,Poltergeist III ,Gary Sherman,Tom Skerritt,8
+354,The Lazarus Effect ,David Gelb,Olivia Wilde,12
+355,Whiplash ,Damien Chazelle,J.K. Simmons,1
+356,National Treasure ,Jon Turteltaub,Nicolas Cage,2
+357,Shallow Hal ,Bobby Farrelly,Jason Alexander,6
+358,The Banger Sisters ,Bob Dolman,Erika Christensen,6
+359,CJ7 ,Stephen Chow,Jiao Xu,7
+360,Nothing But a Man ,Michael Roemer,Yaphet Kotto,1
+361,Mission: Impossible - Rogue Nation ,Christopher McQuarrie,Tom Cruise,3
+362,Scarface ,Brian De Palma,Al Pacino,1
+363,Saw VI ,Kevin Greutert,Costas Mandylor,5
+364,Taxman ,Avi Nesher,Fisher Stevens,10
+365,Get Him to the Greek ,Nicholas Stoller,Pink,6
+366,"20,000 Leagues Under the Sea ",Richard Fleischer,James Mason,7
+367,Hop ,Tim Hill,Gary Cole,13
+368,Dead Man's Shoes ,Shane Meadows,Paddy Considine,10
+369,Hoodwinked! ,Cory Edwards,Anne Hathaway,17
+370,Lady Vengeance ,Chan-wook Park,Min-sik Choi,1
+371,Who Killed the Electric Car? ,Chris Paine,Ed Begley Jr.,18
+372,Sweet Sweetback's Baadasssss Song ,Melvin Van Peebles,John Amos,1
+374,Tales from the Crypt: Demon Knight ,Ernest R. Dickerson,CCH Pounder,12
+375,Monsters vs. Aliens ,Rob Letterman,Amy Poehler,3
+376,A Few Good Men ,Rob Reiner,Tom Cruise,8
+377,Get Real             ,,Anne Hathaway,1
+378,The Incredibly True Adventure of Two Girls in Love ,Maria Maggenti,Nicole Ari Parker,6
+379,The Fault in Our Stars ,Josh Boone,Shailene Woodley,1
+380,The Iron Giant ,Brad Bird,Vin Diesel,3
+381,The Wolverine ,James Mangold,Hugh Jackman,8
+382,Alpha and Omega 4: The Legend of the Saw Toothed Cave ,Richard Rich,Debi Derryberry,8
+383,The Pink Panther ,Shawn Levy,Roger Rees,5
+384,Mississippi Mermaid ,François Truffaut,Catherine Deneuve,1
+385,Kill the Messenger ,Michael Cuesta,Jeremy Renner,10
+386,Burlesque ,Steve Antin,Eric Dane,9
+387,Brothers ,Jim Sheridan,Natalie Portman,1
+388,The Lost Weekend ,Billy Wilder,Ray Milland,1
+389,The Conjuring ,James Wan,Mackenzie Foy,8
+390,Survivor ,James McTeigue,Milla Jovovich,2
+391,Dark Water ,Walter Salles,Dougray Scott,8
+393,King Kong ,Peter Jackson,Naomi Watts,2
+394,Hollow Man ,Paul Verhoeven,Greg Grunberg,12
+395,Joyeux Noel ,Christian Carion,Gary Lewis,1
+396,Herbie Fully Loaded ,Angela Robinson,Scoot McNairy,13
+397,Exam ,Stuart Hazeldine,Colin Salmon,5
+398,Raising Victor Vargas ,Peter Sollett,Victor Rasuk,1
+399,The Adventures of Huck Finn ,Stephen Sommers,Curtis Armstrong,1
+400,Creepshow 2 ,Michael Gornick,George Kennedy,6
+401,Treachery ,Travis Romero,Matthew Ziff,8
+402,For Your Consideration ,Christopher Guest,John Michael Higgins,6
+403,Gangster Squad ,Ruben Fleischer,Ryan Gosling,1
+404,Shaun of the Dead ,Edgar Wright,Peter Serafinowicz,6
+406,Wicker Park ,Paul McGuigan,Jessica Paré,8
+407,Small Time Crooks ,Woody Allen,Woody Allen,6
+408,The Faculty ,Robert Rodriguez,Jordana Brewster,5
+409,Dr. Dolittle 2 ,Steve Carr,Raven-Symoné,11
+410,Mama ,Andrés Muschietti,Javier Botet,11
+411,Remember the Titans ,Boaz Yakin,Ryan Gosling,14
+412,Get Over It ,Tommy O'Haver,Mila Kunis,4
+413,Hatchet ,Adam Green,Joel David Moore,6
+414,Jesse             ,,Eric Lloyd,6
+415,Super 8 ,J.J. Abrams,Joel Courtney,8
+416,Some Guy Who Kills People ,Jack Perez,Kevin Corrigan,8
+417,Beyond the Lights ,Gina Prince-Bythewood,Minnie Driver,1
+418,A Haunted House ,Michael Tiddes,Essence Atkins,11
+419,Chain Reaction ,Andrew Davis,Keanu Reeves,1
+420,Kids ,Larry Clark,Rosario Dawson,1
+421,Dinner Rush ,Bob Giraldi,Danny Aiello,1
+422,Made ,Jon Favreau,Jon Favreau,6
+423,Only the Strong ,Sheldon Lettich,Antoni Corone,2
+424,Superbabies: Baby Geniuses 2 ,Bob Clark,Scott Baio,6
+425,South Park: Bigger Longer & Uncut ,Trey Parker,Minnie Driver,6
+427,Crocodile Dundee ,Peter Faiman,Paul Hogan,3
+429,Clear and Present Danger ,Phillip Noyce,Harrison Ford,1
+430,Live Free or Die Hard ,Len Wiseman,Bruce Willis,2
+431,The Boondock Saints II: All Saints Day ,Troy Duffy,Norman Reedus,10
+432,The International ,Tom Tykwer,Naomi Watts,5
+433,The Green Inferno ,Eli Roth,Daryl Sabara,12
+434,Anatomy ,Stefan Ruzowitzky,Benno Fürmann,12
+435,Mulan ,Tony Bancroft,Ming-Na Wen,11
+436,Boom Town ,Jack Conway,Hedy Lamarr,4
+437,Why Did I Get Married Too? ,Tyler Perry,Michael Jai White,6
+438,Dark Shadows ,Tim Burton,Johnny Depp,12
+439,Just Like Heaven ,Mark Waters,Jon Heder,6
+440,Evan Almighty ,Tom Shadyac,Jimmy Bennett,11
+441,"Paris, je t'aime ",Olivier Assayas,Steve Buscemi,1
+442,Freddy vs. Jason ,Ronny Yu,Katharine Isabelle,8
+443,Crank: High Voltage ,Mark Neveldine,Jason Statham,8
+444,The Replacement Killers ,Antoine Fuqua,Mira Sorvino,8
+445,Paint Your Wagon ,Joshua Logan,Clint Eastwood,6
+446,Mortdecai ,David Koepp,Johnny Depp,2
+447,The Jacket ,John Maybury,Jennifer Jason Leigh,8
+448,Split Second ,Tony Maylam,Michael J. Pollard,2
+449,Star Trek Into Darkness ,J.J. Abrams,Benedict Cumberbatch,3
+450,Grindhouse ,Robert Rodriguez,Quentin Tarantino,2
+451,Star Wars: Episode VI - Return of the Jedi ,Richard Marquand,Harrison Ford,3
+452,The Wraith ,Mike Marvin,Clint Howard,12
+453,The Village ,M. Night Shyamalan,Bryce Dallas Howard,5
+454,Open Season ,Roger Allers,Jon Favreau,13
+455,The Finest Hours ,Craig Gillespie,Michael Raymond-James,2
+456,Anderson's Cross ,Jerome Elston Scott,Taran Killam,4
+457,Arlington Road ,Mark Pellington,Jeff Bridges,1
+459,Rapa Nui ,Kevin Reynolds,Esai Morales,2
+460,Chasing Amy ,Kevin Smith,Matt Damon,4
+461,Airborne ,Rob Bowman,Alanna Ubach,6
+462,Wyatt Earp ,Lawrence Kasdan,Dennis Quaid,10
+463,The Diving Bell and the Butterfly ,Julian Schnabel,Emmanuelle Seigner,1
+464,Virtuosity ,Brett Leonard,Denzel Washington,2
+465,The Girl Next Door ,Luke Greenfield,Chris Marquette,6
+466,Death Race ,Paul W.S. Anderson,Jason Statham,7
+467,Me Before You ,Thea Sharrock,Sam Claflin,1
+468,Delgo ,Marc F. Adler,Eric Idle,4
+469,Cinderella ,Kenneth Branagh,Hayley Atwell,1
+470,Bronson ,Nicolas Winding Refn,Tom Hardy,2
+471,Terminator Genisys ,Alan Taylor,J.K. Simmons,3
+472,Goosebumps ,Rob Letterman,Odeya Rush,3
+473,Everyone Says I Love You ,Woody Allen,Natasha Lyonne,6
+474,The Devil's Own ,Alan J. Pakula,Harrison Ford,1
+475,Jason Goes to Hell: The Final Friday ,Adam Marcus,Kane Hodder,11
+476,The Neon Demon ,Nicolas Winding Refn,Keanu Reeves,12
+477,The Rugrats Movie ,Igor Kovalyov,Elizabeth Daily,13
+478,Shattered ,Mike Barker,Gerard Butler,10
+479,Aqua Teen Hunger Force Colon Movie Film for Theaters ,Matt Maiellaro,Tina Fey,3
+480,She's Gotta Have It ,Spike Lee,S. Epatha Merkerson,4
+481,TRON: Legacy ,Joseph Kosinski,Jeff Bridges,3
+482,How to Train Your Dragon 2 ,Dean DeBlois,Gerard Butler,11
+483,Frequency ,Gregory Hoblit,Dennis Quaid,7
+484,Escape from L.A. ,John Carpenter,Steve Buscemi,7
+485,Absolute Power ,Clint Eastwood,Clint Eastwood,2
+486,School for Scoundrels ,Todd Phillips,Jon Heder,6
+487,X-Men: Days of Future Past ,Bryan Singer,Jennifer Lawrence,11
+488,Trollhunter ,André Øvredal,Otto Jespersen,6
+489,The Work and the Story ,Nathan Smith Jones,Richard Moll,6
+490,16 to Life ,Becky Smith,Will Rothhaar,6
+491,Swimming Pool ,François Ozon,Charlotte Rampling,5
+492,The Blues Brothers ,John Landis,John Belushi,10
+493,Ruby in Paradise ,Victor Nunez,Allison Dean,4
+494,District B13 ,Pierre Morel,David Belle,8
+495,Grace of Monaco ,Olivier Dahan,Paz Vega,1
+496,Club Dread ,Jay Chandrasekhar,Brittany Daniel,8
+497,Boys Don't Cry ,Kimberly Peirce,Alicia Goranson,1
+498,Red Riding: In the Year of Our Lord 1974 ,Julian Jarrold,Andrew Garfield,8
+499,Cecil B. DeMented ,John Waters,Alicia Witt,6
+500,Star Trek ,J.J. Abrams,Chris Hemsworth,2
+501,Conan the Barbarian ,John Milius,William Smith,3
+502,Valiant ,Gary Chapman,Jim Broadbent,3
+503,Frailty ,Bill Paxton,Matthew McConaughey,8
+504,The Secret Life of Pets ,Yarrow Cheney,Steve Coogan,6
+505,The Day After Tomorrow ,Roland Emmerich,Jake Gyllenhaal,7
+506,A Nightmare on Elm Street 4: The Dream Master ,Renny Harlin,Tuesday Knight,12
+507,Cloudy with a Chance of Meatballs 2 ,Cody Cameron,Will Forte,6
+508,Inception ,Christopher Nolan,Leonardo DiCaprio,2
+509,Collateral Damage ,Andrew Davis,Raymond Cruz,2
+510,The Wiz ,Sidney Lumet,Lena Horne,3
+511,Bobby Jones: Stroke of Genius ,Rowdy Herrington,Aidan Quinn,14
+512,Pokémon 3: The Movie ,Kunihiko Yuyama,Veronica Taylor,11
+513,High School Musical ,Kenny Ortega,Lucas Grabeel,1
+514,Kiss the Bride ,C. Jay Cox,Tori Spelling,4
+515,Ted ,Seth MacFarlane,Mila Kunis,6
+516,The Business of Strangers ,Patrick Stettner,Stockard Channing,1
+517,The Green Mile ,Frank Darabont,Tom Hanks,1
+518,Runaway Bride ,Garry Marshall,Julia Roberts,6
+519,Hearts in Atlantis ,Scott Hicks,Anthony Hopkins,1
+520,In Good Company ,Paul Weitz,Scarlett Johansson,1
+521,Sabotage ,David Ayer,Mireille Enos,1
+522,Daddy Day Care ,Steve Carr,Anjelica Huston,13
+523,The Wailing ,Hong-jin Na,Jung-min Hwang,11
+524,All About Steve ,Phil Traill,Bradley Cooper,4
+525,Bobby ,Emilio Estevez,Anthony Hopkins,15
+526,The Square ,Jehane Noujaim,Khalid Abdalla,15
+527,The 40-Year-Old Virgin ,Judd Apatow,Steve Carell,6
+528,16 Blocks ,Richard Donner,Bruce Willis,8
+529,Down for Life ,Alan Jacobs,Snoop Dogg,1
+530,Fun with Dick and Jane ,Dean Parisot,John Michael Higgins,10
+531,Knocked Up ,Judd Apatow,Harold Ramis,6
+532,Hotel Transylvania ,Genndy Tartakovsky,Steve Buscemi,17
+533,The Assassination of Jesse James by the Coward Robert Ford ,Andrew Dominik,Brad Pitt,14
+534,The Medallion ,Gordon Chan,Julian Sands,6
+535,Harriet the Spy ,Bronwen Hughes,Gregory Smith,13
+536,Surf's Up ,Ash Brannon,Jeff Bridges,17
+537,Nighthawks ,Bruce Malmuth,Sylvester Stallone,10
+538,Fifty Shades of Grey ,Sam Taylor-Johnson,Jennifer Ehle,4
+539,ZMD: Zombies of Mass Destruction ,Kevin Hamedani,Russell Hodgkinson,7
+540,The Fast and the Furious ,Rob Cohen,Paul Walker,10
+541,Eye See You ,Jim Gillespie,Sylvester Stallone,8
+542,Walter ,Anna Mastro,Leven Rambin,1
+543,The Book of Eli ,Albert Hughes,Denzel Washington,1
+544,Madea's Witness Protection ,Tyler Perry,John Amos,10
+545,How Do You Know ,James L. Brooks,Shelley Conn,4
+546,A Million Ways to Die in the West ,Seth MacFarlane,Liam Neeson,6
+547,Friends with Money ,Nicole Holofcener,Greg Germann,1
+548,The House Bunny ,Fred Wolf,Emma Stone,4
+549,The Twilight Saga: Eclipse ,David Slade,Robert Pattinson,11
+550,A Charlie Brown Christmas ,Bill Melendez,Peter Robbins,17
+551,A Low Down Dirty Shame ,Keenen Ivory Wayans,Jada Pinkett Smith,2
+552,Dawn of the Crescent Moon ,Kirk Loudon,Barry Corbin,1
+553,The Man from Earth ,Richard Schenkman,William Katt,7
+554,WALL·E ,Andrew Stanton,John Ratzenberger,17
+556,Gravity ,Alfonso Cuarón,Phaldut Sharma,1
+557,The Sorcerer's Apprentice ,Jon Turteltaub,Nicolas Cage,11
+558,Firefox ,Clint Eastwood,Clint Eastwood,8
+559,Vampire Killers ,Phil Claydon,MyAnna Buring,2
+560,RED 2 ,Dean Parisot,Bruce Willis,2
+561,Alien 3 ,David Fincher,Charles S. Dutton,2
+562,Garfield ,Peter Hewitt,Bill Murray,17
+563,Quest for Fire ,Jean-Jacques Annaud,Rae Dawn Chong,1
+564,Diary of a Wimpy Kid ,Thor Freudenthal,Chloë Grace Moretz,13
+565,Jason X ,James Isaac,Peter Mensah,8
+566,The Algerian ,Giovanni Zelko,Zuhair Haddad,4
+567,Transformers ,Michael Bay,Zack Ward,7
+568,Saving Silverman ,Dennis Dugan,Amanda Detmer,6
+569,Captain America: The Winter Soldier ,Anthony Russo,Scarlett Johansson,3
+570,American Heist ,Sarik Andreasyan,Hayden Christensen,2
+571,A Madea Christmas ,Tyler Perry,Alicia Witt,6
+572,The Pelican Brief ,Alan J. Pakula,Denzel Washington,1
+573,Good Dick ,Marianna Palka,Bryce Dallas Howard,1
+574,Sweet November ,Pat O'Connor,Keanu Reeves,4
+575,Bringing Out the Dead ,Martin Scorsese,Nicolas Cage,8
+576,300 ,Zack Snyder,Gerard Butler,2
+577,Heist ,Scott Mann,Robert De Niro,2
+578,Pootie Tang ,Louis C.K.,Wanda Sykes,2
+579,The Adventures of Ford Fairlane ,Renny Harlin,Lauren Holly,2
+580,United 93 ,Paul Greengrass,Christian Clemenson,15
+581,Night at the Museum: Secret of the Tomb ,Shawn Levy,Robin Williams,11
+582,Malcolm X ,Spike Lee,Denzel Washington,14
+583,Transformers: Revenge of the Fallen ,Michael Bay,Glenn Morshower,3
+584,Pride and Prejudice and Zombies ,Burr Steers,Matt Smith,12
+585,From Russia with Love ,Terence Young,Robert Shaw,2
+586,Trance ,Danny Boyle,Rosario Dawson,10
+587,We Need to Talk About Kevin ,Lynne Ramsay,Ezra Miller,8
+588,Black Snake Moan ,Craig Brewer,Justin Timberlake,1
+590,Among Giants ,Sam Miller,Rachel Griffiths,6
+591,RoboCop 3 ,Fred Dekker,CCH Pounder,10
+592,End of Watch ,David Ayer,Jake Gyllenhaal,8
+593,The Spirit ,Frank Miller,Scarlett Johansson,2
+594,In Time ,Andrew Niccol,Matt Bomer,2
+595,The Yards ,James Gray,Charlize Theron,10
+596,The 6th Day ,Roger Spottiswoode,Robert Duvall,8
+597,21 Grams ,Alejandro G. Iñárritu,Naomi Watts,1
+598,Bee Movie ,Steve Hickner,Matthew Broderick,3
+599,The Usual Suspects ,Bryan Singer,Kevin Spacey,5
+600,Independence Day: Resurgence ,Roland Emmerich,Vivica A. Fox,3
+601,In Bruges ,Martin McDonagh,Elizabeth Berrington,6
+602,Captive ,Jerry Jameson,David Oyelowo,1
+603,Let Me In ,Matt Reeves,Chloë Grace Moretz,11
+604,Donnie Brasco ,Mike Newell,Johnny Depp,10
+605,Say It Isn't So ,J.B. Rogers,Eddie Cibrian,6
+606,George and the Dragon ,Tom Reeve,Joan Plowright,6
+607,The Names of Love ,Michel Leclerc,Sara Forestier,1
+608,The Hoax ,Lasse Hallström,Hope Davis,6
+609,Preacher             ,,Dominic Cooper,3
+610,Star Wars: Episode II - Attack of the Clones ,George Lucas,Natalie Portman,7
+611,The Constant Gardener ,Fernando Meirelles,Archie Panjabi,4
+612,License to Wed ,Ken Kwapis,Robin Williams,6
+613,Frankenweenie ,Tim Burton,Martin Landau,12
+614,There's Something About Mary ,Bobby Farrelly,Sarah Silverman,4
+615,Birth ,Jonathan Glazer,Cameron Bright,1
+616,Summer Storm ,Marco Kreuzpaintner,Alicja Bachleda,1
+617,Untraceable ,Gregory Hoblit,Billy Burke,10
+618,Flushed Away ,David Bowers,Hugh Jackman,17
+619,Knock Off ,Hark Tsui,Paul Sorvino,8
+620,House Party 2 ,George Jackson,William Schallert,1
+621,Warlock: The Armageddon ,Anthony Hickox,Julian Sands,12
+622,Dragon Blade ,Daniel Lee,Si Won Choi,3
+623,Harry Potter and the Goblet of Fire ,Mike Newell,Robert Pattinson,11
+625,She's All That ,Robert Iscove,Paul Walker,6
+626,The Manchurian Candidate ,Jonathan Demme,Denzel Washington,1
+627,Johnny Suede ,Tom DiCillo,Brad Pitt,4
+628,Dream House ,Jim Sheridan,Naomi Watts,5
+629,The Woman in Black ,James Watkins,Daniel Radcliffe,1
+630,Seed of Chucky ,Don Mancini,Jason Flemyng,6
+631,Brighton Rock ,Rowan Joffe,Sam Riley,10
+632,Shall We Dance ,Peter Chelsom,Lisa Ann Walter,6
+633,The Texas Chain Saw Massacre ,Tobe Hooper,Gunnar Hansen,8
+634,Tidal Wave ,JK Youn,Nicole Dionne,2
+635,Animal Kingdom: Let's go Ape ,Jamel Debbouze,Jamel Debbouze,13
+636,Music and Lyrics ,Marc Lawrence,Brad Garrett,6
+637,The Brothers McMullen ,Edward Burns,Shari Albert,6
+638,Spartacus: War of the Damned             ,,Peter Mensah,15
+639,One True Thing ,Carl Franklin,Meryl Streep,1
+640,The Brothers ,Gary Hardwick,Julie Benz,1
+641,The Man from Snowy River ,George Miller,Tony Bonner,13
+642,The Horse Whisperer ,Robert Redford,Scarlett Johansson,16
+643,Beautiful Creatures ,Richard LaGravenese,Alden Ehrenreich,11
+644,Sex Tape ,Jake Kasdan,James Wilcox,6
+645,X-Men: The Last Stand ,Brett Ratner,Hugh Jackman,2
+646,The Hunted ,William Friedkin,Connie Nielsen,10
+647,The Raven ,James McTeigue,Pam Ferris,5
+648,A Serious Man ,Ethan Coen,Michael Stuhlbarg,6
+649,The Scarlet Letter ,Roland Joffé,Gary Oldman,4
+650,Stuart Little 2 ,Rob Minkoff,Nathan Lane,11
+651,The Hobbit: The Desolation of Smaug ,Peter Jackson,Aidan Turner,3
+652,Lies in Plain Sight ,Patricia Cardoso,Rosie Perez,1
+653,The Magic Sword: Quest for Camelot ,Frederik Du Chau,Gary Oldman,13
+654,Pearl Harbor ,Michael Bay,Jennifer Garner,2
+655,Reign of Fire ,Rob Bowman,Christian Bale,3
+656,Fright Night ,Craig Gillespie,Grace Phipps,12
+657,Torque ,Joseph Kahn,Dane Cook,10
+658,Man on the Moon ,Milos Forman,Matt Price,1
+659,Enough ,Michael Apted,Bill Cobbs,8
+660,The Adventures of Elmo in Grouchland ,Gary Halvorson,Vanessa Williams,13
+661,Charly ,Ralph Nelson,Cliff Robertson,1
+662,The Bounty ,Roger Donaldson,Liam Neeson,15
+663,Bandidas ,Joachim Rønning,Salma Hayek,6
+664,The Hundred-Foot Journey ,Lasse Hallström,Manish Dayal,6
+665,Bogus ,Norman Jewison,Haley Joel Osment,11
+666,Premium Rush ,David Koepp,Joseph Gordon-Levitt,2
+667,Love Ranch ,Taylor Hackford,Scout Taylor-Compton,6
+668,3:10 to Yuma ,James Mangold,Christian Bale,16
+669,The Life Before Her Eyes ,Vadim Perelman,Eva Amurri Martino,5
+670,The Gambler ,Rupert Wyatt,George Kennedy,1
+671,Lost in Space ,Stephen Hopkins,Gary Oldman,8
+672,Godzilla 2000 ,Takao Okawara,Hiroshi Abe,3
+673,I Am Number Four ,D.J. Caruso,Alex Pettyfer,2
+674,20 Dates ,Myles Berkowitz,Tia Carrere,6
+675,Harry Potter and the Order of the Phoenix ,David Yates,Robert Pattinson,3
+676,Clean ,Olivier Assayas,Maggie Cheung,1
+677,The Wolfman ,Joe Johnston,Anthony Hopkins,1
+678,Scream 4 ,Wes Craven,Alison Brie,5
+679,Charlie St. Cloud ,Burr Steers,Augustus Prew,4
+680,Alias Betty ,Claude Miller,Sandrine Kiberlain,8
+681,Jersey Girl ,Kevin Smith,Stephen Root,1
+682,The Divide ,Xavier Gens,Michael Biehn,8
+683,Around the World in 80 Days ,Frank Coraci,Jim Broadbent,2
+684,Cyrus ,Jay Duplass,Matt Walsh,6
+685,The Diary of a Teenage Girl ,Marielle Heller,Alexander Skarsgård,4
+686,Righteous Kill ,Jon Avnet,Robert De Niro,5
+687,Secrets and Lies             ,,Dan Fogler,1
+688,Source Code ,Duncan Jones,Jake Gyllenhaal,5
+689,Religulous ,Larry Charles,Bill Maher,6
+690,"Run, Fatboy, Run ",David Schwimmer,Dylan Moran,4
+691,St. Trinian's ,Oliver Parker,Lily Cole,6
+692,Ajami ,Scandar Copti,Shahir Kabaha,10
+693,Fear and Loathing in Las Vegas ,Terry Gilliam,Johnny Depp,1
+694,The Croods ,Kirk De Micco,Ryan Reynolds,17
+695,Species ,Roger Donaldson,Natasha Henstridge,12
+696,"A Woman, a Gun and a Noodle Shop ",Yimou Zhang,Honglei Sun,1
+697,Clockstoppers ,Jonathan Frakes,Michael Biehn,6
+698,Centurion ,Neil Marshall,Michael Fassbender,15
+699,8 Heads in a Duffel Bag ,Tom Schulman,Kristy Swanson,10
+700,Rugrats in Paris: The Movie ,Stig Bergqvist,Elizabeth Daily,4
+701,Pat Garrett & Billy the Kid ,Sam Peckinpah,James Coburn,4
+702,The Giver ,Phillip Noyce,Jeff Bridges,1
+703,Heaven's Gate ,Michael Cimino,Jeff Bridges,3
+704,The Hunger Games: Mockingjay - Part 1 ,Francis Lawrence,Jennifer Lawrence,3
+705,Duets ,Bruce Paltrow,Lochlyn Munro,6
+706,The Pet ,D. Stevens,Magi Avila,1
+707,Concussion ,Peter Landesman,Will Smith,1
+708,The Brothers Grimm ,Terry Gilliam,Matt Damon,2
+709,Mrs. Doubtfire ,Chris Columbus,Robin Williams,13
+710,28 Weeks Later ,Juan Carlos Fresnadillo,Jeremy Renner,1
+711,Epic ,Chris Wedge,Josh Hutcherson,3
+712,Littleman ,Keenen Ivory Wayans,Chazz Palminteri,6
+713,Exorcist: The Beginning ,Renny Harlin,James D'Arcy,5
+714,Joe Somebody ,John Pasquin,Jim Belushi,6
+715,BloodRayne ,Uwe Boll,Meat Loaf,11
+716,Modern Times ,Charles Chaplin,Paulette Goddard,6
+717,Minority Report ,Steven Spielberg,Tom Cruise,8
+718,Jason Lives: Friday the 13th Part VI ,Tom McLoughlin,Tony Goldwyn,8
+719,Doctor Dolittle ,Betty Thomas,Oliver Platt,6
+720,The Little Ponderosa Zoo ,Luke Dye,Mike Stanley,13
+721,Teenage Mutant Ninja Turtles: Out of the Shadows ,Dave Green,Stephen Amell,3
+722,The Family             ,,Zach Gilford,5
+723,From Dusk Till Dawn ,Robert Rodriguez,Quentin Tarantino,10
+724,Equilibrium ,Kurt Wimmer,Christian Bale,7
+725,Asterix at the Olympic Games ,Frédéric Forestier,Alain Delon,3
+726,Straight Outta Compton ,F. Gary Gray,Aldis Hodge,15
+727,Patch Adams ,Tom Shadyac,Robin Williams,14
+728,The Work and the Glory ,Russell Holt,Eric Johnson,4
+729,Glory Road ,James Gartner,Mehcad Brooks,14
+730,Trapped             ,,Ólafur Darri Ólafsson,1
+731,No Reservations ,Scott Hicks,Zoë Kravitz,1
+732,Zathura: A Space Adventure ,Jon Favreau,Kristen Stewart,3
+733,Self/less ,Tarsem Singh,Ryan Reynolds,8
+734,Pirates of the Caribbean: Dead Man's Chest ,Gore Verbinski,Johnny Depp,3
+735,Get Shorty ,Barry Sonnenfeld,Delroy Lindo,10
+736,Outbreak ,Wolfgang Petersen,Kevin Spacey,1
+737,Rachel Getting Married ,Jonathan Demme,Anne Hathaway,4
+738,Losin' It ,Curtis Hanson,Tom Cruise,6
+739,Lone Wolf McQuade ,Steve Carver,David Carradine,10
+740,Made of Honor ,Paul Weiland,Busy Philipps,6
+741,School Daze ,Spike Lee,Tisha Campbell-Martin,6
+742,Nightcrawler ,Dan Gilroy,Jake Gyllenhaal,8
+743,Sleepy Hollow             ,,Nicole Beharie,5
+745,Masked and Anonymous ,Larry Charles,Jeff Bridges,1
+746,Inescapable ,Ruba Nadda,Saad Siddiqui,1
+747,Men in Black 3 ,Barry Sonnenfeld,Will Smith,2
+749,Meet Joe Black ,Martin Brest,Anthony Hopkins,1
+750,Decoys ,Matthew Hastings,Meghan Ory,6
+751,The Legend of Hercules ,Renny Harlin,Roxanne McKee,2
+752,Nine Queens ,Fabián Bielinsky,Ricardo Darín,10
+753,Bachelorette ,Leslye Headland,Kirsten Dunst,4
+754,Up ,Pete Docter,John Ratzenberger,3
+755,The Color of Freedom ,Bille August,Terry Pheto,15
+756,Beyond the Sea ,Kevin Spacey,Kevin Spacey,1
+757,Babe: Pig in the City ,George Miller,Adam Goldberg,6
+758,Camping sauvage ,Christophe Ali,Denis Lavant,1
+759,Ghostbusters ,Paul Feig,Ed Begley Jr.,6
+760,Basic ,John McTiernan,Connie Nielsen,5
+761,Ice Age: Dawn of the Dinosaurs ,Carlos Saldanha,Denis Leary,3
+762,Street Kings ,David Ayer,Keanu Reeves,1
+763,Unleashed ,Louis Leterrier,Morgan Freeman,10
+764,How She Move ,Ian Iqbal Rashid,DeRay Davis,1
+765,A Simple Plan ,Sam Raimi,Gary Cole,10
+766,Dances with Wolves ,Kevin Costner,Mary McDonnell,16
+767,The Good Thief ,Neil Jordan,Emir Kusturica,8
+768,Jefferson in Paris ,James Ivory,Seth Gilliam,4
+769,Battleship ,Peter Berg,Liam Neeson,3
+770,The Widow of Saint-Pierre ,Patrice Leconte,Emir Kusturica,4
+771,Won't Back Down ,Daniel Barnz,Holly Hunter,1
+772,Loose Cannons ,Ferzan Ozpetek,Riccardo Scamarcio,4
+774,Out of the Blue ,Robert Sarkies,William Kircher,10
+775,Mumford ,Lawrence Kasdan,Zooey Deschanel,6
+777,Listening ,Khalil Sullins,Thomas Stroppel,7
+778,Mean Streets ,Martin Scorsese,Robert De Niro,4
+779,Superman III ,Richard Lester,Margot Kidder,2
+781,Marilyn Hotchkiss' Ballroom Dancing and Charm School ,Randall Miller,William Hurt,13
+782,Thunder and the House of Magic ,Jeremy Degruson,Kyle Hebert,6
+783,The Chronicles of Riddick ,David Twohy,Vin Diesel,7
+784,Jack Reacher ,Christopher McQuarrie,Tom Cruise,10
+785,The Texas Chainsaw Massacre 2 ,Tobe Hooper,Bill Johnson,12
+786,Drillbit Taylor ,Steven Brill,Lisa Ann Walter,1
+787,Robin and Marian ,Richard Lester,Robert Shaw,3
+788,"Jeff, Who Lives at Home ",Jay Duplass,Judy Greer,6
+789,Lilya 4-Ever ,Lukas Moodysson,Oksana Akinshina,1
+790,Notting Hill ,Roger Michell,Julia Roberts,1
+791,Superbad ,Greg Mottola,Emma Stone,6
+792,Chasing Liberty ,Andy Cadiff,Annabella Sciorra,4
+793,Exotica ,Atom Egoyan,Bruce Greenwood,4
+794,Memento ,Christopher Nolan,Callum Rennie,5
+795,Courage Under Fire ,Edward Zwick,Denzel Washington,1
+796,Our Idiot Brother ,Jesse Peretz,Zooey Deschanel,6
+797,Viy ,Oleg Stepchenko,Jason Flemyng,5
+798,Repo Men ,Miguel Sapochnik,Alice Braga,8
+799,Employee of the Month ,Greg Coolidge,Dane Cook,6
+800,Sherlock Holmes: A Game of Shadows ,Guy Ritchie,Robert Downey Jr.,5
+801,A Most Wanted Man ,Anton Corbijn,Philip Seymour Hoffman,1
+802,Ira & Abby ,Robert Cary,Frances Conroy,6
+803,The Adjustment Bureau ,George Nolfi,Matt Damon,4
+804,The Family Man ,Brett Ratner,Nicolas Cage,11
+805,Red Tails ,Anthony Hemingway,David Oyelowo,3
+806,Star Trek: Generations ,David Carson,LeVar Burton,7
+807,House of 1000 Corpses ,Rob Zombie,Sid Haig,12
+808,I Got the Hook Up ,Michael Martin,Joe Estevez,6
+809,I Love You Phillip Morris ,Glenn Ficarra,Dameon Clarke,4
+810,Carrie ,Kimberly Peirce,Chloë Grace Moretz,12
+811,Mystic River ,Clint Eastwood,John Doman,1
+812,The Sum of All Fears ,Phil Alden Robinson,Morgan Freeman,1
+813,Volver ,Pedro Almodóvar,Carmen Maura,6
+814,"10,000 B.C.             ",Christopher Barnard,Mathew Buck,6
+815,Shark Night 3D ,David R. Ellis,Chris Zylka,12
+816,Fame ,Kevin Tancharoen,Kelsey Grammer,1
+817,The Spectacular Now ,James Ponsoldt,Shailene Woodley,4
+818,ABCD (Any Body Can Dance) ,Remo,Lauren Gottlieb,1
+819,Ghosts of Mississippi ,Rob Reiner,Alexa PenaVega,15
+820,Me You and Five Bucks ,Jaime Zevallos,Angela Sarafyan,1
+821,Escape from Alcatraz ,Don Siegel,Clint Eastwood,10
+822,A Man for All Seasons ,Fred Zinnemann,Robert Shaw,1
+823,"Blood In, Blood Out ",Taylor Hackford,Delroy Lindo,1
+824,Mercury Rising ,Harold Becker,Bruce Willis,10
+825,The Ant Bully ,John A. Davis,Nicolas Cage,13
+826,Southland Tales ,Richard Kelly,Janeane Garofalo,8
+828,Little Miss Sunshine ,Jonathan Dayton,Steve Carell,6
+829,Farce of the Penguins ,Bob Saget,Alyson Hannigan,6
+830,Suspect Zero ,E. Elias Merhige,Harry Lennix,5
+831,Soul Food ,George Tillman Jr.,Vanessa Williams,6
+832,The Switch ,Josh Gordon,Caroline Dhavernas,4
+833,Singin' in the Rain ,Stanley Donen,Rita Moreno,6
+834,"Monsters, Inc. ",Pete Docter,Steve Buscemi,3
+835,Suicide Squad ,David Ayer,Will Smith,7
+836,The Lone Ranger ,Gore Verbinski,Johnny Depp,2
+837,"Good Morning, Vietnam ",Barry Levinson,Robin Williams,6
+838,Mondays in the Sun ,Fernando León de Aranoa,Luis Tosar,6
+839,A Room for Romeo Brass ,Shane Meadows,Bob Hoskins,6
+840,Restoration ,Zack Ward,Zack Ward,12
+841,Home Movies             ,,Brendon Small,1
+842,Driven ,Renny Harlin,Sylvester Stallone,2
+843,Outside Providence ,Michael Corrente,Jonathan Brandis,1
+844,The Perfect Host ,Nick Tomnay,David Hyde Pierce,8
+845,Alvin and the Chipmunks: Chipwrecked ,Mike Mitchell,Amy Poehler,13
+846,The Little Vampire ,Uli Edel,Richard E. Grant,6
+847,47 Ronin ,Carl Rinsch,Keanu Reeves,3
+848,Hall Pass ,Bobby Farrelly,Jenna Fischer,4
+850,Die Hard 2 ,Renny Harlin,Bruce Willis,8
+851,Million Dollar Baby ,Clint Eastwood,Clint Eastwood,1
+852,Harvard Man ,James Toback,Sarah Michelle Gellar,6
+853,The Specialist ,Luis Llosa,Sylvester Stallone,1
+854,Star Trek: Insurrection ,Jonathan Frakes,LeVar Burton,3
+855,The Good Dinosaur ,Peter Sohn,A.J. Buckley,3
+856,The Iron Lady ,Phyllida Lloyd,Meryl Streep,14
+857,Kingdom of the Spiders ,John 'Bud' Cardos,Woody Strode,7
+858,The Lunchbox ,Ritesh Batra,Nawazuddin Siddiqui,4
+859,Good Deeds ,Tyler Perry,Eddie Cibrian,6
+860,What to Expect When You're Expecting ,Kirk Jones,Anna Kendrick,1
+861,Green Street 3: Never Back Down ,James Nunn,Spencer Wilding,1
+862,Spider-Man 3 ,Sam Raimi,J.K. Simmons,4
+863,Pixels ,Chris Columbus,Peter Dinklage,6
+864,"I, Robot ",Alex Proyas,Will Smith,8
+865,Selena ,Gregory Nava,Jon Seda,14
+866,The Believer ,Henry Bean,Ryan Gosling,1
+867,Pooh's Heffalump Movie ,Frank Nissen,Kath Soucie,13
+868,Tales from the Hood ,Rusty Cundieff,Corbin Bernsen,6
+869,A Guy Thing ,Chris Koch,Thomas Lennon,6
+870,The Lion of Judah ,Deryck Broom,Vic Mignogna,17
+871,Dancer in the Dark ,Lars von Trier,Catherine Deneuve,1
+872,The Lord of the Rings: The Return of the King ,Peter Jackson,Orlando Bloom,3
+873,Men of Honor ,George Tillman Jr.,Robert De Niro,1
+874,Salvation Boulevard ,George Ratliff,Jim Gaffigan,8
+875,Princess Mononoke ,Hayao Miyazaki,Minnie Driver,3
+876,Howard the Duck ,Willard Huyck,Lea Thompson,6
+877,I Love Your Work ,Adam Goldberg,Judy Greer,5
+878,Plush ,Catherine Hardwicke,Frances Fisher,8
+880,Nine ,Rob Marshall,Fergie,9
+881,Dreamer: Inspired by a True Story ,John Gatins,Ken Howard,1
+882,Spy Kids: All the Time in the World in 4D ,Robert Rodriguez,Alexa PenaVega,13
+883,BrainDead             ,,Danny Pino,8
+884,The A-Team             ,,George Peppard,2
+885,Jonah: A VeggieTales Movie ,Mike Nawrocki,Phil Vischer,3
+886,Fantasia ,James Algar,Leopold Stokowski,17
+887,Die Hard with a Vengeance ,John McTiernan,Bruce Willis,3
+888,27 Dresses ,Anne Fletcher,Judy Greer,4
+889,Gone with the Wind ,Victor Fleming,Hattie McDaniel,15
+890,Mad Hot Ballroom ,Marilyn Agrelo,Heather Berman,18
+891,Wild Things ,John McNaughton,Bill Murray,10
+892,Star Trek Beyond ,Justin Lin,Sofia Boutella,3
+893,Highlander ,Russell Mulcahy,Christopher Lambert,2
+894,Home ,Tim Johnson,Jim Parsons,13
+895,The Best Little Whorehouse in Texas ,Colin Higgins,Dolly Parton,6
+896,Hot Tub Time Machine 2 ,Steve Pink,Adam Scott,6
+897,The Break-Up ,Peyton Reed,Jon Favreau,1
+898,The Age of Innocence ,Martin Scorsese,Richard E. Grant,4
+900,Conan the Destroyer ,Richard Fleischer,Mako,3
+901,The Incredible Hulk ,Louis Leterrier,Ty Burrell,3
+902,Undiscovered ,Meiert Avis,Fisher Stevens,4
+904,Scoop ,Woody Allen,Scarlett Johansson,10
+905,Pierrot le Fou ,Jean-Luc Godard,Jean-Paul Belmondo,4
+906,United Passions ,Frédéric Auburtin,Fisher Stevens,15
+907,Rush ,Ron Howard,Chris Hemsworth,1
+908,Secretary ,Steven Shainberg,Jeremy Davies,1
+909,Alvin and the Chipmunks ,Tim Hill,Jesse McCartney,6
+910,Elektra ,Rob Bowman,Jennifer Garner,8
+911,The Mortal Instruments: City of Bones ,Harald Zwart,Aidan Turner,5
+912,Hidalgo ,Joe Johnston,J.K. Simmons,2
+914,Thr3e ,Robby Henson,Marc Blucas,1
+915,The Death and Life of Bobby Z ,John Herzfeld,Paul Walker,10
+916,Slow Burn ,Wayne Beach,Mekhi Phifer,5
+918,Bulworth ,Warren Beatty,Warren Beatty,1
+919,Kingdom of Heaven ,Ridley Scott,Liam Neeson,3
+920,They Live ,John Carpenter,Meg Foster,12
+921,1911 ,Li Zhang,Bingbing Li,3
+922,For Love of the Game ,Sam Raimi,J.K. Simmons,4
+923,Skyline ,Colin Strause,David Zayas,8
+924,My Lucky Star ,Dennie Gordon,Leehom Wang,2
+925,Miracle ,Gavin O'Connor,Eddie Cahill,15
+926,Skyfall ,Sam Mendes,Albert Finney,3
+927,Pandorum ,Christian Alvart,Norman Reedus,8
+928,Someone Like You... ,Tony Goldwyn,Hugh Jackman,6
+929,Money Train ,Joseph Ruben,Vincent Pastore,1
+930,Obitaemyy ostrov ,Fedor Bondarchuk,Yuliya Snigir,7
+931,Straight Out of Brooklyn ,Matty Rich,Lawrence Gilliard Jr.,10
+932,Next Day Air ,Benny Boom,Omari Hardwick,6
+933,Hardball ,Brian Robbins,Keanu Reeves,1
+934,London ,Hunter Richards,Jason Statham,1
+935,The Conjuring 2 ,James Wan,Javier Botet,12
+937,Marci X ,Richard Benjamin,Damon Wayans,6
+938,The Long Riders ,Walter Hill,Dennis Quaid,16
+939,Trucker ,James Mottern,Jimmy Bennett,1
+940,Connie and Carla ,Michael Lembeck,Debbie Reynolds,6
+941,The Messengers             ,,Joel Courtney,1
+942,Star Wars: The Clone Wars             ,,Dee Bradley Baker,11
+943,Jaws: The Revenge ,Joseph Sargent,Judith Barsi,3
+944,Crash ,Paul Haggis,Don Cheadle,8
+945,The Guard ,John Michael McDonagh,Don Cheadle,10
+946,Bandits ,Barry Levinson,Bruce Willis,1
+948,10th & Wolf ,Robert Moresco,Brian Dennehy,8
+949,Mamma Mia! ,Phyllida Lloyd,Colin Firth,4
+950,The New Guy ,Ed Decter,Zooey Deschanel,6
+951,The Emperor's New Groove ,Mark Dindal,Eartha Kitt,17
+952,Daylight ,Rob Cohen,Sylvester Stallone,2
+953,Barbershop 2: Back in Business ,Kevin Rodney Sullivan,Harry Lennix,1
+954,Mission: Impossible - Ghost Protocol ,Brad Bird,Tom Cruise,3
+955,Mission to Mars ,Brian De Palma,Don Cheadle,7
+956,Cool Runnings ,Jon Turteltaub,Doug E. Doug,6
+957,Mr. Popper's Penguins ,Mark Waters,Madeline Carroll,13
+958,Baby Geniuses ,Bob Clark,Kathleen Turner,6
+959,Rockaway ,Jeff Crook,Nicholas Gonzalez,10
+960,Little Fockers ,Paul Weitz,Robert De Niro,6
+961,Message in a Bottle ,Luis Mandoki,Robin Wright,4
+962,Dylan Dog: Dead of Night ,Kevin Munroe,Marco St. John,5
+963,Non-Stop ,Jaume Collet-Serra,Liam Neeson,2
+964,Roadside ,Eric England,Jack E. Curenton,1
+965,Ocean's Thirteen ,Steven Soderbergh,Al Pacino,8
+966,Fido ,Andrew Currie,Alexia Fast,7
+967,Godzilla Resurgence ,Hideaki Anno,Mark Chinnery,7
+968,Les couloirs du temps: Les visiteurs II ,Jean-Marie Poiré,Christian Clavier,7
+969,Child 44 ,Daniel Espinosa,Tom Hardy,1
+970,Star Wars: Episode III - Revenge of the Sith ,George Lucas,Natalie Portman,11
+971,Eraser ,Chuck Russell,Vanessa Williams,2
+972,The Princess Bride ,Rob Reiner,Robin Wright,11
+973,The Others ,Alejandro Amenábar,Fionnula Flanagan,8
+974,Muppets Most Wanted ,James Bobin,Ty Burrell,10
+975,10 Things I Hate About You ,Gil Junger,Joseph Gordon-Levitt,6
+976,Veer-Zaara ,Yash Chopra,Shah Rukh Khan,9
+977,Special ,Hal Haberman,Michael Rapaport,1
+978,Crocodile Dundee in Los Angeles ,Simon Wincer,Jere Burns,3
+979,The 13th Warrior ,John McTiernan,Tony Curran,15
+980,Puss in Boots ,Chris Miller,Salma Hayek,13
+981,Code of Honor ,Michael Winnick,Scott Takeda,2
+982,Sarah's Key ,Gilles Paquet-Brenner,Kristin Scott Thomas,1
+983,The Tourist ,Florian Henckel von Donnersmarck,Johnny Depp,4
+984,Bless the Child ,Chuck Russell,Rufus Sewell,10
+985,Dogma ,Kevin Smith,Matt Damon,3
+986,Bon Cop Bad Cop ,Erik Canuel,Colm Feore,8
+987,Harry Potter and the Prisoner of Azkaban ,Alfonso Cuarón,Daniel Radcliffe,3
+988,Killers ,Robert Luketic,Tom Selleck,4
+989,The Cookout ,Lance Rivera,Farrah Fawcett,6
+990,Rescue Dawn ,Werner Herzog,Christian Bale,14
+991,Flashdance ,Adrian Lyne,Michael Nouri,4
+992,Below Zero ,Justin Thomas Ostensen,Michael Berryman,8
+993,Driving Lessons ,Jeremy Brock,Rupert Grint,6
+994,George of the Jungle ,Sam Weisman,Brendan Fraser,6
+995,Liar Liar ,Tom Shadyac,Maura Tierney,11
+996,Zombie Hunter ,K. King,Jason K. Wixom,6
+997,The Newton Boys ,Richard Linklater,Matthew McConaughey,16
+998,Jack Brooks: Monster Slayer ,Jon Knautz,Rachel Skarsten,6
+999,The Secret in Their Eyes ,Juan José Campanella,Ricardo Darín,8
+1000,The 33 ,Patricia Riggen,Marco Treviño,1
+1001,Fight to the Finish ,Warren Sheppard,Jennifer Hale,4
+1002,Psycho Beach Party ,Robert Lee King,Lauren Ambrose,6
+1003,"Pink Ribbons, Inc. ",Léa Pool,,18
+1004,Grosse Pointe Blank ,George Armitage,Minnie Driver,10
+1005,Conversations with Other Women ,Hans Canosa,Olivia Wilde,6
+1006,Damsels in Distress ,Whit Stillman,Greta Gerwig,4
+1007,Conquest of the Planet of the Apes ,J. Lee Thompson,Roddy McDowall,7
+1008,Rango ,Gore Verbinski,Johnny Depp,17
+1009,Hot Fuzz ,Edgar Wright,Bill Bailey,5
+1010,N-Secure ,David M. Matthews,Essence Atkins,1
+1011,The Lost Boys ,Joel Schumacher,Dianne Wiest,11
+1012,Get Rich or Die Tryin' ,Jim Sheridan,50 Cent,1
+1013,Irreversible ,Gaspar Noé,Philippe Nahon,8
+1014,Seven Pounds ,Gabriele Muccino,Will Smith,4
+1015,Hostage ,Florent-Emilio Siri,Jimmy Bennett,2
+1017,Back to the Future ,Robert Zemeckis,Lea Thompson,6
+1018,Black Mass ,Scott Cooper,Johnny Depp,14
+1019,Valentine ,Jamie Blanks,Marley Shelton,5
+1020,Bowfinger ,Frank Oz,Robert Downey Jr.,6
+1021,The Love Letter ,Dan Curtis,Jennifer Jason Leigh,4
+1022,How to Lose Friends & Alienate People ,Robert B. Weide,James Corden,1
+1023,Where the Wild Things Are ,Spike Jonze,Catherine O'Hara,3
+1024,Hotel Rwanda ,Terry George,Don Cheadle,1
+1025,Gran Torino ,Clint Eastwood,Clint Eastwood,1
+1027,Looper ,Rian Johnson,Joseph Gordon-Levitt,2
+1028,The Darkest Hour ,Chris Gorak,Max Minghella,2
+1029,Nutty Professor II: The Klumps ,Peter Segal,Larry Miller,4
+1030,Not Cool ,Shane Dawson,Shane Dawson,6
+1031,Seventh Son ,Sergey Bodrov,Jeff Bridges,11
+1032,In Cold Blood ,Richard Brooks,John Forsythe,15
+1033,The Loved Ones ,Sean Byrne,Robin McLeavy,12
+1034,The Last Days on Mars ,Ruairi Robinson,Romola Garai,8
+1035,The Man with the Golden Gun ,Guy Hamilton,Christopher Lee,3
+1036,Sling Blade ,Billy Bob Thornton,Robert Duvall,1
+1037,She's Out of My League ,Jim Field Smith,Mike Vogel,6
+1038,The Perfect Wave ,Bruce Macdonald,Rachel Hendrix,14
+1039,Mean Machine ,Barry Skolnick,Jason Statham,1

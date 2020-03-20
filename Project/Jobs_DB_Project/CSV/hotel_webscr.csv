@@ -1,0 +1,228 @@
+Hotel Id,HOTEL_NAME,LANDMARK,RATING,TOTAL REVIEWERS,PRICE PER NIGHT,Address Id
+htl1,Sheraton Boston Hotel,1.3 miles to City center,4,"3,007 reviews",407,adr1
+htl2,Hilton Garden Inn Boston Logan Airport,3.4 miles to City center,4.5,"1,284 reviews",210,adr2
+htl3,Hyatt Regency Boston,0.3 miles to City center,4,"4,669 reviews",,adr3
+htl4,Hyatt Place Boston/Braintree,9.6 miles to City center,4,"1,177 reviews",125,adr4
+htl5,Comfort Inn & Suites Logan International Airport,4.9 miles to City center,4.5,"1,301 reviews",,adr5
+htl6,Courtyard by Marriott Boston Logan Airport,3.1 miles to City center,3.5,877 reviews,249,adr6
+htl7,Revere Hotel Boston Common,0.6 miles to City center,4.5,"4,990 reviews",557,adr7
+htl8,Holiday Inn Boston Logan Airport - Chelsea,3.9 miles to City center,4.5,27 reviews,229,adr8
+htl9,Hilton Boston Logan Airport,2.2 miles to City center,4,"4,018 reviews",321,adr9
+htl10,Crowne Plaza JFK Airport New York City,12 miles to City center,3.5,920 reviews,,adr10
+htl11,Hilton Garden Inn New York Times Square South,0.4 miles to City center,4.5,465 reviews,216,adr11
+htl12,YOTEL New York,0.5 miles to City center,4.5,"12,442 reviews",,adr12
+htl13,Blakely New York,0.6 miles to City center,4.5,"1,611 reviews",195,adr13
+htl14,Millennium Hilton New York Downtown,3.4 miles to City center,4,"5,287 reviews",239,adr14
+htl15,Pod Brooklyn,3.2 miles to City center,4.5,154 reviews,132,adr15
+htl16,Holiday Inn GW Bridge-Fort Lee NYC Area,7.7 miles to City center,3.5,156 reviews,135,adr16
+htl17,Holiday Inn Brooklyn Downtown,4.8 miles to City center,4,436 reviews,171,adr17
+htl18,Pod Times Square,0.4 miles to City center,4,750 reviews,199,adr18
+htl19,Life House Little Havana,1.2 miles to City center,4.5,39 reviews,128,adr19
+htl20,Comfort Suites Miami Airport North,5.9 miles to City center,4,"1,614 reviews",82,adr20
+htl21,Mondrian South Beach,3.1 miles to City center,4.5,"4,979 reviews",,adr21
+htl22,SpringHill Suites by Marriott Miami Airport South,7.2 miles to City center,4,"1,056 reviews",98,adr22
+htl23,Hyatt Regency Miami,0.1 miles to City center,3.5,"4,190 reviews",161,adr23
+htl24,Crowne Plaza Miami Airport,4.6 miles to City center,4,"1,711 reviews",108,adr24
+htl25,Hyatt Regency Coral Gables,4.3 miles to City center,4,"1,654 reviews",134,adr25
+htl26,Fontainebleau Miami Beach,5.2 miles to City center,4,"15,506 reviews",289,adr26
+htl27,Ramada by Wyndham Miami Springs/Miami International Airport,6.0 miles to City center,3.5,"1,591 reviews",84,adr27
+htl28,The Tremont Chicago Hotel at Magnificent Mile,1.2 miles to City center,3.5,405 reviews,99,adr28
+htl29,Hyatt Centric Chicago Magnificent Mile,1.0 mile to City center,4.5,"2,677 reviews",265,adr29
+htl30,Edward Hotel Chicago,16 miles to City center,3.5,660 reviews,,adr30
+htl31,Hotel Felix Chicago,1.0 mile to City center,3.5,"1,769 reviews",94,adr31
+htl32,The Godfrey Hotel Chicago,1.0 mile to City center,4.5,"2,495 reviews",161,adr32
+htl33,Dana Hotel and Spa,0.9 miles to City center,4.5,"5,141 reviews",179,adr33
+htl34,Loews Chicago Hotel,0.8 miles to City center,4.5,"2,863 reviews",209,adr34
+htl35,InterContinental Chicago Magnificent Mile,0.8 miles to City center,4,"5,574 reviews",279,adr35
+htl36,Inn of Chicago,0.9 miles to City center,3.5,"2,109 reviews",84,adr36
+htl37,The Beverly Hilton,9.2 miles to City center,4,"4,243 reviews",278,adr37
+htl38,Sheraton Gateway Los Angeles Hotel,11 miles to City center,4,"1,270 reviews",161,adr38
+htl39,Courtyard Los Angeles LAX/Century Boulevard,11 miles to City center,4,"1,015 reviews",,adr39
+htl40,Millennium Biltmore Los Angeles,0.1 miles to City center,3.5,"3,631 reviews",152,adr40
+htl41,Baymont by Wyndham Monterey Park,7.9 miles to City center,3.5,388 reviews,73,adr41
+htl42,The Westin Los Angeles Airport,10 miles to City center,4,"3,929 reviews",161,adr42
+htl43,The Bicycle Hotel & Casino,7.8 miles to City center,4,34 reviews,204,adr43
+htl44,InterContinental Los Angeles Downtown,0.3 miles to City center,4,646 reviews,279,adr44
+htl45,Hotel Figueroa Downtown Los Angeles,0.6 miles to City center,4.5,266 reviews,186,adr45
+htl46,"Circus Circus Hotel, Casino & Theme Park",1.6 miles to City center,3.5,"12,431 reviews",19,adr46
+htl47,Waldorf Astoria Las Vegas,0.6 miles to City center,4,260 reviews,217,adr47
+htl48,"Red Rock Casino, Resort and Spa",9.4 miles to City center,4.5,"4,539 reviews",,adr48
+htl49,Excalibur Hotel & Casino,1.1 miles to City center,3.5,"9,178 reviews",30,adr49
+htl50,Luxor Hotel and Casino,1.2 miles to City center,3.5,"38,251 reviews",33,adr50
+htl51,Flamingo Las Vegas - Hotel & Casino,0.1 miles to City center,3.5,"39,098 reviews",39,adr51
+htl52,Motel 6 Las Vegas - I-15,1.3 miles to City center,2.5,73 reviews,54,adr52
+htl53,Motel 6 Las Vegas - Boulder Highway,5.0 miles to City center,2.5,76 reviews,54,adr53
+htl54,New York-New York Hotel & Casino,0.8 miles to City center,4,"20,279 reviews",55,adr54
+htl55,Conrad Washington DC,0.2 miles to City center,4.5,56 reviews,395,adr55
+htl56,Hilton Alexandria Old Town,6.9 miles to City center,4.5,"1,744 reviews",116,adr56
+htl57,Washington Plaza,0.5 miles to City center,4.5,"3,036 reviews",,adr57
+htl58,Georgetown University Hotel and Conference Center,2.9 miles to City center,3.5,341 reviews,149,adr58
+htl59,"The Graham Washington DC Georgetown, Tapestry Collection by Hilton",2.0 miles to City center,4.5,692 reviews,240,adr59
+htl60,"The Jefferson, Washington, DC",0.8 miles to City center,5,"1,321 reviews",302,adr60
+htl61,The Dupont Circle Hotel,1.2 miles to City center,4.5,"3,902 reviews",332,adr61
+htl62,The Watergate Hotel,1.7 miles to City center,4.5,850 reviews,339,adr62
+htl63,Hotel Harrington ,0.5 miles to City center,3.5,"1,540 reviews",169,adr63
+htl64,Radisson Hotel Denver Central,2.6 miles to City center,3.5,252 reviews,,adr64
+htl65,Hyatt House Denver Downtown,0.5 miles to City center,4.5,456 reviews,201,adr65
+htl66,Hyatt Regency Denver at Colorado Convention Center,0.3 miles to City center,4.5,"5,330 reviews",,adr66
+htl67,Clarion Hotel Denver Central ,2.5 miles to City center,3.5,848 reviews,84,adr67
+htl68,The Curtis Denver - a DoubleTree by Hilton Hotel,0.2 miles to City center,4,"2,209 reviews",153,adr68
+htl69,Hyatt Place Denver/Cherry Creek,4.7 miles to City center,4,894 reviews,127,adr69
+htl70,Holiday Inn Hotel & Suites Denver Tech Center-Centennial,13 miles to City center,4.5,38 reviews,97,adr70
+htl71,Holiday Inn Denver East - Stapleton,5.0 miles to City center,4,885 reviews,136,adr71
+htl72,Fairfield Inn & Suites by Marriott Denver Downtown,1.2 miles to City center,4.5,102 reviews,130,adr72
+htl73,"Country Inn & Suites by Radisson, Atlanta Airport South, GA",10 miles to City center,4,755 reviews,,adr73
+htl74,Extended Stay America - Atlanta - Kennesaw Town Center,21 miles to City center,3.5,122 reviews,94,adr74
+htl75,Hyatt Place Atlanta/Alpharetta/North Point Mall,20 miles to City center,4,552 reviews,,adr75
+htl76,Hyatt Regency Atlanta Downtown,0.4 miles to City center,4,"5,184 reviews",122,adr76
+htl77,La Quinta by Wyndham Atlanta Airport North,7.1 miles to City center,4.5,534 reviews,110,adr77
+htl78,La Quinta by Wyndham Atlanta Ballpark/Galleria,9.1 miles to City center,4.5,723 reviews,,adr78
+htl79,Georgia Tech Hotel and Conference Center,1.4 miles to City center,4.5,"1,160 reviews",143,adr79
+htl80,"Glenn Hotel, Autograph Collection",0.3 miles to City center,4,824 reviews,127,adr80
+htl81,The Highland Inn,2.3 miles to City center,3.5,544 reviews,74,adr81
+htl82,DoubleTree by Hilton Hotel Wilmington,22 miles to City center,4,808 reviews,135,adr82
+htl83,Aloft Philadelphia Downtown,0.2 miles to City center,4.5,363 reviews,170,adr83
+htl84,Hilton Philadelphia at Penn's Landing,1.3 miles to City center,4,"2,884 reviews",,adr84
+htl85,Wyndham Philadelphia Historic District,1.0 mile to City center,4,"2,316 reviews",144,adr85
+htl86,Sofitel Philadelphia at Rittenhouse Square,0.2 miles to City center,4.5,"3,708 reviews",197,adr86
+htl87,Courtyard by Marriott Philadelphia Downtown,0.2 miles to City center,4.5,"1,280 reviews",161,adr87
+htl88,Philadelphia Marriott Downtown,0.2 miles to City center,4,"3,806 reviews",159,adr88
+htl89,Crowne Plaza Wilmington North,18 miles to City center,3.5,238 reviews,,adr89
+htl90,"Home2 Suites by Hilton Philadelphia - Convention Center, PA",0.3 miles to City center,4.5,"1,908 reviews",152,adr90
+htl91,Holiday Inn Riverview,2.0 miles to City center,3.5,"1,213 reviews",136,adr91
+htl92,The Beach Club at Charleston Harbor Resort and Marina,1.6 miles to City center,4.5,324 reviews,169,adr92
+htl93,Barksdale House Inn,0.3 miles to City center,4,567 reviews,,adr93
+htl94,The Meeting Street Inn,0.1 miles to City center,4.5,967 reviews,206,adr94
+htl95,Harborside at Charleston Harbor Resort and Marina,1.7 miles to City center,4,438 reviews,129,adr95
+htl96,King Charles Inn,0.1 miles to City center,4.5,"3,298 reviews",199,adr96
+htl97,The Vendue,0.3 miles to City center,4.5,"2,671 reviews",289,adr97
+htl98,Renaissance Charleston Historic District Hotel,0.2 miles to City center,4,227 reviews,349,adr98
+htl99,The Francis Marion Hotel,0.5 miles to City center,4,"3,447 reviews",231,adr99
+htl100,Hotel Andra,0.3 miles to City center,4.5,"2,259 reviews",223,adr100
+htl101,Hotel Interurban,11 miles to City center,4,91 reviews,239,adr101
+htl102,Sheraton Seattle Hotel,0.1 miles to City center,4,"5,952 reviews",,adr102
+htl103,The Belltown Inn,0.6 miles to City center,4,"1,389 reviews",199,adr103
+htl104,Red Roof Inn Seattle Airport - SEATAC,11 miles to City center,3.5,929 reviews,85,adr104
+htl105,"Staypineapple, Hotel FIVE, Downtown Seattle",0.5 miles to City center,4.5,"1,853 reviews",163,adr105
+htl106,Graduate Seattle,3.6 miles to City center,3,10 reviews,,adr106
+htl107,Holiday Inn Seattle-Issaquah,14 miles to City center,4,202 reviews,161,adr107
+htl108,"Staypineapple, University Inn, University District Seattle",3.3 miles to City center,4.5,"1,103 reviews",123,adr108
+htl109,Astor Crowne Plaza New Orleans,0.3 miles to City center,4,"2,049 reviews",99,adr109
+htl110,Wyndham Garden Hotel Baronne Plaza,0.3 miles to City center,4,"2,692 reviews",65,adr110
+htl111,"The Troubadour Hotel New Orleans, Tapestry Collection by Hilton",0.4 miles to City center,4,831 reviews,,adr111
+htl112,Hyatt Place New Orleans Convention Center,0.6 miles to City center,4,"1,317 reviews",80,adr112
+htl113,The Whitney Hotel,0.1 miles to City center,4,"1,838 reviews",76,adr113
+htl114,Astor Crowne Plaza New Orleans,0.3 miles to City center,4,"2,049 reviews",99,adr114
+htl115,Le Méridien New Orleans,0.3 miles to City center,4,"1,143 reviews",103,adr115
+htl116,"The Ritz-Carlton, New Orleans",0.4 miles to City center,4.5,"3,496 reviews",299,adr116
+htl117,Courtyard by Marriott New Orleans French Quarter/Iberville,0.4 miles to City center,4.5,"1,316 reviews",109,adr117
+htl118,The Wildwood Hotel,24 miles to City center,4,545 reviews,88,adr118
+htl119,Holiday Inn St. Louis - Forest Park,5.3 miles to City center,3.5,235 reviews,112,adr119
+htl120,Courtyard by Marriott St. Louis Downtown/Convention Center,0.1 miles to City center,4.5,186 reviews,,adr120
+htl121,Red Lion Hotel St Louis City Center,0.8 miles to City center,3,"1,291 reviews",89,adr121
+htl122,HoteLumiere at the Arch,0.4 miles to City center,3,147 reviews,129,adr122
+htl123,Missouri Athletic Club,0.2 miles to City center,3.5,198 reviews,107,adr123
+htl124,Holiday Inn St. Louis Arpt West-Earth City,17 miles to City center,4,170 reviews,94,adr124
+htl125,Holiday Inn Express Troy,17 miles to City center,4.5,72 reviews,,adr125
+htl126,Drury Plaza Hotel St. Louis at the Arch,0.4 miles to City center,4.5,"2,062 reviews",150,adr126
+htl127,"Villas At Poco Diablo, a VRI Resort",1.9 miles to City center,4,83 reviews,155,adr127
+htl128,Courtyard by Marriott Sedona,3.8 miles to City center,4.5,360 reviews,212,adr128
+htl129,Baby Quail Inn,1.5 miles to City center,4.5,336 reviews,,adr129
+htl130,Sedona Summit Resort by Diamond Resorts,4.0 miles to City center,4,"2,007 reviews",119,adr130
+htl131,Cedars Resort,0.3 miles to City center,4,272 reviews,129,adr131
+htl132,Los Abrigados Resort And Spa by Diamond Resorts,0.5 miles to City center,3.5,"1,256 reviews",109,adr132
+htl133,Best Western Plus Inn of Sedona,1.2 miles to City center,4.5,"3,455 reviews",171,adr133
+htl134,Amara Resort and Spa,0.1 miles to City center,4.5,"1,370 reviews",319,adr134
+htl135,Sky Ranch Lodge,2.0 miles to City center,4,"1,523 reviews",165,adr135
+htl136,Hotel LaCroix Waikiki,0.5 miles to City center,4.5,566 reviews,95,adr136
+htl137,"Aulani, Disney Vacation Club Villas",20 miles to City center,4.5,"6,239 reviews",656,adr137
+htl138,Hyatt Regency Waikiki Beach Resort & Spa,0.2 miles to City center,4,"6,415 reviews",,adr138
+htl139,Hilton Hawaiian Village Waikiki Beach Resort,0.7 miles to City center,4,"17,450 reviews",202,adr139
+htl140,Hilton Waikiki Beach,0.3 miles to City center,4,"5,183 reviews",179,adr140
+htl141,Outrigger Reef Waikiki Beach Resort,0.3 miles to City center,4.5,"6,623 reviews",179,adr141
+htl142,Embassy Suites by Hilton Waikiki Beach Walk,0.3 miles to City center,4.5,"4,124 reviews",280,adr142
+htl143,The Grand Islander by Hilton Grand Vacations,0.7 miles to City center,4,632 reviews,350,adr143
+htl144,Hyatt Place Waikiki Beach,0.4 miles to City center,4.5,"3,926 reviews",161,adr144
+htl145,"Country Inn & Suites by Radisson, Portland International Airport, OR",6.2 miles to City center,4,"1,450 reviews",115,adr145
+htl146,Red Lion Hotel on the River - Jantzen Beach,6.6 miles to City center,4,"1,388 reviews",116,adr146
+htl147,Hotel Eastlund,1.4 miles to City center,4.5,604 reviews,,adr147
+htl148,Hotel deLuxe,0.4 miles to City center,4.5,"3,014 reviews",149,adr148
+htl149,Park Lane Suites and Inn,0.8 miles to City center,4,834 reviews,110,adr149
+htl150,The Heathman Hotel,0.1 miles to City center,4.5,97 reviews,161,adr150
+htl151,Crowne Plaza Portland-Lake Oswego,7.4 miles to City center,4,106 reviews,,adr151
+htl152,Red Lion Hotel Portland Airport,6.3 miles to City center,3.5,779 reviews,111,adr152
+htl153,McMenamins Crystal Hotel,0.4 miles to City center,4,324 reviews,105,adr153
+htl154,Holiday Inn and Suites Nashville Dtwn - Conv Ctr,0.7 miles to City center,3.5,6 reviews,248,adr154
+htl155,The Westin Nashville,0.6 miles to City center,4.5,"1,887 reviews",325,adr155
+htl156,Omni Nashville Hotel,0.5 miles to City center,4.5,"6,955 reviews",,adr156
+htl157,Wingate by Wyndham Nashville Airport,5.6 miles to City center,4.5,55 reviews,101,adr157
+htl158,Hilton Garden Inn Nashville Downtown/Convention Center,0.7 miles to City center,4.5,905 reviews,170,adr158
+htl159,Clarion Hotel Nashville Downtown - Stadium,0.9 miles to City center,4.5,"1,550 reviews",172,adr159
+htl160,Brentwood Suites,9.0 miles to City center,4,290 reviews,108,adr160
+htl161,Holiday Inn Nashville - Vanderbilt - Dwtn,2.0 miles to City center,4.5,867 reviews,162,adr161
+htl162,Hotel Indigo Nashville,0.3 miles to City center,4.5,"1,518 reviews",240,adr162
+htl163,InterContinental Stephen F. Austin,0.1 miles to City center,4.5,"1,488 reviews",170,adr163
+htl164,La Quinta Inn by Wyndham Austin North,5.5 miles to City center,4,581 reviews,,adr164
+htl165,Omni Austin Hotel,0.2 miles to City center,4,"3,301 reviews",,adr165
+htl166,Crowne Plaza Austin,4.4 miles to City center,4,"1,478 reviews",,adr166
+htl167,La Quinta by Wyndham Austin Airport,4.6 miles to City center,4,511 reviews,,adr167
+htl168,Holiday Inn Austin Airport,4.4 miles to City center,5,814 reviews,122,adr168
+htl169,Omni Barton Creek Resort & Spa,7.1 miles to City center,4,"2,201 reviews",191,adr169
+htl170,Wyndham Garden Hotel Austin,3.1 miles to City center,4,"1,751 reviews",107,adr170
+htl171,Aloft Austin Downtown,0.1 miles to City center,4.5,239 reviews,179,adr171
+htl172,"Magnolia Bluffs Casino Hotel, BW Premier Collection",4.7 miles to City center,4.5,316 reviews,,adr172
+htl173,Holiday Inn Express Hotel & Suites Natchez South,4.7 miles to City center,4,222 reviews,127,adr173
+htl174,Dunleith Historic Inn,4.0 miles to City center,4.5,292 reviews,,adr174
+htl175,Natchez Grand Hotel,4.6 miles to City center,4,813 reviews,89,adr175
+htl176,"Hotel Vue, an Ascend Hotel Collection Member",5.0 miles to City center,4,449 reviews,91,adr176
+htl177,Days Inn by Wyndham Natchez,3.5 miles to City center,3,801 reviews,72,adr177
+htl178,Red Carpet Inn,2.5 miles to City center,3,83 reviews,,adr178
+htl179,Inlet Tower Hotel And Suites,0.6 miles to City center,3,642 reviews,78,adr179
+htl180,Inlet Tower Hotel And Suites,0.6 miles to City center,3,642 reviews,78,adr180
+htl181,SpringHill Suites Anchorage University Lake,3.6 miles to City center,4.5,510 reviews,,adr181
+htl182,La Quinta by Wyndham Anchorage Airport,2.1 miles to City center,4.5,191 reviews,,adr182
+htl183,Aviator Hotel Anchorage,0.2 miles to City center,3,199 reviews,89,adr183
+htl184,The Lakefront Anchorage,3.2 miles to City center,4,945 reviews,152,adr184
+htl185,Extended Stay America - Anchorage - Midtown,2.1 miles to City center,2.5,130 reviews,,adr185
+htl186,Extended Stay America - Anchorage - Downtown,0.4 miles to City center,2.5,136 reviews,,adr186
+htl187,Aptel Studio Hotel,2.6 miles to City center,3.5,51 reviews,84,adr187
+htl188,Holiday Inn Resort Bar Harbor - Acadia Natl Park,0.9 miles to City center,3.5,"1,409 reviews",,adr188
+htl189,Bar Harbor Motel,1.1 miles to City center,4.5,"1,924 reviews",,adr189
+htl190,Castlemaine Inn,0.4 miles to City center,4.5,329 reviews,,adr190
+htl191,Atlantic Oceanside Hotel & Conference Center,1.0 mile to City center,4,"1,376 reviews",,adr191
+htl192,Highbrook Motel,0.9 miles to City center,5,"1,007 reviews",,adr192
+htl193,The Bluenose Inn,0.8 miles to City center,4.5,"1,085 reviews",139,adr193
+htl194,Best Western Acadia Park Inn,4.5 miles to City center,4.5,"1,501 reviews",,adr194
+htl195,Hotel Kabuki - a Joie de Vivre Boutique Hotel,1.1 miles to City center,4,"2,522 reviews",224,adr195
+htl196,Harbor Court Hotel,0.9 miles to City center,4.5,"1,757 reviews",470,adr196
+htl197,Pier 2620 Hotel Fisherman's Wharf,1.3 miles to City center,4,"2,226 reviews",,adr197
+htl198,Hotel VIA,1.1 miles to City center,4.5,145 reviews,309,adr198
+htl199,Warwick San Francisco,0.2 miles to City center,4,702 reviews,188,adr199
+htl200,The Opal San Francisco,0.7 miles to City center,3.5,"1,218 reviews",149,adr200
+htl201,"Hotel Fusion, a C-Two Hotel",0.1 miles to City center,3.5,"1,393 reviews",231,adr201
+htl202,InterContinental Mark Hopkins,0.3 miles to City center,4,"2,834 reviews",350,adr202
+htl203,Executive Hotel Vintage Court,0.2 miles to City center,3.5,"1,286 reviews",186,adr203
+htl204,Hotel Contessa - Luxury Suites on the Riverwalk,0.2 miles to City center,4.5,"3,672 reviews",175,adr204
+htl205,Residence Inn By Marriott San Antonio Airport/Alamo Heights,6.6 miles to City center,4,38 reviews,118,adr205
+htl206,Hyatt Place San Antonio–North/Stone Oak,13 miles to City center,4.5,711 reviews,,adr206
+htl207,La Quinta by Wyndham San Antonio Downtown,0.6 miles to City center,4,"1,019 reviews",,adr207
+htl208,Hotel Emma,1.5 miles to City center,5,"3,093 reviews",276,adr208
+htl209,Hyatt Regency San Antonio Riverwalk,0.1 miles to City center,4.5,"3,931 reviews",135,adr209
+htl210,La Cantera Resort & Spa,15 miles to City center,4.5,"4,502 reviews",,adr210
+htl211,Courtyard by Marriott San Antonio Airport,6.8 miles to City center,4,212 reviews,89,adr211
+htl212,La Quinta by Wyndham San Antonio Airport,6.6 miles to City center,4,940 reviews,,adr212
+htl213,Universal's Cabana Bay Beach Resort,7.5 miles to City center,4.5,"19,279 reviews",169,adr213
+htl214,Adora Inn,24 miles to Orlando,5,558 reviews,169,adr214
+htl215,Mount Dora Cottages,24 miles to Orlando,5,308 reviews,,adr215
+htl216,Lakeside Inn,24 miles to Orlando,3.5,"1,099 reviews",139,adr216
+htl217,Best Western Plus Sanford Airport/Lake Mary Hotel,17 miles to Orlando,3.5,106 reviews,121,adr217
+htl218,Budget Inn Sanford,17 miles to Orlando,3,206 reviews,67,adr218
+htl219,Holiday Inn Orlando - Disney Springs® Area,14 miles to City center,4.5,"4,103 reviews",111,adr219
+htl220,Universal's Loews Sapphire Falls Resort,7.5 miles to City center,4.5,"4,276 reviews",224,adr220
+htl221,La Quinta by Wyndham Orlando Lake Mary,15 miles to Orlando,4,"1,013 reviews",,adr221
+htl222,Extended Stay America-Orlando-Lake Mary-1036 Greenwood Blvd,15 miles to Orlando,4,294 reviews,72,adr222
+htl223,Mount Dora Historic Inn,24 miles to Orlando,5,308 reviews,,adr223
+htl224,Grandview Bed and Breakfast Mount Dora,24 miles to Orlando,5,455 reviews,167,adr224
+htl225,Extended Stay America -Orlando-Lake Mary-1040 Greenwood Blvd,15 miles to Orlando,4,118 reviews,81,adr225
+htl226,Park Place Inn and Cottages,19 miles to Orlando,3,2 reviews,125,adr226
+htl227,Lakeside Inn and Cafe,24 miles to Orlando,4.5,83 reviews,89,adr227
